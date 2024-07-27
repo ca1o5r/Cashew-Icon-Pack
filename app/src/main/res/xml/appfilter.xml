@@ -1,180 +1,296 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest_1" />
+	<!--图标包应用-->
+	<item component="ComponentInfo{com.cashew.iconpack/com.cashew.iconpack.MainActivity}" drawable="cyanogenmod_theme_chooser" />
+	<item component="ComponentInfo{com.cashew.iconpack.lite/com.cashew.iconpack.lite.LiteIconActivity}" drawable="cyanogenmod_theme_chooser" />
+
+	<!--未定制图标-->
+	<!--NextPlayer-->
 	<item component="ComponentInfo{dev.anilbeesetti.nextplayer/dev.anilbeesetti.nextplayer.MainActivity}" drawable="flyme_video" />
+	<!--Apple Claasic/Apple古典乐-->
+	<item component="ComponentInfo{com.apple.android.music.classical/com.apple.android.music.classical.app.features.launcherscreen.ui.LauncherActivity}" drawable="xiaomi_music_alt" />
+	<!--Apple Music/Apple音乐-->
+	<item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="xiaomi_music" />
+	<!--OpenWeather-->
+	<item component="ComponentInfo{uk.co.openweather/uk.co.openweather.MainActivity}" drawable="weather" />
+	<item component="ComponentInfo{uk.co.openweather/uk.co.openweather.SplashActivity}" drawable="weather" />
+	<!--Android广播接收器-->
+	<item component="ComponentInfo{com.android.cellbroadcastreceiver.overlay.common/.MainActivity}" drawable="google_play_service" />
+	<item component="ComponentInfo{com.android.cellbroadcastreceiver/.MainActivity}" drawable="google_play_service" />
+	<!--Google Cell Broadcast Receiver/Google广播接收器-->
+	<item component="ComponentInfo{com.google.android.cellbroadcastreceiver/.MainActivity}" drawable="google_play_service" />
+	<item component="ComponentInfo{com.google.android.cellbroadcastservice/.MainActivity}" drawable="google_play_service" />
+	<!--Google AR Service/Google AR服务-->
+	<item component="ComponentInfo{com.google.ar.core/.MainActivity}" drawable="google_play_service" />
+	<!--Google Talkback-->
+	<item component="ComponentInfo{com.google.android.marvin.talkback/.MainActivity}" drawable="google_now_enabler" />
+	<!--Google Streaming Service/Google跨设备服务-->
+	<item component="ComponentInfo{com.google.ambient.streaming/.MainActivity}" drawable="screener" />
+	<!--Google Restore/Google数据恢复服务-->
+	<item component="ComponentInfo{com.google.android.apps.restore/.MainActivity}" drawable="app_backup_restore_transfer" />
+	<!--Google Private Compute Service/Google私有计算服务-->
+	<item component="ComponentInfo{com.google.android.as.oss/.MainActivity}" drawable="google_play_service" />
+	<!--Google Wi-Fi Provisioner/Google W-Fi服务-->
+	<item component="ComponentInfo{com.google.android.apps.carrier.carrierwifi/.MainActivity}" drawable="google_play_service" />
+	<!--Android紧急警报-->
+	<item component="ComponentInfo{com.android.emergency/.MainActivity}" drawable="google_play_service" />
+	<!--Google Partner Setup/Google合作伙伴设置-->
+	<item component="ComponentInfo{com.google.android.partnersetup/.MainActivity}" drawable="google_play_service" />
+	<!--Family Link Parental Controls/家长控制-->
+	<item component="ComponentInfo{com.google.android.gms.supervision/.MainActivity}" drawable="google_play_service" />
+	<!--Google Mobile Service/Google移动服务-->
+	<item component="ComponentInfo{com.google.android.gms/.MainActivity}" drawable="google_play_service" />
+	<!--Android文件管理-->
+	<item component="ComponentInfo{com.google.android.overlay.modules.documentsui/.MainActivity}" drawable="cyanogenmod_file_manager" />
+	<item component="ComponentInfo{com.google.android.documentsui/.MainActivity}" drawable="cyanogenmod_file_manager" />
+	<!--Nothing Widgets/Nothing微件-->
+	<item component="ComponentInfo{com.nothing.hearthstone/.MainActivity}" drawable="mi_control_center" />
+	<!--Nothing Launcher/Nothing启动器-->
+	<item component="ComponentInfo{com.nothing.launcher.overlay.config/.MainActivity}" drawable="nubia_zbiglauncher" />
+	<item component="ComponentInfo{com.nothing.launcher/.MainActivity}" drawable="nubia_zbiglauncher" />
+	<!--Android Auto/Android汽车-->
+	<item component="ComponentInfo{com.google.android.projection.gearhead/.MainActivity}" drawable="airbrush" />
+	<!--Health Connect/健康数据共享-->
+	<item component="ComponentInfo{com.google.android.apps.healthdata/.MainActivity}" drawable="emui_health" />
+	<!--云之家-->
+	<item component="ComponentInfo{com.kdweibo.client/com.kdweibo.android.ui.activity.StartActivity}" drawable="qcloud" />
+	<!--小宇宙-->
+	<item component="ComponentInfo{app.podcast.cosmos/io.iftech.android.podcast.app.home.main.view.MainActivity}" drawable="xiaomi_browser" />
+	<!--录音机-->
+	<item component="ComponentInfo{com.nothing.soundrecorder/com.nothing.soundrecorder.ui.NewMainActivity}" drawable="oppo_sound_recorder" />
+	<!--天气-->
+	<item component="ComponentInfo{com.nothing.weather/com.nothing.weather.ui.main.MainActivity}" drawable="pure_weather_1" />
+	<!--Google Personal Safety/Google个人安全-->
+	<item component="ComponentInfo{com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.LauncherActivity}" drawable="nubia_security" />
+	<!--E-CNY/数字人民币-->
+	<item component="ComponentInfo{cn.gov.pbc.dcep/cn.gov.pbc.dcep.DcepLauncherActivity}" drawable="folder_payment" />
+	<!--Photomath-->
+	<item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.activity.LauncherActivity}" drawable="netease_super_calculator" />
+	<!--Google Find My Device/Google查找设备-->
+	<item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}" drawable="emui_findmyphone" />
+	<!--NFC卡模拟-->
+	<item component="ComponentInfo{com.yuanwofei.cardemulator.pro/com.yuanwofei.cardemulator.MainActivity}" drawable="nfc_emulator" />
+
+	<!--Pinterest-->
+	<item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest_1" />
+
+	<!--Google Play Movie-->
 	<item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="google_play_movies_1" />
+	<item component="ComponentInfo{com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint}" drawable="google_play_movies_1" />
+
+	<!--YouTube-->
 	<item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="google_youtube" />
+
+	<!--Google Earth/Google地球-->
 	<item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.flutter.EarthFlutterActivity}" drawable="google_earth" />
 	<item component="ComponentInfo{com.google.earth/com.google.android.apps.earth.EarthActivity}" drawable="google_earth" />
 	<item component="ComponentInfo{com.google.earth/com.google.earth.EarthActivity}" drawable="google_earth" />
+
+	<!--Kindle-->
 	<item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="kindle_1" />
 	<item component="ComponentInfo{com.amazon.kindlefc/com.amazon.kindle.UpgradePage}" drawable="kindle_1"/>
+
+	<!--Wordpress-->
 	<item component="ComponentInfo{org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="wordpress_compressed" />
+
+	<!--Google News/Google新闻-->
 	<item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="google_news_weather" />
+
+	<!--Google Maps/Google地图-->
 	<item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="google_maps_1" />
+
+	<!--Uber Eats/优步外送-->
 	<item component="ComponentInfo{com.ubercab.eats/com.ubercab.eats.core.activity.LauncherActivity}" drawable="uber_eats" />
+
+	<!--Burger King/汉堡王-->
 	<item component="ComponentInfo{com.emn8.mobilem8.nativeapp.bk/com.emn8.mobilem8.nativeapp.bk.MainActivity}" drawable="burgerking" />
+
+	<!--Starbucks/星巴克-->
 	<item component="ComponentInfo{com.starbucks.mobilecard/com.starbucks.mobilecard.main.activity.LandingPageActivity}" drawable="starbucks_1" />
+	<item component="ComponentInfo{com.starbucks.cn/com.starbucks.cn.home.revamp.launch.RevampLaunchActivity}" drawable="starbucks_1" />
+
+	<!--KFC/肯德基-->
 	<item component="ComponentInfo{com.kfc.us.mobile/com.kfc.us.mobile.MainActivity}" drawable="kfc_1" />
+	<item component="ComponentInfo{com.yek.android.kfc.activitys/com.yum.brandkfc.SplashAct}" drawable="kfc_1"/>
+
+	<!--Pizza Hut/必胜客-->
 	<item component="ComponentInfo{com.yum.pizzahut/com.isobar.pizzahut.android.MainActivity}" drawable="pizzahut" />
+	<item component="ComponentInfo{com.yumc.phsuperapp/com.yum.ph.SplashAct}" drawable="pizzahut" />
+
+	<!--McDonald's/麦当劳-->
 	<item component="ComponentInfo{com.mcdonalds.app/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds_1" />
+	<item component="ComponentInfo{com.mcdonalds.gma.cn/com.mcdonalds.gma.cn.activity.LaunchActivity}" drawable="mcdonalds_1" />
+
+	<!--Dominos/达美乐-->
 	<item component="ComponentInfo{com.dominospizza/com.dominos.loadingscreen.InitialLaunchActivity}" drawable="dominos" />
+	<item component="ComponentInfo{cn.dominos.pizza/cn.dominos.pizza.MainActivity}" drawable="dominos" />
+
+	<!--Google Voice-->
 	<item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="google_voice_1"/>
+
+	<!--美团外卖-->
 	<item component="ComponentInfo{com.sankuai.meituan.takeoutnew/com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity}" drawable="mtwm" />
+
+	<!--美团-->
 	<item component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.MainActivity}" drawable="meituan_1"/>
 	<item component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.Welcome}" drawable="meituan_1" />
 	<item component="ComponentInfo{com.sankuai.meituan/com.sankuai.meituan.activity.Welcome}" drawable="meituan_1" />
+
+	<!--央视频-->
 	<item component="ComponentInfo{com.cctv.yangshipin.app.androidp/com.tencent.videolite.android.ui.SplashActivity}" drawable="yangshipin"/>
+
+	<!--盒马-->
 	<item component="ComponentInfo{com.wudaokou.hippo/com.wudaokou.hippo.base.activity.splash.InitActivity}" drawable="wudaokou_hippo" />
 	<item component="ComponentInfo{com.wudaokou.hippo/com.wudaokou.hippo.launcher.splash.SplashActivity}" drawable="wudaokou_hippo"/>
+
+	<!--饿了么-->
 	<item component="ComponentInfo{me.ele/me.ele.Launcher}" drawable="eleme_1" />
+
+	<!--菜鸟-->
 	<item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.presentation.view.activity.HomepageActivity}" drawable="cainiao" />
-	<item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.presentation.view.activity.NewHomepageActivity}" drawable="cainiao"/>
 	<item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.presentation.view.activity.NewHomepageActivity}" drawable="cainiao"/>
 	<item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.HomePageActivity}" drawable="cainiao"/>
 	<item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}" drawable="cainiao"/>
-	<item component="ComponentInfo{com.apple.android.music.classical/com.apple.android.music.classical.app.features.launcherscreen.ui.LauncherActivity}" drawable="xiaomi_music_alt" />
-	<item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="xiaomi_music" />
+
+	<!--PayPal-->
 	<item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal_1"/>
+
+	<!--Bilibili/哔哩哔哩-->
 	<item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.MainActivityV2}" drawable="bilibili_blue_1"/>
 	<item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili_blue_1" />
 	<item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}" drawable="bilibili_blue_1" />
 	<item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili_blue_1" />
-	<item component="ComponentInfo{uk.co.openweather/uk.co.openweather.MainActivity}" drawable="weather" />
-	<item component="ComponentInfo{uk.co.openweather/uk.co.openweather.SplashActivity}" drawable="weather" />
-	<item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="firefox_1" />
+
+	<!--Firefox/火狐-->
 	<item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="firefox_1" />
 	<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox_1" />
 	<item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox_1" />
 	<item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="firefox_1" />
-	<item component="ComponentInfo{org.mozilla.focus/org.mozilla.focus.activity.MainActivity}" drawable="firefox_1" />
+
+	<!--携程-->
 	<item component="ComponentInfo{ctrip.android.view/ctrip.android.view.home.CtripDeclarationActivity}" drawable="ctrip_1" />
 	<item component="ComponentInfo{ctrip.android.view/ctrip.android.view.view.CtripDeclarationActivity}" drawable="ctrip_1" />
 	<item component="ComponentInfo{ctrip.android.view/ctrip.business.splash.CtripSplashActivity}" drawable="ctrip_1" />
 	<item component="ComponentInfo{com.ctrip.ct/com.ctrip.ct.ui.activity.BusinessActivity}" drawable="ctrip_1" />
 	<item component="ComponentInfo{com.ctrip.jikecar/ctrip.business.splash.CtripSplashActivity}" drawable="ctrip_1" />
+
+	<!--WeChat/微信-->
 	<item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="tencent_wechat" />
+
+	<!--大众点评-->
 	<item component="ComponentInfo{com.dianping.v1/com.dianping.v1.NovaMainActivity}" drawable="dianping_1" />
 	<item component="ComponentInfo{com.dianping.v1/com.dianping.base.permission.PermissionActivity}" drawable="dianping_1" />
 	<item component="ComponentInfo{com.dianping.v1/com.dianping.main.guide.SplashScreenActivity}" drawable="dianping_1" />
-	<item component="ComponentInfo{com.dianping.v1/com.dianping.main.guide.SplashScreenActivity}" drawable="dianping_1" />
-	<item component="ComponentInfo{com.dianping.v1/com.dianping.main.guide.SplashScreenActivity}" drawable="dianping_1" />
-	<item component="ComponentInfo{com.dianping.v1/com.dianping.main.permission.PermissionActivity}" drawable="dianping_1" />
 	<item component="ComponentInfo{com.dianping.v1/com.dianping.main.permission.PermissionActivity}" drawable="dianping_1" />
 	<item component="ComponentInfo{com.dianping.v1/com.dianping.v1.PermissionActivity}" drawable="dianping_1" />
 	<item component="ComponentInfo{com.dianping.v1/com.dianping.v1.SplashScreenActivity}" drawable="dianping_1" />
 	<item component="ComponentInfo{com.dianping.v1/com.qihoo.util.StartActivity}" drawable="dianping_1" />
-	<item component="ComponentInfo{com.android.cellbroadcastreceiver.overlay.common/.MainActivity}" drawable="google_play_service" />
-	<item component="ComponentInfo{com.android.cellbroadcastreceiver/.MainActivity}" drawable="google_play_service" />
-	<item component="ComponentInfo{com.google.android.cellbroadcastreceiver/.MainActivity}" drawable="google_play_service" />
-	<item component="ComponentInfo{com.google.android.cellbroadcastservice/.MainActivity}" drawable="google_play_service" />
-	<item component="ComponentInfo{com.google.ar.core/.MainActivity}" drawable="google_play_service" />
-	<item component="ComponentInfo{com.google.android.marvin.talkback/.MainActivity}" drawable="google_now_enabler" />
-	<item component="ComponentInfo{com.google.ambient.streaming/.MainActivity}" drawable="screener" />
-	<item component="ComponentInfo{com.google.android.apps.restore/.MainActivity}" drawable="app_backup_restore_transfer" />
-	<item component="ComponentInfo{com.google.android.as.oss/.MainActivity}" drawable="google_play_service" />
-	<item component="ComponentInfo{com.google.android.apps.carrier.carrierwifi/.MainActivity}" drawable="google_play_service" />
-	<item component="ComponentInfo{com.android.emergency/.MainActivity}" drawable="google_play_service" />
-	<item component="ComponentInfo{com.google.android.overlay.modules.documentsui/.MainActivity}" drawable="cyanogenmod_file_manager" />
-	<item component="ComponentInfo{com.google.android.documentsui/.MainActivity}" drawable="cyanogenmod_file_manager" />
-	<item component="ComponentInfo{com.google.android.partnersetup/.MainActivity}" drawable="google_play_service" />
-	<item component="ComponentInfo{com.nothing.hearthstone/.MainActivity}" drawable="mi_control_center" />
-	<item component="ComponentInfo{com.nothing.hearthstone/.MainActivity}" drawable="mi_control_center" />
-	<item component="ComponentInfo{com.nothing.launcher.overlay.config/.MainActivity}" drawable="nubia_zbiglauncher" />
-	<item component="ComponentInfo{com.nothing.launcher/.MainActivity}" drawable="nubia_zbiglauncher" />
+
+	<!--闲鱼-->
 	<item component="ComponentInfo{com.taobao.fleamarket/com.taobao.fleamarket.activity.InitActivity}" drawable="ali_xianyu" />
 	<item component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity.Round}" drawable="ali_xianyu" />
 	<item component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}" drawable="ali_xianyu" />
+
+	<!--Google Message/Google消息-->
 	<item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="message" />
+
+	<!--Google Play Store/Google应用商店-->
 	<item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="google_play_store" />
+
+	<!--Google TTS/Google语音识别和语音合成-->
 	<item component="ComponentInfo{com.google.android.tts/.MainActivity}" drawable="google_voice_search" />
+
+	<!--Google System Intelligence/Google系统智能-->
 	<item component="ComponentInfo{com.google.android.as/.MainActivity}" drawable="google_2" />
-	<item component="ComponentInfo{com.google.android.gms.supervision/.MainActivity}" drawable="google_1" />
-	<item component="ComponentInfo{com.google.android.projection.gearhead/.MainActivity}" drawable="airbrush" />
-	<item component="ComponentInfo{com.yek.android.kfc.activitys/com.yum.brandkfc.SplashAct}" drawable="kfc_1"/>
-	<item component="ComponentInfo{com.starbucks.cn/com.starbucks.cn.home.revamp.launch.RevampLaunchActivity}" drawable="starbucks_1" />
-	<item component="ComponentInfo{com.yumc.phsuperapp/com.yum.ph.SplashAct}" drawable="pizzahut" />
-	<item component="ComponentInfo{cn.dominos.pizza/cn.dominos.pizza.MainActivity}" drawable="dominos" />
-	<item component="ComponentInfo{com.mcdonalds.gma.cn/com.mcdonalds.gma.cn.activity.LaunchActivity}" drawable="mcdonalds_1" />
+
+	<!--中国移动-->
 	<item component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.mc10086.cmcc.base.StartPageActivity}" drawable="a10086" />
 	<item component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.leadeon.cmcc.base.StartPageActivity}" drawable="a10086" />
+
+	<!--猫眼-->
 	<item component="ComponentInfo{com.sankuai.movie/com.sankuai.movie.welcome.Welcome}" drawable="maoyan_1" />
+
+	<!--淘票票-->
 	<item component="ComponentInfo{com.taobao.movie.android/com.taobao.movie.android.app.home.activity.SplashActivity}" drawable="ali_taobao_dianying" />
 	<item component="ComponentInfo{com.taobao.movie.android/com.taobao.movie.android.app.home.activity.MainActivity}" drawable="ali_taobao_dianying" />
+
+	<!--小红书-->
 	<item component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.index.v2.IndexActivityV2}" drawable="xiaohongshu_1"/>
 	<item component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.activity.SplashActivity}" drawable="xiaohongshu_1"/>
+
+	<!--FX-->
 	<item component="ComponentInfo{nextapp.fx/nextapp.fx.ui.textedit.TextEditorActivity}" drawable="fx" />
 	<item component="ComponentInfo{nextapp.fx/nextapp.fx.ui.ExplorerActivity}" drawable="fx" />
 	<item component="ComponentInfo{nextapp.fx.rk/.MainActivity}" drawable="fx" />
-	<item component="ComponentInfo{com.google.android.apps.healthdata/.MainActivity}" drawable="emui_health" />
-	<item component="ComponentInfo{com.google.android.gms/.MainActivity}" drawable="google_play_service" />
+
+	<!--Android System WebView-->
 	<item component="ComponentInfo{com.google.android.webview/.MainActivity}" drawable="google_chromium" />
+
+	<!--Alipay/支付宝-->
 	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" drawable="alipay_alt2" />
+
+	<!--Authy2-->
 	<item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy2_compressed" />
+
+	<!--高德地图-->
 	<item component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}" drawable="amap" />
-	<item component="ComponentInfo{com.kdweibo.client/com.kdweibo.android.ui.activity.StartActivity}" drawable="qcloud" />
-	<item component="ComponentInfo{app.podcast.cosmos/io.iftech.android.podcast.app.home.main.view.MainActivity}" drawable="xiaomi_browser" />
+
+	<!--Nova Launcher Prime/Nova启动器付费版-->
 	<item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="nova_launcher_prime" />
+	<item component="ComponentInfo{com.teslacoilsw.launcher.prime/android.app.AppDetailsActivity}" drawable="nova_launcher_prime" />
+
+	<!--Nova Launcher/Nova启动器-->
 	<item component="ComponentInfo{com.teslacoilsw.launcher/.preferences.SettingsActivity}" drawable="nova_launcher" />
 	<item component="ComponentInfo{com.teslacoilsw.launcher/preferences.SettingsActivity}" drawable="nova_launcher" />
-	<item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova_launcher" />
-	<item component="ComponentInfo{com.teslacoilsw.notifier/com.teslacoilsw.notifier.NotifierSettings}" drawable="nova_launcher_settings" />
-	<item component="ComponentInfo{com.teslacoilsw.launcherclientproxy/com.teslacoilsw.launcherclientproxy.MainActivity}" drawable="nova_launcher" />
-	<item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="nova_launcher" />
 	<item component="ComponentInfo{com.teslacoilsw.launcher/com.android.launcher2.Launcher}" drawable="nova_launcher" />
-	<item component="ComponentInfo{com.teslacoilsw.launcher.prime/android.app.AppDetailsActivity}" drawable="nova_launcher_prime" />
+	<item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova_launcher" />
+	<item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="nova_launcher" />
+	<item component="ComponentInfo{com.teslacoilsw.launcherclientproxy/com.teslacoilsw.launcherclientproxy.MainActivity}" drawable="nova_launcher" />
+
+	<!--Nova Launcher Notifier Settings/Nova启动器通知设置-->
+	<item component="ComponentInfo{com.teslacoilsw.notifier/com.teslacoilsw.notifier.NotifierSettings}" drawable="nova_launcher_settings" />
+
+	<!--Amazon/亚马逊-->
 	<item component="ComponentInfo{cn.amazon.mShop.android/com.amazon.mshop.page.activity.LauncherActivity}" drawable="amazon" />
+
+	<!--中国铁路12306-->
 	<item component="ComponentInfo{com.chinarailway.globalticketing/com.MobileTicket.ui.activity.WelcomeGuideActivity}" drawable="t_12306" />
+
+	<!--Tiktok/抖音-->
 	<item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="douyin" />
+
+	<!--Gboard/Google键盘-->
 	<item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.libraries.inputmethod.launcher.LauncherActivity}" drawable="gboard" />
+
+	<!--Wellbeing/数字健康-->
 	<item component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity}" drawable="wellbeing" />
-	<item component="ComponentInfo{com.nothing.soundrecorder/com.nothing.soundrecorder.ui.NewMainActivity}" drawable="oppo_sound_recorder" />
-	<item component="ComponentInfo{com.nothing.weather/com.nothing.weather.ui.main.MainActivity}" drawable="pure_weather_1" />
-	<item component="ComponentInfo{com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint}" drawable="google_play_movies_1" />
-	<item component="ComponentInfo{com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.LauncherActivity}" drawable="nubia_security" />
+
+	<!--Airbnb/爱彼迎-->
 	<item component="ComponentInfo{com.airbnb.android/com.airbnb.android.feat.splashscreen.SplashScreenActivity}" drawable="airbnb" />
+
+	<!--Uber/优步-->
 	<item component="ComponentInfo{com.ubercab/com.ubercab.presidio.app.core.root.RootActivity}" drawable="uber" />
-	<item component="ComponentInfo{cn.gov.pbc.dcep/cn.gov.pbc.dcep.DcepLauncherActivity}" drawable="folder_payment" />
+
+	<!--GitHub-->
 	<item component="ComponentInfo{com.github.android/com.github.android.main.MainActivity}" drawable="openhub" />
-	<item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.activity.LauncherActivity}" drawable="netease_super_calculator" />
+
+	<!--Google Arts Culture/Google艺术文化-->
 	<item component="ComponentInfo{com.google.android.apps.cultural/com.google.android.apps.cultural.flutter.HomeFlutterActivity}" drawable="google_arts_culture" />
+
+	<!--GCores/机核-->
 	<item component="ComponentInfo{me.tangke.gamecores/com.gcores.app.AliasActivityDefault}" drawable="gamecores" />
+
+	<!--快递100-->
 	<item component="ComponentInfo{com.Kingdee.Express/com.Kingdee.Express.module.splash.SplashActivity}" drawable="express_100" />
+
+	<!--SoundCloud-->
 	<item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.launcher.LauncherActivity}" drawable="soundcloud" />
-	<item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}" drawable="emui_findmyphone" />
-	<item component="ComponentInfo{com.yuanwofei.cardemulator.pro/com.yuanwofei.cardemulator.MainActivity}" drawable="nfc_emulator" />
+
+	<!--Uniqlo/优衣库-->
 	<item component="ComponentInfo{com.yek.android.uniqlo/com.yek.android.uniqlo.activity.WelcomeActivity}" drawable="uniqlo" />
+
+	<!--IKEA/宜家-->
 	<item component="ComponentInfo{com.ingka.ikea.app.cn.prod/com.ingka.ikea.app.SplashActivity}" drawable="ikea" />
-	<!-- <iconback
-	img1="icon_back_1"
-	img2="icon_back_2"
-	img3="icon_back_3"
-	img4="icon_back_4"
-	img5="icon_back_5"
-	img6="icon_back_6"
-	img7="icon_back_7"
-	img8="icon_back_8"
-	img9="icon_back_9"
-	img10="icon_back_10"
-	img11="icon_back_11"
-	img12="icon_back_12"
-	img13="icon_back_13"
-	img14="icon_back_14"
-	 /> -->
-	<!--<iconmask-->
-	<!--img1="icon_mask" />-->
-	<!--<iconupon-->
-	<!--img1="icon_upon" />-->
-	<!-- <scale
-	factor="0.5" /> -->
-
-	<!--self-->
-	<item component="ComponentInfo{com.cashew.iconpack/com.cashew.iconpack.MainActivity}" drawable="sorcery_icons" />
-	<item component="ComponentInfo{com.cashew.iconpack.lite/com.by_syk.nanoiconpack.lite.LiteIconActivity}" drawable="sorcery_icons" />
-	<item component="ComponentInfo{com.cashew.iconpack.lite/com.cashew.iconpack.lite.LiteIconActivity}" drawable="sorcery_icons" />
-	<item component="ComponentInfo{com.cashew.iconpack/com.by_syk.lib.nanoiconpack.MainActivity}" drawable="sorcery_icons" />
-
-	<!-- 系统 / System -->
 
 	<!-- 日历 / Calendar -->
 	<calendar component="ComponentInfo{com.android.calendar/com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary}" prefix="calendar_d"/>
