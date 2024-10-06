@@ -7,7 +7,7 @@ if [ ! -f "$Src_APP_Filter_XML_File_Name" ]; then
     exit 1
 fi
 
-ADB_Path=/opt/Android-SDK-Platform-Tools/adb
+ADB_Path=/opt/Android-SDK/platform-tools/adb
 Packages=$($ADB_Path shell pm list packages)
 
 APP_Filter_XML_Begin_Line_Number=$(grep -n "<resources>" "$Src_APP_Filter_XML_File_Name" | cut -d: -f 1)

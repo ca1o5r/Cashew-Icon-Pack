@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<!--	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.ui.SplashActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.StartupActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{cn.futu.trader/cn.futu.trader.launch.activity.LaunchActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.sf.activity/com.sf.activity.MainActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.DEFAULT}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.EcoLauncherActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.wbd.stream/com.wbd.fuse.appcore.FuseActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.novoda.dch/com.digitalconcerthall.intro.StartupActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.criterionchannel/tv.vhx.LauncherActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.tongliebookcity.android/com.tongliebookcity.android.Activity.SplashActivity}" drawable="sleep_as_android" />-->
+
 	<!--图标包应用-->
 	<item component="ComponentInfo{com.cashew.iconpack/com.cashew.iconpack.MainActivity}" drawable="cyanogenmod_theme_chooser" />
 	<item component="ComponentInfo{com.cashew.iconpack.lite/com.cashew.iconpack.lite.LiteIconActivity}" drawable="cyanogenmod_theme_chooser" />
@@ -70,6 +84,9 @@
 	<item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}" drawable="emui_findmyphone" />
 	<!--NFC卡模拟-->
 	<item component="ComponentInfo{com.yuanwofei.cardemulator.pro/com.yuanwofei.cardemulator.MainActivity}" drawable="nfc_emulator" />
+
+	<!--京东快递-->
+	<item component="ComponentInfo{com.jd.jdlogistic/com.jd.jdlogistic.flutter.HomeActivity}" drawable="jdl" />
 
 	<!--Pinterest-->
 	<item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest_1" />
