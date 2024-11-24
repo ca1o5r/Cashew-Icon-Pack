@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<!--	<item component="ComponentInfo{com.disney.shanghaidisneyland_goo/com.disney.wdpro.park.activities.SplashActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.startup.activity.SplashActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.ui.SplashActivity}" drawable="sleep_as_android" />-->
 <!--	<item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="sleep_as_android" />-->
 <!--	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.StartupActivity}" drawable="sleep_as_android" />-->
@@ -84,6 +86,15 @@
 	<item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}" drawable="emui_findmyphone" />
 	<!--NFC卡模拟-->
 	<item component="ComponentInfo{com.yuanwofei.cardemulator.pro/com.yuanwofei.cardemulator.MainActivity}" drawable="nfc_emulator" />
+
+	<!--VLC-->
+	<item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc" />
+	<item component="ComponentInfo{org.videolan.vlc/com.android.internal.app.ResolverActivity}" drawable="" />
+
+	<!--Wikipedia/维基百科-->
+	<item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.DefaultIcon}" drawable="" />
+	<item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
+	<item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
 
 	<!--京东快递-->
 	<item component="ComponentInfo{com.jd.jdlogistic/com.jd.jdlogistic.flutter.HomeActivity}" drawable="jdl" />
@@ -302,6 +313,7 @@
 
 	<!--SoundCloud-->
 	<item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.launcher.LauncherActivity}" drawable="soundcloud" />
+	<item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.launcher.LauncherActivityOgIconAlias}" drawable="" />
 
 	<!--Uniqlo/优衣库-->
 	<item component="ComponentInfo{com.yek.android.uniqlo/com.yek.android.uniqlo.activity.WelcomeActivity}" drawable="uniqlo" />
@@ -2011,9 +2023,6 @@
 	<item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
 	<item component="ComponentInfo{org.telegram.plus/org.telegram.ui.LaunchActivity}" drawable="plus"/>
 	<item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram_x" />
-	<item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc" />
-	<item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
-	<item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
 	<item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity}" drawable="speedtest" />
 	<item component="ComponentInfo{person.cjy.iconpack.mistiness/person.cjy.iconpack.mistiness.MainActivity}" drawable="mistiness"/>
 	<item component="ComponentInfo{photo.editor.polarr/co.polarr.polarrphotoeditor.EditorActivity}" drawable="polarr" />
