@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!--	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.GuideActivity}" drawable="sleep_as_android" />-->
-<!--	<item component="ComponentInfo{com.htinns/com.huazhu.loading.LoadingActivity}" drawable="sleep_as_android" />-->
-<!--	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.activity.LaunchActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.GuideActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.htinns/com.huazhu.loading.LoadingActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.activity.LaunchActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.disney.shanghaidisneyland_goo/com.disney.wdpro.park.activities.SplashActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.startup.activity.SplashActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.ui.SplashActivity}" drawable="sleep_as_android" />-->
-<!--	<item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="sleep_as_android" />-->
-<!--	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.StartupActivity}" drawable="sleep_as_android" />-->
-<!--	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="sleep_as_android" />-->
-<!--	<item component="ComponentInfo{cn.futu.trader/cn.futu.trader.launch.activity.LaunchActivity}" drawable="sleep_as_android" />-->
-<!--	<item component="ComponentInfo{com.sf.activity/com.sf.activity.MainActivity}" drawable="sleep_as_android" />-->
-<!--	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.DEFAULT}" drawable="sleep_as_android" />-->
-<!--	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.EcoLauncherActivity}" drawable="sleep_as_android" />-->
-<!--	<item component="ComponentInfo{com.wbd.stream/com.wbd.fuse.appcore.FuseActivity}" drawable="sleep_as_android" />-->
-<!--	<item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="sleep_as_android" />-->
-<!--	<item component="ComponentInfo{com.novoda.dch/com.digitalconcerthall.intro.StartupActivity}" drawable="sleep_as_android" />-->
-<!--	<item component="ComponentInfo{com.criterionchannel/tv.vhx.LauncherActivity}" drawable="sleep_as_android" />-->
-<!--	<item component="ComponentInfo{com.tongliebookcity.android/com.tongliebookcity.android.Activity.SplashActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.ui.SplashActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.StartupActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{cn.futu.trader/cn.futu.trader.launch.activity.LaunchActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.sf.activity/com.sf.activity.MainActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.DEFAULT}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.EcoLauncherActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.wbd.stream/com.wbd.fuse.appcore.FuseActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.novoda.dch/com.digitalconcerthall.intro.StartupActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.criterionchannel/tv.vhx.LauncherActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.tongliebookcity.android/com.tongliebookcity.android.Activity.SplashActivity}" drawable="" />-->
 
 	<!--图标包应用-->
 	<item component="ComponentInfo{com.cashew.iconpack/com.cashew.iconpack.MainActivity}" drawable="cyanogenmod_theme_chooser" />
@@ -92,10 +92,10 @@
 
 	<!--VLC-->
 	<item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc" />
-	<item component="ComponentInfo{org.videolan.vlc/com.android.internal.app.ResolverActivity}" drawable="" />
+	<item component="ComponentInfo{org.videolan.vlc/com.android.internal.app.ResolverActivity}" drawable="vlc" />
 
 	<!--Wikipedia/维基百科-->
-	<item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.DefaultIcon}" drawable="" />
+	<item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.DefaultIcon}" drawable="wikipedia" />
 	<item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
 	<item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
 
@@ -316,7 +316,7 @@
 
 	<!--SoundCloud-->
 	<item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.launcher.LauncherActivity}" drawable="soundcloud" />
-	<item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.launcher.LauncherActivityOgIconAlias}" drawable="" />
+	<item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.launcher.LauncherActivityOgIconAlias}" drawable="soundcloud" />
 
 	<!--Uniqlo/优衣库-->
 	<item component="ComponentInfo{com.yek.android.uniqlo/com.yek.android.uniqlo.activity.WelcomeActivity}" drawable="uniqlo" />
