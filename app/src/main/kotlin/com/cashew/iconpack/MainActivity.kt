@@ -37,41 +37,41 @@ class MainActivity : BottomNavigationBlueprintActivity() {
         super.onCreate(savedInstanceState)
         //弹出对话框提示用户隐私协议，用户点击同意后才能使用应用
         //检查是否储存了用户的同意状态，如果没有则弹出对话框
-        var check = getSharedPreferences("privacy", MODE_PRIVATE).getBoolean("agree", false)
-        if (!check) {
-            //弹出对话框
-
-            // 创建一个AlertDialog.Builder对象
-            val builder = AlertDialog.Builder(this)
-
-            // 设置对话框的标题和消息
-            builder.setTitle("隐私保护政策")
-            //读取assets文件夹下的privacy.txt文件
-            val inputStream = assets.open("privacy.txt")
-            val size = inputStream.available()
-            val buffer = ByteArray(size)
-            inputStream.read(buffer)
-            inputStream.close()
-            val text = String(buffer)
-            builder.setMessage(text)
-
-            // 设置对话框的按钮
-            builder.setPositiveButton("同意", DialogInterface.OnClickListener { dialog, id ->
-                // 用户点击了确定按钮
-                // 保存用户的同意状态
-                getSharedPreferences("privacy", MODE_PRIVATE).edit().putBoolean("agree", true)
-                    .apply()
-            })
-
-            builder.setNegativeButton("退出", DialogInterface.OnClickListener { dialog, id ->
-                // 用户取消了对话框
-                finish()
-            })
-
-            // 创建并显示对话框
-            builder.create().show()
-
-        }
+//        var check = getSharedPreferences("privacy", MODE_PRIVATE).getBoolean("agree", false)
+//        if (!check) {
+//            //弹出对话框
+//
+//            // 创建一个AlertDialog.Builder对象
+//            val builder = AlertDialog.Builder(this)
+//
+//            // 设置对话框的标题和消息
+//            builder.setTitle("隐私保护政策")
+//            //读取assets文件夹下的privacy.txt文件
+//            val inputStream = assets.open("privacy.txt")
+//            val size = inputStream.available()
+//            val buffer = ByteArray(size)
+//            inputStream.read(buffer)
+//            inputStream.close()
+//            val text = String(buffer)
+//            builder.setMessage(text)
+//
+//            // 设置对话框的按钮
+//            builder.setPositiveButton("同意", DialogInterface.OnClickListener { dialog, id ->
+//                // 用户点击了确定按钮
+//                // 保存用户的同意状态
+//                getSharedPreferences("privacy", MODE_PRIVATE).edit().putBoolean("agree", true)
+//                    .apply()
+//            })
+//
+//            builder.setNegativeButton("退出", DialogInterface.OnClickListener { dialog, id ->
+//                // 用户取消了对话框
+//                finish()
+//            })
+//
+//            // 创建并显示对话框
+//            builder.create().show()
+//
+//        }
 
     }
 

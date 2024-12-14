@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<!--	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.GuideActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.htinns/com.huazhu.loading.LoadingActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.activity.LaunchActivity}" drawable="sleep_as_android" />-->
 <!--	<item component="ComponentInfo{com.disney.shanghaidisneyland_goo/com.disney.wdpro.park.activities.SplashActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.startup.activity.SplashActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.ui.SplashActivity}" drawable="sleep_as_android" />-->
