@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<!--	<item component="ComponentInfo{com.access_company.android.sh_jumpplus/giga.app.MainActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{jp.co.kodansha.android.magazinepocket/com.sega.mage2.ui.common.activities.SplashActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{website.leifs.delta/website.leifs.delta.activities.MainActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{jp.co.shueisha.youngjump.android/jp.co.shueisha.youngjump.android.MainActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{tv.pluto.android/tv.pluto.android.EntryPoint}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.tubitv/com.tubitv.activities.MainActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{jp.co.shogakukan.sunday_webry/jp.co.shogakukan.sunday_webry.presentation.rootnavigation.RootNavigationActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{jp.co.kodansha.comicdays/com.goodpatch.comicdays.presentation.launch.view.LaunchActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.blizzard.arc/com.blizzard.gryphon.unity.player.GryphonUnityPlayerActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.tencent.qqsports/com.tencent.qqsports.ui.SplashActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="" />-->
+<!--	<item component="ComponentInfo{com.nothing.gallery/com.nothing.gallery.activity.EntryActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.GuideActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.htinns/com.huazhu.loading.LoadingActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.activity.LaunchActivity}" drawable="" />-->
@@ -280,6 +294,10 @@
 
 	<!--Nova Launcher Notifier Settings/Nova启动器通知设置-->
 	<item component="ComponentInfo{com.teslacoilsw.notifier/com.teslacoilsw.notifier.NotifierSettings}" drawable="nova_launcher_settings" />
+
+	<!--虎扑-->
+	<item component="ComponentInfo{com.hupu.games/com.hupu.games.activity.LaunchActivity}" drawable="hupu" />
+	<item component="ComponentInfo{com.hupu.games/com.hupu.games.main.MainActivity}" drawable="hupu" />
 
 	<!--Amazon/亚马逊-->
 	<item component="ComponentInfo{cn.amazon.mShop.android/com.amazon.mshop.page.activity.LauncherActivity}" drawable="amazon" />
@@ -1232,7 +1250,6 @@
 	<item component="ComponentInfo{com.huawei.phoneservice/com.huawei.phoneservice.ui.HelpCenterActivity}" drawable="emui_phoneservice" />
 	<item component="ComponentInfo{com.huawei.smarthome/com.huawei.smarthome.login.LauncherActivity}" drawable="huawei_smarthome"/>
 	<item component="ComponentInfo{com.huawei.trustspace/com.huawei.trustspace.mainscreen.LoadActivity}" drawable="emui_trustspace" />
-	<item component="ComponentInfo{com.hupu.games/com.hupu.games.activity.LaunchActivity}" drawable="hupu" />
 	<item component="ComponentInfo{com.hupu.shihuo/com.hupu.shihuo.view.WelcomeActivity}" drawable="hupu_shihuo" />
 	<item component="ComponentInfo{com.hupu.shihuo/com.hupu.shihuo.view.WelcomeActivity}" drawable="hupu_shihuo" />
 	<item component="ComponentInfo{com.huya.kiwi/com.duowan.kiwi.simpleactivity.SplashActivity}" drawable="huyazhibo"/>
