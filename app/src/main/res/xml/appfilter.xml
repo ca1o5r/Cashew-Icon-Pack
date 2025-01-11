@@ -5,13 +5,9 @@
 <!--	<item component="ComponentInfo{jp.co.kodansha.android.magazinepocket/com.sega.mage2.ui.common.activities.SplashActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{website.leifs.delta/website.leifs.delta.activities.MainActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{jp.co.shueisha.youngjump.android/jp.co.shueisha.youngjump.android.MainActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{tv.pluto.android/tv.pluto.android.EntryPoint}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.tubitv/com.tubitv.activities.MainActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{jp.co.shogakukan.sunday_webry/jp.co.shogakukan.sunday_webry.presentation.rootnavigation.RootNavigationActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{jp.co.kodansha.comicdays/com.goodpatch.comicdays.presentation.launch.view.LaunchActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.blizzard.arc/com.blizzard.gryphon.unity.player.GryphonUnityPlayerActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.tencent.qqsports/com.tencent.qqsports.ui.SplashActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.nothing.gallery/com.nothing.gallery.activity.EntryActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.GuideActivity}" drawable="" />-->
@@ -103,6 +99,9 @@
 	<item component="ComponentInfo{com.google.android.apps.adm/com.google.android.apps.adm.activities.MainActivity}" drawable="emui_findmyphone" />
 	<!--NFC卡模拟-->
 	<item component="ComponentInfo{com.yuanwofei.cardemulator.pro/com.yuanwofei.cardemulator.MainActivity}" drawable="nfc_emulator" />
+
+	<!--腾讯体育-->
+	<item component="ComponentInfo{com.tencent.qqsports/com.tencent.qqsports.ui.SplashActivity}" drawable="tencent_qq_sport" />
 
 	<!--VLC-->
 	<item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc" />
