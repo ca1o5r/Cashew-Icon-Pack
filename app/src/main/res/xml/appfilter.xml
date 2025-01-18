@@ -99,9 +99,15 @@
 	<!--NFC卡模拟-->
 	<item component="ComponentInfo{com.yuanwofei.cardemulator.pro/com.yuanwofei.cardemulator.MainActivity}" drawable="nfc_emulator" />
 	<!--Sam Club/山姆会员商店-->
+	<item component="ComponentInfo{cn.samsclub.app/.ui.SplashActivity}" drawable="microsoft_launcher" />
 	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.ui.SplashActivity}" drawable="microsoft_launcher" />
 	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.login.LoginSelectorActivity}" drawable="microsoft_launcher" />
 	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.ui.MainActivity}" drawable="microsoft_launcher" />
+	<item component="ComponentInfo{cn.samsclub.app/com.tencent.android.tpush.TpnsActivity}" drawable="microsoft_launcher" />
+	<item component="ComponentInfo{cn.samsclub.app/com.tencent.android.tpush.InnerTpnsActivity}" drawable="microsoft_launcher" />
+	<item component="ComponentInfo{cn.samsclub.app/com.tencent.android.tpush.TpnsActivity}" drawable="microsoft_launcher" />
+	<item component="ComponentInfo{cn.samsclub.app/com.quadripay.qq.QPQQWalletActivity}" drawable="microsoft_launcher" />
+	<item component="ComponentInfo{cn.samsclub.app/com.tencent.smtt.sdk.VideoActivity}" drawable="microsoft_launcher" />
 	<!--长沙住房-->
 	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.GuideActivity}" drawable="homelink" />
 	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.SplashActivity}" drawable="homelink" />
