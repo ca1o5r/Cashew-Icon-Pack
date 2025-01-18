@@ -10,7 +10,6 @@
 <!--	<item component="ComponentInfo{com.blizzard.arc/com.blizzard.gryphon.unity.player.GryphonUnityPlayerActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.nothing.gallery/com.nothing.gallery.activity.EntryActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.GuideActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.htinns/com.huazhu.loading.LoadingActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.activity.LaunchActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.disney.shanghaidisneyland_goo/com.disney.wdpro.park.activities.SplashActivity}" drawable="" />-->
@@ -101,6 +100,13 @@
 	<item component="ComponentInfo{com.yuanwofei.cardemulator.pro/com.yuanwofei.cardemulator.MainActivity}" drawable="nfc_emulator" />
 	<!--Sam Club/山姆会员商店-->
 	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.ui.SplashActivity}" drawable="microsoft_launcher" />
+	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.login.LoginSelectorActivity}" drawable="microsoft_launcher" />
+	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.ui.MainActivity}" drawable="microsoft_launcher" />
+	<!--长沙住房-->
+	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.GuideActivity}" drawable="homelink" />
+	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.SplashActivity}" drawable="homelink" />
+	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.login.LoginActivity}" drawable="homelink" />
+	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.home.activity.HomeActivity}" drawable="homelink" />
 
 	<!--腾讯体育-->
 	<item component="ComponentInfo{com.tencent.qqsports/com.tencent.qqsports.ui.SplashActivity}" drawable="tencent_qq_sport" />
