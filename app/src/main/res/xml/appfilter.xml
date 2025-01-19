@@ -113,6 +113,23 @@
 	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.SplashActivity}" drawable="homelink" />
 	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.login.LoginActivity}" drawable="homelink" />
 	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.home.activity.HomeActivity}" drawable="homelink" />
+	<!--贝壳找房-->
+	<item component="ComponentInfo{com.lianjia.beike/com.lianjia.activity.MainActivity}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.lianjia.photocollection.PhotoMainActivity}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.tencent.tauth.AuthActivity}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.lianjia.sdk.push.activity.HuaweiPushClickActivity}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.homelink.android.LianJiaSchemeForwardActivity}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.homelink.android.AppLinksBlankActivity}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.lianjia.sdk.push.activity.HonorPushClickActivity}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.lianjia.sdk.push.activity.VivoPushTargetActivity}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.lianjia.plugin.lianjiaim.IMPluginRouterActivity}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.lianjia.jinggong.sdk.activity.outlinkscheme.OutLinkDispatchActivity}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.igexin.sdk.GetuiActivity}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.lianjia.sdk.push.activity.OppoPushTargetActivity}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.sina.weibo.sdk.share.ShareTransActivity}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.beike.busi_findhouse.newuserguide.activity.NewUserGuideActivityV2}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.homelink.android.homepage.view.activity.SelectCityActivity}" drawable="apex_launcher" />
+	<item component="ComponentInfo{com.lianjia.beike/com.lianjia.platform.sellhouse.activity.NewUserGuideSellHouseActivity}" drawable="apex_launcher" />
 
 	<!--腾讯体育-->
 	<item component="ComponentInfo{com.tencent.qqsports/com.tencent.qqsports.ui.SplashActivity}" drawable="tencent_qq_sport" />
@@ -285,7 +302,28 @@
 	<item component="ComponentInfo{com.google.android.webview/.MainActivity}" drawable="google_chromium" />
 
 	<!--Alipay/支付宝-->
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/.FastStartActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.moblie.artvc.MainActivity}" drawable="alipay_alt2" />
 	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.mobile.quinox.AppLinksActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.sina.weibo.sdk.share.ShareTransActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.mobile.quinox.activity.StubActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.MspWebActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.mobile.quinox.SchemeLauncherActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity.alias}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.android.living.activity.AuthorActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/mtopsdk.extra.antiattack.CheckCodeValidateActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.android.msp.biz.scheme.MspSchemeActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.mobile.authlogin.ui.AliAuthLoginActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.FullScreenBgActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.MspContainerActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.android.msp.ui.views.MspUniRenderActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.mobile.quinox.splash.ShareDispenseActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.mobile.quinox.splash.ShareScanQRDispenseActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.mobile.share.ui.activity.ShareTokenParseActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.mobile.framework.service.common.SchemeStartActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alipay.android.app.flybird.ui.window.FlyBirdWindowActivity}" drawable="alipay_alt2" />
+	<item component="ComponentInfo{com.eg.android.AlipayGphone/com.alibaba.wireless.security.open.middletier.fc.ui.ContainerActivity}" drawable="alipay_alt2" />
 
 	<!--Authy2-->
 	<item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy2_compressed" />
