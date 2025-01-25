@@ -131,6 +131,10 @@
 	<item component="ComponentInfo{com.lianjia.beike/com.homelink.android.homepage.view.activity.SelectCityActivity}" drawable="apex_launcher" />
 	<item component="ComponentInfo{com.lianjia.beike/com.lianjia.platform.sellhouse.activity.NewUserGuideSellHouseActivity}" drawable="apex_launcher" />
 
+	<!--瑞幸咖啡-->
+	<item component="ComponentInfo{com.lucky.luckyclient/com.luckin.client.main.splash.SplashActivity}" drawable="luckin_coffee" />
+	<item component="ComponentInfo{com.lucky.luckyclient/com.lucky.luckyclient.splash.splash.SplashActivity}" drawable="luckin_coffee"/>
+
 	<!--腾讯体育-->
 	<item component="ComponentInfo{com.tencent.qqsports/com.tencent.qqsports.ui.SplashActivity}" drawable="tencent_qq_sport" />
 
@@ -195,6 +199,7 @@
 	<!--McDonald's/麦当劳-->
 	<item component="ComponentInfo{com.mcdonalds.app/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds_1" />
 	<item component="ComponentInfo{com.mcdonalds.gma.cn/com.mcdonalds.gma.cn.activity.LaunchActivity}" drawable="mcdonalds_1" />
+	<item component="ComponentInfo{com.mcdonalds.gma.cn/com.mcdonalds.gma.cn.activity.LaunchActivity.cny}" drawable="mcdonalds_1" />
 
 	<!--Dominos/达美乐-->
 	<item component="ComponentInfo{com.dominospizza/com.dominos.loadingscreen.InitialLaunchActivity}" drawable="dominos" />
@@ -1396,7 +1401,6 @@
 	<item component="ComponentInfo{com.lovebizhi.wallpaper/com.lovebizhi.wallpaper.WelcomeActivity}" drawable="lovebizhi" />
 	<item component="ComponentInfo{com.lovelycat/com.lovelycat.activity.SplashActivity}" drawable="lovelycat" />
 	<item component="ComponentInfo{com.LP.iconpack/com.LP.iconpack.LiteIconActivityV3}" drawable="lp_iconpack" />
-	<item component="ComponentInfo{com.lucky.luckyclient/com.lucky.luckyclient.splash.splash.SplashActivity}" drawable="luckin_coffee"/>
 	<item component="ComponentInfo{com.ludashi.benchmark/com.ludashi.benchmark.SplashActivity}" drawable="ludashi"/>
 	<item component="ComponentInfo{com.lycsky.laopo.iconpack/com.lycsky.laopo.iconpack.activities.SplashActivity}" drawable="lp_iconpack" />
 	<item component="ComponentInfo{com.lycsky.laopo.iconpack/com.lycsky.laopo.iconpack.MainActivity}" drawable="lp_iconpack"/>
