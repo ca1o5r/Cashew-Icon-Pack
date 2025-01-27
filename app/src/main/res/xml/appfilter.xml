@@ -8,23 +8,8 @@
 <!--	<item component="ComponentInfo{jp.co.shogakukan.sunday_webry/jp.co.shogakukan.sunday_webry.presentation.rootnavigation.RootNavigationActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{jp.co.kodansha.comicdays/com.goodpatch.comicdays.presentation.launch.view.LaunchActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.blizzard.arc/com.blizzard.gryphon.unity.player.GryphonUnityPlayerActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.nothing.gallery/com.nothing.gallery.activity.EntryActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.htinns/com.huazhu.loading.LoadingActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.activity.LaunchActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.disney.shanghaidisneyland_goo/com.disney.wdpro.park.activities.SplashActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.startup.activity.SplashActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.StartupActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{cn.futu.trader/cn.futu.trader.launch.activity.LaunchActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.sf.activity/com.sf.activity.MainActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.DEFAULT}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.EcoLauncherActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.wbd.stream/com.wbd.fuse.appcore.FuseActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.novoda.dch/com.digitalconcerthall.intro.StartupActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.criterionchannel/tv.vhx.LauncherActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.tongliebookcity.android/com.tongliebookcity.android.Activity.SplashActivity}" drawable="" />-->
 
 	<!--图标包应用-->
@@ -130,6 +115,36 @@
 	<item component="ComponentInfo{com.lianjia.beike/com.beike.busi_findhouse.newuserguide.activity.NewUserGuideActivityV2}" drawable="apex_launcher" />
 	<item component="ComponentInfo{com.lianjia.beike/com.homelink.android.homepage.view.activity.SelectCityActivity}" drawable="apex_launcher" />
 	<item component="ComponentInfo{com.lianjia.beike/com.lianjia.platform.sellhouse.activity.NewUserGuideSellHouseActivity}" drawable="apex_launcher" />
+	<!--麦德龙-->
+	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.DEFAULT}" drawable="alimail" />
+	<!--ChatGPT-->
+	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="cortana" />
+	<!--ECO Home/科沃斯-->
+	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.EcoLauncherActivity}" drawable="apex" />
+	<!--HBO Max-->
+	<item component="ComponentInfo{com.wbd.stream/com.wbd.fuse.appcore.FuseActivity}" drawable="mark" />
+	<!--Hulu-->
+	<item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="houzz" />
+	<!--VooV Meeting/腾讯会议-->
+	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.StartupActivity}" drawable="yingtu" />
+	<!--Jetpack-->
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="light_start" />
+	<!--FuTu Trader/富途牛牛-->
+	<item component="ComponentInfo{cn.futu.trader/cn.futu.trader.launch.activity.LaunchActivity}" drawable="tonghuashun" />
+	<!--Disney+-->
+	<item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="dandelion" />
+	<!--顺丰-->
+	<item component="ComponentInfo{com.sf.activity/com.sf.activity.MainActivity}" drawable="memrise" />
+	<!--Nothing Gallery-->
+	<item component="ComponentInfo{com.nothing.gallery/com.nothing.gallery.activity.EntryActivity}" drawable="gallery" />
+	<!--华住会-->
+	<item component="ComponentInfo{com.htinns/com.huazhu.loading.LoadingActivity}" drawable="h_viewer" />
+	<!--亚朵 -->
+	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.activity.LaunchActivity}" drawable="ampere" />
+	<!--Digital Concert Hall/柏林爱乐-->
+	<item component="ComponentInfo{com.novoda.dch/com.digitalconcerthall.intro.StartupActivity}" drawable="live_visualizer" />
+	<!--The Criterion Channel-->
+	<item component="ComponentInfo{com.criterionchannel/tv.vhx.LauncherActivity}" drawable="renrenmeiju" />
 
 	<!--瑞幸咖啡-->
 	<item component="ComponentInfo{com.lucky.luckyclient/com.luckin.client.main.splash.SplashActivity}" drawable="luckin_coffee" />
@@ -360,6 +375,7 @@
 
 	<!--中国铁路12306-->
 	<item component="ComponentInfo{com.chinarailway.globalticketing/com.MobileTicket.ui.activity.WelcomeGuideActivity}" drawable="t_12306" />
+	<item component="ComponentInfo{com.MobileTicket/com.MobileTicket.ui.activity.WelcomeGuideActivity}" drawable="t_12306" />
 
 	<!--Tiktok/抖音-->
 	<item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="douyin" />
