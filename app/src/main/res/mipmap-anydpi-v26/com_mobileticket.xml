@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- 替换为你的背景层（PNG 或矢量图） -->
-    <background android:drawable="@drawable/t_12306"/>
-    <!-- 替换为你的前景层（PNG 或矢量图） -->
-    <foreground android:drawable="@drawable/t_12306"/>
-</adaptive-icon>
