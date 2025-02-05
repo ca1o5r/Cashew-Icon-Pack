@@ -290,6 +290,10 @@
 	<item component="ComponentInfo{com.lucky.luckyclient/com.luckin.client.main.splash.SplashActivity}" drawable="luckin_coffee" />
 	<item component="ComponentInfo{com.lucky.luckyclient/com.lucky.luckyclient.splash.splash.SplashActivity}" drawable="luckin_coffee"/>
 
+	<!--Telegram-->
+	<item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}" drawable="telegram" />
+	<item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+
 	<!--腾讯体育-->
 	<item component="ComponentInfo{com.tencent.qqsports/com.tencent.qqsports.ui.SplashActivity}" drawable="tencent_qq_sport" />
 
@@ -2293,7 +2297,6 @@
 	<item component="ComponentInfo{org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp" />
 	<item component="ComponentInfo{org.ppsspp.ppsspp3kqq/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp" />
 	<item component="ComponentInfo{org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity}" drawable="swift_backup"/>
-	<item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
 	<item component="ComponentInfo{org.telegram.plus/org.telegram.ui.LaunchActivity}" drawable="plus"/>
 	<item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram_x" />
 	<item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity}" drawable="speedtest" />
