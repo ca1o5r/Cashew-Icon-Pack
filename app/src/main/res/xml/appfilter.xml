@@ -9,7 +9,6 @@
 <!--	<item component="ComponentInfo{jp.co.kodansha.comicdays/com.goodpatch.comicdays.presentation.launch.view.LaunchActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.blizzard.arc/com.blizzard.gryphon.unity.player.GryphonUnityPlayerActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.disney.shanghaidisneyland_goo/com.disney.wdpro.park.activities.SplashActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.startup.activity.SplashActivity}" drawable="" />-->
 <!--	<item component="ComponentInfo{com.tongliebookcity.android/com.tongliebookcity.android.Activity.SplashActivity}" drawable="" />-->
 
 	<!--图标包应用-->
@@ -285,6 +284,8 @@
 	<!--Google Play Proecte Service-->
 	<item component="ComponentInfo{com.google.android.odad/com.google.android.libraries.strictmode.penalties.notification.FullStackTraceActivity}" drawable="emui_systemmanager" />
 	<item component="ComponentInfo{com.google.android.odad/com.google.android.apps.miphone.odad.settings.UserSettingsActivity}" drawable="emui_systemmanager" />
+	<!--YoutTube TV-->
+	<item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.startup.activity.SplashActivity}" drawable="tv_plus" />
 
 	<!--瑞幸咖啡-->
 	<item component="ComponentInfo{com.lucky.luckyclient/com.luckin.client.main.splash.SplashActivity}" drawable="luckin_coffee" />
@@ -296,6 +297,7 @@
 
 	<!--腾讯体育-->
 	<item component="ComponentInfo{com.tencent.qqsports/com.tencent.qqsports.ui.SplashActivity}" drawable="tencent_qq_sport" />
+	<item component="ComponentInfo{com.tencent.qqsports/com.tencent.qqsports.ui.AliasActivity}" drawable="tencent_qq_sport" />
 
 	<!--VLC-->
 	<item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}" drawable="vlc" />
