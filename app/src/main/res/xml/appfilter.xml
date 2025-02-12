@@ -214,7 +214,7 @@
 	<item component="ComponentInfo{cn.futu.trader/com.cmic.gen.sdk.view.GenLoginAuthActivity}" drawable="tonghuashun" />
 	<item component="ComponentInfo{cn.futu.trader/cn.futu.nnframework.app.standalonehost.StandaloneHostActivity}" drawable="tonghuashun" />
 	<!--Disney+-->
-	<item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="dandelion" />
+	<item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="disney_plus" />
 	<!--顺丰-->
 	<item component="ComponentInfo{com.sf.activity/com.sf.activity.MainActivity}" drawable="memrise" />
 	<item component="ComponentInfo{com.sf.activity/.MainActivity}" drawable="memrise" />
