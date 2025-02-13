@@ -151,16 +151,16 @@
 	<item component="ComponentInfo{com.eco.global.app/cn.jpush.android.intent.JNotifyActivity}" drawable="apex" />
 	<item component="ComponentInfo{com.eco.global.app/cn.jpush.android.ui.PopWinActivity}" drawable="apex" />
 	<!--HBO Max-->
-	<item component="ComponentInfo{com.wbd.stream/com.wbd.fuse.appcore.FuseActivity}" drawable="mark" />
-	<item component="ComponentInfo{com.wbd.stream/com.discovery.gi.presentation.activities.SignInMvpdFlowActivity}" drawable="mark" />
-	<item component="ComponentInfo{com.wbd.stream/beam.cast.ui.CastExpandedControllerActivity}" drawable="mark" />
+	<item component="ComponentInfo{com.wbd.stream/com.wbd.fuse.appcore.FuseActivity}" drawable="hbomax" />
+	<item component="ComponentInfo{com.wbd.stream/com.discovery.gi.presentation.activities.SignInMvpdFlowActivity}" drawable="hbomax" />
+	<item component="ComponentInfo{com.wbd.stream/beam.cast.ui.CastExpandedControllerActivity}" drawable="hbomax" />
 	<!--Hulu-->
-	<item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="houzz" />
-	<item component="ComponentInfo{com.hulu.plus/com.hulu.widget.activity.DiscoverWidgetConfigActivity}" drawable="houzz" />
-	<item component="ComponentInfo{com.hulu.plus/com.hulu.widget.activity.ContinueWidgetConfigActivity}" drawable="houzz" />
-	<item component="ComponentInfo{com.hulu.plus/com.hulu.features.search.SearchActivity}" drawable="houzz" />
-	<item component="ComponentInfo{com.hulu.plus/com.hulu.BottomNavActivity}" drawable="houzz" />
-	<item component="ComponentInfo{com.hulu.plus/com.hulu.features.hubs.details.view.DetailsActivity}" drawable="houzz" />
+	<item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="hulu" />
+	<item component="ComponentInfo{com.hulu.plus/com.hulu.widget.activity.DiscoverWidgetConfigActivity}" drawable="hulu" />
+	<item component="ComponentInfo{com.hulu.plus/com.hulu.widget.activity.ContinueWidgetConfigActivity}" drawable="hulu" />
+	<item component="ComponentInfo{com.hulu.plus/com.hulu.features.search.SearchActivity}" drawable="hulu" />
+	<item component="ComponentInfo{com.hulu.plus/com.hulu.BottomNavActivity}" drawable="hulu" />
+	<item component="ComponentInfo{com.hulu.plus/com.hulu.features.hubs.details.view.DetailsActivity}" drawable="hulu" />
 	<!--VooV Meeting/腾讯会议-->
 	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.StartupActivity}" drawable="yingtu" />
 	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.ExternalLinkActivity}" drawable="yingtu" />
