@@ -132,9 +132,9 @@
 	<item component="ComponentInfo{com.dm.metro/com.dmall.cms.start.userprivacy.DisAgreePrivacyWebViewActivity}" drawable="alimail" />
 	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.ProtocolWebViewActivity}" drawable="alimail" />
 	<!--ChatGPT-->
-	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="cortana" />
-	<item component="ComponentInfo{com.openai.chatgpt/.MainActivity}" drawable="cortana" />
-	<item component="ComponentInfo{com.openai.chatgpt/com.auth0.android.provider.RedirectActivity}" drawable="cortana" />
+	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="chatgpt" />
+	<item component="ComponentInfo{com.openai.chatgpt/.MainActivity}" drawable="chatgpt" />
+	<item component="ComponentInfo{com.openai.chatgpt/com.auth0.android.provider.RedirectActivity}" drawable="chatgpt" />
 	<!--ECO Home/科沃斯-->
 	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.EcoLauncherActivity}" drawable="apex" />
 	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.HwDeeplinkActivity}" drawable="apex" />
@@ -266,16 +266,16 @@
 	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.activity.OperationActivity}" drawable="ampere" />
 	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.main.activity.MainActivity}" drawable="ampere" />
 	<!--Digital Concert Hall/柏林爱乐-->
-	<item component="ComponentInfo{com.novoda.dch/com.digitalconcerthall.intro.StartupActivity}" drawable="live_visualizer" />
-	<item component="ComponentInfo{com.novoda.dch/com.digitalconcerthall.cast.ExpandedControlsActivity}" drawable="live_visualizer" />
-	<item component="ComponentInfo{com.novoda.dch/com.digitalconcerthall.dashboard.MainActivity}" drawable="live_visualizer" />
+	<item component="ComponentInfo{com.novoda.dch/com.digitalconcerthall.intro.StartupActivity}" drawable="bp" />
+	<item component="ComponentInfo{com.novoda.dch/com.digitalconcerthall.cast.ExpandedControlsActivity}" drawable="bp" />
+	<item component="ComponentInfo{com.novoda.dch/com.digitalconcerthall.dashboard.MainActivity}" drawable="bp" />
 	<!--The Criterion Channel-->
-	<item component="ComponentInfo{com.criterionchannel/tv.vhx.LauncherActivity}" drawable="renrenmeiju" />
-	<item component="ComponentInfo{com.criterionchannel/tv.vhx.util.ui.WebViewActivity}" drawable="renrenmeiju" />
-	<item component="ComponentInfo{com.criterionchannel/tv.vhx.tv.home.TvHomeActivity}" drawable="renrenmeiju" />
-	<item component="ComponentInfo{com.criterionchannel/tv.vhx.tablet.HomeTabletActivity}" drawable="renrenmeiju" />
-	<item component="ComponentInfo{com.criterionchannel/tv.vhx.home.HomeActivity}" drawable="renrenmeiju" />
-	<item component="ComponentInfo{com.criterionchannel/tv.vhx.tv.home.search.GlobalSearchSelectActivity}" drawable="renrenmeiju" />
+	<item component="ComponentInfo{com.criterionchannel/tv.vhx.LauncherActivity}" drawable="cc" />
+	<item component="ComponentInfo{com.criterionchannel/tv.vhx.util.ui.WebViewActivity}" drawable="cc" />
+	<item component="ComponentInfo{com.criterionchannel/tv.vhx.tv.home.TvHomeActivity}" drawable="cc" />
+	<item component="ComponentInfo{com.criterionchannel/tv.vhx.tablet.HomeTabletActivity}" drawable="cc" />
+	<item component="ComponentInfo{com.criterionchannel/tv.vhx.home.HomeActivity}" drawable="cc" />
+	<item component="ComponentInfo{com.criterionchannel/tv.vhx.tv.home.search.GlobalSearchSelectActivity}" drawable="cc" />
 	<!--DeepSeek-->
 	<item component="ComponentInfo{com.deepseek.chat/com.deepseek.chat.MainActivity}" drawable="video_dabai" />
 	<!--Switch Access-->

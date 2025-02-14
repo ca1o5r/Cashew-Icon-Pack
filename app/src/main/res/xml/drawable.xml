@@ -641,6 +641,7 @@
 		<item drawable="bosszhipin" />
 		<item drawable="boss_zhipin" />
 		<item drawable="box" />
+		<item drawable="bp" />
 		<item drawable="brainmusic" />
 		<item drawable="brave__liu__lan__qi" />
 		<item drawable="brawl_stars" />
@@ -716,6 +717,7 @@
 		<item drawable="castbox" />
 		<item drawable="cardboard_camera" />
 		<item drawable="cardboard" />
+		<item drawable="cc" />
 		<item drawable="ccb" />
 		<item drawable="ccb_atm_mobilepay" />
 		<item drawable="ccb_bank" />
@@ -728,6 +730,7 @@
 		<item drawable="changzhou_subway" />
 		<item drawable="chaojikechengbiao" />
 		<item drawable="chaojishipin" />
+		<item drawable="chatgpt" />
 		<item drawable="cheapflights" />
 		<item drawable="chelaile" />
 		<item drawable="chelaile_1" />
