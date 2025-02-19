@@ -177,42 +177,42 @@
 	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.module.mediaprocess.activity.UserFaceBeautyActivity}" drawable="yingtu" />
 	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.nxui.app.NXUIHostActivity}" drawable="yingtu" />
 	<!--Jetpack-->
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.ShareIntentReceiverActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.deeplinks.DeepLinkingIntentReceiverActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.accounts.LoginMagicLinkInterceptActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.WebLinksDeepLinkingIntentReceiverActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.WPComPostReaderActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.URISchemeDeepLinkingIntentReceiverActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.JetpackConnectionResultActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.prefs.notifications.NotificationsSettingsActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.stats.refresh.lists.widget.weeks.StatsWeekWidgetConfigureActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.stats.refresh.lists.widget.views.StatsViewsWidgetConfigureActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.stats.refresh.lists.widget.alltime.StatsAllTimeWidgetConfigureActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.stats.refresh.lists.widget.today.StatsTodayWidgetConfigureActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.stats.refresh.lists.widget.minified.StatsMinifiedWidgetConfigureActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.AddQuickPressShortcutActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.main.WPMainActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.accounts.LoginActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.accounts.LoginEpilogueActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.prefs.AccountSettingsActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.prefs.AppSettingsActivity}" drawable="light_start" />
-	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.posts.PostsListActivity}" drawable="light_start" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.ShareIntentReceiverActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.deeplinks.DeepLinkingIntentReceiverActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.accounts.LoginMagicLinkInterceptActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.WebLinksDeepLinkingIntentReceiverActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.WPComPostReaderActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.URISchemeDeepLinkingIntentReceiverActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.JetpackConnectionResultActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.prefs.notifications.NotificationsSettingsActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.stats.refresh.lists.widget.weeks.StatsWeekWidgetConfigureActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.stats.refresh.lists.widget.views.StatsViewsWidgetConfigureActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.stats.refresh.lists.widget.alltime.StatsAllTimeWidgetConfigureActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.stats.refresh.lists.widget.today.StatsTodayWidgetConfigureActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.stats.refresh.lists.widget.minified.StatsMinifiedWidgetConfigureActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.AddQuickPressShortcutActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.main.WPMainActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.accounts.LoginActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.accounts.LoginEpilogueActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.prefs.AccountSettingsActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.prefs.AppSettingsActivity}" drawable="jetpack" />
+	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.posts.PostsListActivity}" drawable="jetpack" />
 	<!--FuTu Trader/富途牛牛-->
-	<item component="ComponentInfo{cn.futu.trader/cn.futu.trader.launch.activity.LaunchActivity}" drawable="tonghuashun" />
-	<item component="ComponentInfo{cn.futu.trader/cn.futu.sns.liveim.im.common.share.presentation.system.ShareToFriendActivity}" drawable="tonghuashun" />
-	<item component="ComponentInfo{cn.futu.trader/cn.futu.sns.nnq.common.share.shareto.ShareToFeedPostActivity}" drawable="tonghuashun" />
-	<item component="ComponentInfo{cn.futu.trader/com.tencent.qcloud.tim.push.TIMPushOpenActivity}" drawable="tonghuashun" />
-	<item component="ComponentInfo{cn.futu.trader/cn.futu.nnframework.core.ui.intent.SchemeHandleActivity}" drawable="tonghuashun" />
-	<item component="ComponentInfo{cn.futu.trader/.main.activity.MainActivity}" drawable="tonghuashun" />
-	<item component="ComponentInfo{cn.futu.trader/com.facebook.CustomTabActivity}" drawable="tonghuashun" />
-	<item component="ComponentInfo{cn.futu.trader/com.tencent.tauth.AuthActivity}" drawable="tonghuashun" />
-	<item component="ComponentInfo{cn.futu.trader/com.tencent.qcloud.tim.push.components.FCMLinkActivity}" drawable="tonghuashun" />
-	<item component="ComponentInfo{cn.futu.trader/com.sina.weibo.sdk.share.ShareResultActivity}" drawable="tonghuashun" />
-	<item component="ComponentInfo{cn.futu.trader/cn.futu.basis.login.view.RegisterLoginActivity}" drawable="tonghuashun" />
-	<item component="ComponentInfo{cn.futu.trader/cn.futu.trader}" drawable="tonghuashun" />
-	<item component="ComponentInfo{cn.futu.trader/com.cmic.gen.sdk.view.GenLoginAuthActivity}" drawable="tonghuashun" />
-	<item component="ComponentInfo{cn.futu.trader/cn.futu.nnframework.app.standalonehost.StandaloneHostActivity}" drawable="tonghuashun" />
+	<item component="ComponentInfo{cn.futu.trader/cn.futu.trader.launch.activity.LaunchActivity}" drawable="futubull" />
+	<item component="ComponentInfo{cn.futu.trader/cn.futu.sns.liveim.im.common.share.presentation.system.ShareToFriendActivity}" drawable="futubull" />
+	<item component="ComponentInfo{cn.futu.trader/cn.futu.sns.nnq.common.share.shareto.ShareToFeedPostActivity}" drawable="futubull" />
+	<item component="ComponentInfo{cn.futu.trader/com.tencent.qcloud.tim.push.TIMPushOpenActivity}" drawable="futubull" />
+	<item component="ComponentInfo{cn.futu.trader/cn.futu.nnframework.core.ui.intent.SchemeHandleActivity}" drawable="futubull" />
+	<item component="ComponentInfo{cn.futu.trader/.main.activity.MainActivity}" drawable="futubull" />
+	<item component="ComponentInfo{cn.futu.trader/com.facebook.CustomTabActivity}" drawable="futubull" />
+	<item component="ComponentInfo{cn.futu.trader/com.tencent.tauth.AuthActivity}" drawable="futubull" />
+	<item component="ComponentInfo{cn.futu.trader/com.tencent.qcloud.tim.push.components.FCMLinkActivity}" drawable="futubull" />
+	<item component="ComponentInfo{cn.futu.trader/com.sina.weibo.sdk.share.ShareResultActivity}" drawable="futubull" />
+	<item component="ComponentInfo{cn.futu.trader/cn.futu.basis.login.view.RegisterLoginActivity}" drawable="futubull" />
+	<item component="ComponentInfo{cn.futu.trader/cn.futu.trader}" drawable="futubull" />
+	<item component="ComponentInfo{cn.futu.trader/com.cmic.gen.sdk.view.GenLoginAuthActivity}" drawable="futubull" />
+	<item component="ComponentInfo{cn.futu.trader/cn.futu.nnframework.app.standalonehost.StandaloneHostActivity}" drawable="futubull" />
 	<!--Disney+-->
 	<item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="disney_plus" />
 	<!--顺丰-->
