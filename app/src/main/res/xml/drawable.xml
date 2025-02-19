@@ -828,6 +828,7 @@
 		<item drawable="ddcat" />
 		<item drawable="dealmoon" />
 		<item drawable="dear_translate" />
+		<item drawable="deepseek" />
 		<item drawable="delve" />
 		<item drawable="devcheck" />
 		<item drawable="deviantart" />
@@ -899,6 +900,7 @@
 		<item drawable="echo" />
 		<item drawable="ecitic_bank" />
 		<item drawable="ecloud" />
+		<item drawable="ecovacs" />
 		<item drawable="edgelighting" />
 		<item drawable="edx" />
 		<item drawable="edxposed_manager" />

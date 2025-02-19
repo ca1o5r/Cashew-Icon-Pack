@@ -136,20 +136,20 @@
 	<item component="ComponentInfo{com.openai.chatgpt/.MainActivity}" drawable="chatgpt" />
 	<item component="ComponentInfo{com.openai.chatgpt/com.auth0.android.provider.RedirectActivity}" drawable="chatgpt" />
 	<!--ECO Home/科沃斯-->
-	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.EcoLauncherActivity}" drawable="apex" />
-	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.HwDeeplinkActivity}" drawable="apex" />
-	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.EcoMainActivity}" drawable="apex" />
-	<item component="ComponentInfo{com.eco.global.app/com.ecovacs.takevideo.VideoViewActivity}" drawable="apex" />
-	<item component="ComponentInfo{com.eco.global.app/com.eco.main.webview.EcoUrlActivity}" drawable="apex" />
-	<item component="ComponentInfo{com.eco.global.app/com.tencent.tauth.AuthActivity}" drawable="apex" />
-	<item component="ComponentInfo{com.eco.global.app/com.adyen.checkout.dropin.ui.DropInActivity}" drawable="apex" />
-	<item component="ComponentInfo{com.eco.global.app/com.adyen.threeds2.internal.ui.activity.ChallengeActivity}" drawable="apex" />
-	<item component="ComponentInfo{com.eco.global.app/cn.jpush.android.ui.PushActivity}" drawable="apex" />
-	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.EcoSettingActivity}" drawable="apex" />
-	<item component="ComponentInfo{com.eco.global.app/cn.android.service.JTransitActivity}" drawable="apex" />
-	<item component="ComponentInfo{com.eco.global.app/cn.jpush.android.service.JNotifyActivity}" drawable="apex" />
-	<item component="ComponentInfo{com.eco.global.app/cn.jpush.android.intent.JNotifyActivity}" drawable="apex" />
-	<item component="ComponentInfo{com.eco.global.app/cn.jpush.android.ui.PopWinActivity}" drawable="apex" />
+	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.EcoLauncherActivity}" drawable="ecovacs" />
+	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.HwDeeplinkActivity}" drawable="ecovacs" />
+	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.EcoMainActivity}" drawable="ecovacs" />
+	<item component="ComponentInfo{com.eco.global.app/com.ecovacs.takevideo.VideoViewActivity}" drawable="ecovacs" />
+	<item component="ComponentInfo{com.eco.global.app/com.eco.main.webview.EcoUrlActivity}" drawable="ecovacs" />
+	<item component="ComponentInfo{com.eco.global.app/com.tencent.tauth.AuthActivity}" drawable="ecovacs" />
+	<item component="ComponentInfo{com.eco.global.app/com.adyen.checkout.dropin.ui.DropInActivity}" drawable="ecovacs" />
+	<item component="ComponentInfo{com.eco.global.app/com.adyen.threeds2.internal.ui.activity.ChallengeActivity}" drawable="ecovacs" />
+	<item component="ComponentInfo{com.eco.global.app/cn.jpush.android.ui.PushActivity}" drawable="ecovacs" />
+	<item component="ComponentInfo{com.eco.global.app/com.eco.main.activity.EcoSettingActivity}" drawable="ecovacs" />
+	<item component="ComponentInfo{com.eco.global.app/cn.android.service.JTransitActivity}" drawable="ecovacs" />
+	<item component="ComponentInfo{com.eco.global.app/cn.jpush.android.service.JNotifyActivity}" drawable="ecovacs" />
+	<item component="ComponentInfo{com.eco.global.app/cn.jpush.android.intent.JNotifyActivity}" drawable="ecovacs" />
+	<item component="ComponentInfo{com.eco.global.app/cn.jpush.android.ui.PopWinActivity}" drawable="ecovacs" />
 	<!--HBO Max-->
 	<item component="ComponentInfo{com.wbd.stream/com.wbd.fuse.appcore.FuseActivity}" drawable="hbomax" />
 	<item component="ComponentInfo{com.wbd.stream/com.discovery.gi.presentation.activities.SignInMvpdFlowActivity}" drawable="hbomax" />
@@ -277,7 +277,7 @@
 	<item component="ComponentInfo{com.criterionchannel/tv.vhx.home.HomeActivity}" drawable="cc" />
 	<item component="ComponentInfo{com.criterionchannel/tv.vhx.tv.home.search.GlobalSearchSelectActivity}" drawable="cc" />
 	<!--DeepSeek-->
-	<item component="ComponentInfo{com.deepseek.chat/com.deepseek.chat.MainActivity}" drawable="video_dabai" />
+	<item component="ComponentInfo{com.deepseek.chat/com.deepseek.chat.MainActivity}" drawable="deepseek" />
 	<!--Switch Access-->
 	<item component="ComponentInfo{com.google.android.accessibility.switchaccess/.LaunchActivity}" drawable="ali_tv_helper" />
 	<item component="ComponentInfo{com.google.android.accessibility.switchaccess/.preferences.activity.SwitchAccessPreferenceActivity}" drawable="ali_tv_helper" />
