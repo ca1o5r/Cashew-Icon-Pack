@@ -83,15 +83,15 @@
 	<!--NFC卡模拟-->
 	<item component="ComponentInfo{com.yuanwofei.cardemulator.pro/com.yuanwofei.cardemulator.MainActivity}" drawable="nfc_emulator" />
 	<!--Sam Club/山姆会员商店-->
-	<item component="ComponentInfo{cn.samsclub.app/.ui.SplashActivity}" drawable="microsoft_launcher" />
-	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.ui.SplashActivity}" drawable="microsoft_launcher" />
-	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.login.LoginSelectorActivity}" drawable="microsoft_launcher" />
-	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.ui.MainActivity}" drawable="microsoft_launcher" />
-	<item component="ComponentInfo{cn.samsclub.app/com.tencent.android.tpush.TpnsActivity}" drawable="microsoft_launcher" />
-	<item component="ComponentInfo{cn.samsclub.app/com.tencent.android.tpush.InnerTpnsActivity}" drawable="microsoft_launcher" />
-	<item component="ComponentInfo{cn.samsclub.app/com.tencent.android.tpush.TpnsActivity}" drawable="microsoft_launcher" />
-	<item component="ComponentInfo{cn.samsclub.app/com.quadripay.qq.QPQQWalletActivity}" drawable="microsoft_launcher" />
-	<item component="ComponentInfo{cn.samsclub.app/com.tencent.smtt.sdk.VideoActivity}" drawable="microsoft_launcher" />
+	<item component="ComponentInfo{cn.samsclub.app/.ui.SplashActivity}" drawable="samsclub" />
+	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.ui.SplashActivity}" drawable="samsclub" />
+	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.login.LoginSelectorActivity}" drawable="samsclub" />
+	<item component="ComponentInfo{cn.samsclub.app/cn.samsclub.app.ui.MainActivity}" drawable="samsclub" />
+	<item component="ComponentInfo{cn.samsclub.app/com.tencent.android.tpush.TpnsActivity}" drawable="samsclub" />
+	<item component="ComponentInfo{cn.samsclub.app/com.tencent.android.tpush.InnerTpnsActivity}" drawable="samsclub" />
+	<item component="ComponentInfo{cn.samsclub.app/com.tencent.android.tpush.TpnsActivity}" drawable="samsclub" />
+	<item component="ComponentInfo{cn.samsclub.app/com.quadripay.qq.QPQQWalletActivity}" drawable="samsclub" />
+	<item component="ComponentInfo{cn.samsclub.app/com.tencent.smtt.sdk.VideoActivity}" drawable="samsclub" />
 	<!--长沙住房-->
 	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.GuideActivity}" drawable="homelink" />
 	<item component="ComponentInfo{com.yizooo.loupan/com.yizooo.loupan.SplashActivity}" drawable="homelink" />
@@ -162,20 +162,20 @@
 	<item component="ComponentInfo{com.hulu.plus/com.hulu.BottomNavActivity}" drawable="hulu" />
 	<item component="ComponentInfo{com.hulu.plus/com.hulu.features.hubs.details.view.DetailsActivity}" drawable="hulu" />
 	<!--VooV Meeting/腾讯会议-->
-	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.StartupActivity}" drawable="yingtu" />
-	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.ExternalLinkActivity}" drawable="yingtu" />
-	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.push.ExternalPushActivity}" drawable="yingtu" />
-	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.ExternalAppLinkActivity}" drawable="yingtu" />
-	<item component="ComponentInfo{com.tencent.voov/com.tencent.tauth.AuthActivity}" drawable="yingtu" />
-	<item component="ComponentInfo{com.tencent.voov/com.tencent.midas.qq.APMidasQQWalletActivity}" drawable="yingtu" />
-	<item component="ComponentInfo{com.tencent.voov/com.sina.weibo.sdk.share.ShareTransActivity}" drawable="yingtu" />
-	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.sdk.meeting.premeeting.home.NXGuestGuideActivity}" drawable="yingtu" />
-	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.module.login.activity.NXEmailPasswordLoginActivity}" drawable="yingtu" />
-	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.sdk.meeting.premeeting.home.HomeActivity}" drawable="yingtu" />
-	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.module.account.activity.ProfileActivity}" drawable="yingtu" />
-	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.module.settings.activity.SettingActivity}" drawable="yingtu" />
-	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.module.mediaprocess.activity.UserFaceBeautyActivity}" drawable="yingtu" />
-	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.nxui.app.NXUIHostActivity}" drawable="yingtu" />
+	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.StartupActivity}" drawable="voov" />
+	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.ExternalLinkActivity}" drawable="voov" />
+	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.push.ExternalPushActivity}" drawable="voov" />
+	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.app.ExternalAppLinkActivity}" drawable="voov" />
+	<item component="ComponentInfo{com.tencent.voov/com.tencent.tauth.AuthActivity}" drawable="voov" />
+	<item component="ComponentInfo{com.tencent.voov/com.tencent.midas.qq.APMidasQQWalletActivity}" drawable="voov" />
+	<item component="ComponentInfo{com.tencent.voov/com.sina.weibo.sdk.share.ShareTransActivity}" drawable="voov" />
+	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.sdk.meeting.premeeting.home.NXGuestGuideActivity}" drawable="voov" />
+	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.module.login.activity.NXEmailPasswordLoginActivity}" drawable="voov" />
+	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.sdk.meeting.premeeting.home.HomeActivity}" drawable="voov" />
+	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.module.account.activity.ProfileActivity}" drawable="voov" />
+	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.module.settings.activity.SettingActivity}" drawable="voov" />
+	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.module.mediaprocess.activity.UserFaceBeautyActivity}" drawable="voov" />
+	<item component="ComponentInfo{com.tencent.voov/com.tencent.wemeet.nxui.app.NXUIHostActivity}" drawable="voov" />
 	<!--Jetpack-->
 	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="jetpack" />
 	<item component="ComponentInfo{com.jetpack.android/org.wordpress.android.ui.ShareIntentReceiverActivity}" drawable="jetpack" />
@@ -216,55 +216,55 @@
 	<!--Disney+-->
 	<item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="disney_plus" />
 	<!--顺丰-->
-	<item component="ComponentInfo{com.sf.activity/com.sf.activity.MainActivity}" drawable="memrise" />
-	<item component="ComponentInfo{com.sf.activity/.MainActivity}" drawable="memrise" />
-	<item component="ComponentInfo{com.sf.activity/cn.jpush.android.ui.PushActivity}" drawable="memrise" />
-	<item component="ComponentInfo{com.sf.activity/cn.android.service.JTransitActivity}" drawable="memrise" />
-	<item component="ComponentInfo{com.sf.activity/cn.jpush.android.intent.JNotifyActivity}" drawable="memrise" />
-	<item component="ComponentInfo{com.sf.activity/cn.jpush.android.service.JNotifyActivity}" drawable="memrise" />
-	<item component="ComponentInfo{com.sf.activity/cn.jpush.android.ui.PopWinActivity}" drawable="memrise" />
-	<item component="ComponentInfo{com.sf.activity/com.sina.weibo.sdk.share.ShareTransActivity}" drawable="memrise" />
-	<item component="ComponentInfo{com.sf.activity/cn.jpush.android.service.DActivity}" drawable="memrise" />
-	<item component="ComponentInfo{com.sf.activity/cn.jpush.android.intent.DActivity}" drawable="memrise" />
-	<item component="ComponentInfo{com.sf.activity/com.sf.activity}" drawable="memrise" />
-	<item component="ComponentInfo{com.sf.activity/com.sf.activity.wxapi.WXEntryActivity}" drawable="memrise" />
+	<item component="ComponentInfo{com.sf.activity/com.sf.activity.MainActivity}" drawable="sf_express" />
+	<item component="ComponentInfo{com.sf.activity/.MainActivity}" drawable="sf_express" />
+	<item component="ComponentInfo{com.sf.activity/cn.jpush.android.ui.PushActivity}" drawable="sf_express" />
+	<item component="ComponentInfo{com.sf.activity/cn.android.service.JTransitActivity}" drawable="sf_express" />
+	<item component="ComponentInfo{com.sf.activity/cn.jpush.android.intent.JNotifyActivity}" drawable="sf_express" />
+	<item component="ComponentInfo{com.sf.activity/cn.jpush.android.service.JNotifyActivity}" drawable="sf_express" />
+	<item component="ComponentInfo{com.sf.activity/cn.jpush.android.ui.PopWinActivity}" drawable="sf_express" />
+	<item component="ComponentInfo{com.sf.activity/com.sina.weibo.sdk.share.ShareTransActivity}" drawable="sf_express" />
+	<item component="ComponentInfo{com.sf.activity/cn.jpush.android.service.DActivity}" drawable="sf_express" />
+	<item component="ComponentInfo{com.sf.activity/cn.jpush.android.intent.DActivity}" drawable="sf_express" />
+	<item component="ComponentInfo{com.sf.activity/com.sf.activity}" drawable="sf_express" />
+	<item component="ComponentInfo{com.sf.activity/com.sf.activity.wxapi.WXEntryActivity}" drawable="sf_express" />
 	<!--Nothing Gallery-->
 	<item component="ComponentInfo{com.nothing.gallery/com.nothing.gallery.activity.EntryActivity}" drawable="gallery" />
 	<item component="ComponentInfo{com.nothing.gallery/.activity.CameraFilmstripActivity}" drawable="gallery" />
 	<item component="ComponentInfo{com.nothing.gallery/.activity.MediaViewerActivity}" drawable="gallery" />
 	<item component="ComponentInfo{com.nothing.gallery/.activity.EntryActivity}" drawable="gallery" />
 	<!--华住会-->
-	<item component="ComponentInfo{com.htinns/com.huazhu.loading.LoadingActivity}" drawable="h_viewer" />
-	<item component="ComponentInfo{com.htinns/.UI.PushProcessActivity}" drawable="h_viewer" />
-	<item component="ComponentInfo{com.htinns/com.jdpaysdk.author.AuthorActivity}" drawable="h_viewer" />
-	<item component="ComponentInfo{com.htinns/.UI.LaunchActivity}" drawable="h_viewer" />
-	<item component="ComponentInfo{com.htinns/com.tencent.tauth.AuthActivity}" drawable="h_viewer" />
-	<item component="ComponentInfo{com.htinns/.pay.commonpay.CommonPayActivityV2}" drawable="h_viewer" />
-	<item component="ComponentInfo{com.htinns/com.huazhu.main.RnMainActivity}" drawable="h_viewer" />
-	<item component="ComponentInfo{com.htinns/com.igexin.sdk.GActivity}" drawable="h_viewer" />
-	<item component="ComponentInfo{com.htinns/com.igexin.sdk.GetuiActivity}" drawable="h_viewer" />
-	<item component="ComponentInfo{com.htinns/com.sina.weibo.sdk.share.ShareTransActivity}" drawable="h_viewer" />
-	<item component="ComponentInfo{com.htinns/com.bytedance.applog.migrate.MigrateDetectorActivity}" drawable="h_viewer" />
+	<item component="ComponentInfo{com.htinns/com.huazhu.loading.LoadingActivity}" drawable="htinns" />
+	<item component="ComponentInfo{com.htinns/.UI.PushProcessActivity}" drawable="htinns" />
+	<item component="ComponentInfo{com.htinns/com.jdpaysdk.author.AuthorActivity}" drawable="htinns" />
+	<item component="ComponentInfo{com.htinns/.UI.LaunchActivity}" drawable="htinns" />
+	<item component="ComponentInfo{com.htinns/com.tencent.tauth.AuthActivity}" drawable="htinns" />
+	<item component="ComponentInfo{com.htinns/.pay.commonpay.CommonPayActivityV2}" drawable="htinns" />
+	<item component="ComponentInfo{com.htinns/com.huazhu.main.RnMainActivity}" drawable="htinns" />
+	<item component="ComponentInfo{com.htinns/com.igexin.sdk.GActivity}" drawable="htinns" />
+	<item component="ComponentInfo{com.htinns/com.igexin.sdk.GetuiActivity}" drawable="htinns" />
+	<item component="ComponentInfo{com.htinns/com.sina.weibo.sdk.share.ShareTransActivity}" drawable="htinns" />
+	<item component="ComponentInfo{com.htinns/com.bytedance.applog.migrate.MigrateDetectorActivity}" drawable="htinns" />
 	<!--亚朵 -->
-	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.activity.LaunchActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/.wxapi.WXEntryActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/com.atour.cashier.pay.AlipayMiniProgramCallbackActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/cn.sharesdk.tencent.qq.ReceiveActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/cn.fly.id.FlyIDActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/cn.fly.id.NFlyIDSYActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/cn.jpush.android.ui.PushActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/com.mob.guard.MobTranPullUpActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/com.mob.id.MobIDActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/cn.android.service.JTransitActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/cn.jpush.android.intent.JNotifyActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/cn.jpush.android.service.JNotifyActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/com.mob.id.MobIDSYActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/com.mob.guard.MobTranPullLockActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/com.sina.weibo.sdk.share.ShareTransActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/com.bytedance.applog.migrate.MigrateDetectorActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.activity.OperationActivity}" drawable="ampere" />
-	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.main.activity.MainActivity}" drawable="ampere" />
+	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.activity.LaunchActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/.wxapi.WXEntryActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/com.atour.cashier.pay.AlipayMiniProgramCallbackActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/cn.sharesdk.tencent.qq.ReceiveActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/cn.fly.id.FlyIDActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/cn.fly.id.NFlyIDSYActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/cn.jpush.android.ui.PushActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/com.mob.guard.MobTranPullUpActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/com.mob.id.MobIDActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/cn.android.service.JTransitActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/cn.jpush.android.intent.JNotifyActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/cn.jpush.android.service.JNotifyActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/com.mob.id.MobIDSYActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/com.mob.guard.MobTranPullLockActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/com.sina.weibo.sdk.share.ShareTransActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/com.bytedance.applog.migrate.MigrateDetectorActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.activity.OperationActivity}" drawable="atour" />
+	<item component="ComponentInfo{com.atour.atourlife/com.atour.atourlife.main.activity.MainActivity}" drawable="atour" />
 	<!--Digital Concert Hall/柏林爱乐-->
 	<item component="ComponentInfo{com.novoda.dch/com.digitalconcerthall.intro.StartupActivity}" drawable="bp" />
 	<item component="ComponentInfo{com.novoda.dch/com.digitalconcerthall.cast.ExpandedControlsActivity}" drawable="bp" />
@@ -285,7 +285,7 @@
 	<item component="ComponentInfo{com.google.android.odad/com.google.android.libraries.strictmode.penalties.notification.FullStackTraceActivity}" drawable="emui_systemmanager" />
 	<item component="ComponentInfo{com.google.android.odad/com.google.android.apps.miphone.odad.settings.UserSettingsActivity}" drawable="emui_systemmanager" />
 	<!--YoutTube TV-->
-	<item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.startup.activity.SplashActivity}" drawable="tv_plus" />
+	<item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.startup.activity.SplashActivity}" drawable="youtube_tv" />
 
 	<!--瑞幸咖啡-->
 	<item component="ComponentInfo{com.lucky.luckyclient/com.luckin.client.main.splash.SplashActivity}" drawable="luckin_coffee" />

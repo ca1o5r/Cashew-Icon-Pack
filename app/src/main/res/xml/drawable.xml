@@ -501,6 +501,7 @@
 		<item drawable="asphalt9" />
 		<item drawable="asus_router_compressed" />
 		<item drawable="atom_vpn" />
+		<item drawable="atour" />
 		<item drawable="audiofx_1" />
 		<item drawable="audiofx" />
 		<item drawable="aurora_store" />
@@ -1383,6 +1384,7 @@
 		<item drawable="hsbb" />
 		<item drawable="hsrj" />
 		<item drawable="ht_video" />
+		<item drawable="htinns" />
 		<item drawable="huaban" />
 		<item drawable="huawei_appmarket" />
 		<item drawable="huawei_backup" />
@@ -2236,6 +2238,7 @@
 		<item drawable="roundcorner" />
 		<item drawable="rricon_primitive" />
 		<item drawable="same" />
+		<item drawable="samsclub" />
 		<item drawable="samsung_artcanvas" />
 		<item drawable="rricon" />
 		<item drawable="samsung_assistant" />
@@ -2330,6 +2333,7 @@
 		<item drawable="settings_3" />
 		<item drawable="settings_alt_pixel_blue" />
 		<item drawable="settings_editor" />
+		<item drawable="sf_express" />
 		<item drawable="sfly" />
 		<item drawable="settings" />
 		<item drawable="sgsol" />
@@ -2771,6 +2775,7 @@
 		<item drawable="vmos" />
 		<item drawable="voez" />
 		<item drawable="voice_tmall" />
+		<item drawable="voov" />
 		<item drawable="vsco" />
 		<item drawable="vue" />
 		<item drawable="vue_1" />
@@ -3027,6 +3032,7 @@
 		<item drawable="youku_1" />
 		<item drawable="your_phone_companion" />
 		<item drawable="youtube_music" />
+		<item drawable="youtube_tv" />
 		<item drawable="youyaoqimanhua" />
 		<item drawable="yuantiku_gaokao" />
 		<item drawable="yuantiku_gongkao" />
