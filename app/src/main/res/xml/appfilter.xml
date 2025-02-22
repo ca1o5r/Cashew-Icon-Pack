@@ -115,22 +115,22 @@
 	<item component="ComponentInfo{com.lianjia.beike/com.homelink.android.homepage.view.activity.SelectCityActivity}" drawable="apex_launcher" />
 	<item component="ComponentInfo{com.lianjia.beike/com.lianjia.platform.sellhouse.activity.NewUserGuideSellHouseActivity}" drawable="apex_launcher" />
 	<!--麦德龙-->
-	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.DEFAULT}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/com.dmall.payment.cmb.CMBPayCallbackActivity}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/com.boc.epay.BocEpaySchemeActivity}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/com.jdpaysdk.author.AuthorActivity}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/com.dmall.payment.ums.UMSAlipayMPCallbackActivity}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/com.dmall.payment.bob.BOBPayCallbackActivity}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.alipay.AlipayEntryActivity}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.MainActivity}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/.wxapi.WXEntryActivity}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/com.igexin.sdk.GetuiActivity}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.LaunchActivity}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/cmbapi.CMBApiEntryActivity}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/com.dmall.payment.icbc.PayICBCResultActivity}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/com.dmall.payment.ccb.CCBPayResultActivity}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/com.dmall.cms.start.userprivacy.DisAgreePrivacyWebViewActivity}" drawable="alimail" />
-	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.ProtocolWebViewActivity}" drawable="alimail" />
+	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.DEFAULT}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/com.dmall.payment.cmb.CMBPayCallbackActivity}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/com.boc.epay.BocEpaySchemeActivity}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/com.jdpaysdk.author.AuthorActivity}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/com.dmall.payment.ums.UMSAlipayMPCallbackActivity}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/com.dmall.payment.bob.BOBPayCallbackActivity}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.alipay.AlipayEntryActivity}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.MainActivity}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/.wxapi.WXEntryActivity}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/com.igexin.sdk.GetuiActivity}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.LaunchActivity}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/cmbapi.CMBApiEntryActivity}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/com.dmall.payment.icbc.PayICBCResultActivity}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/com.dmall.payment.ccb.CCBPayResultActivity}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/com.dmall.cms.start.userprivacy.DisAgreePrivacyWebViewActivity}" drawable="metro_mall" />
+	<item component="ComponentInfo{com.dm.metro/com.wm.dmall.ProtocolWebViewActivity}" drawable="metro_mall" />
 	<!--ChatGPT-->
 	<item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="chatgpt" />
 	<item component="ComponentInfo{com.openai.chatgpt/.MainActivity}" drawable="chatgpt" />

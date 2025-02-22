@@ -1716,6 +1716,7 @@
 		<item drawable="message" />
 		<item drawable="messenger_lite" />
 		<item drawable="metro" />
+		<item drawable="metro_mall" />
 		<item drawable="mi_control_center" />
 		<item drawable="mi_home" />
 		<item drawable="mi_remote" />
