@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="voov.svg"
+   inkscape:export-filename="voov.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.6137977"
+     inkscape:cx="397.52511"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1440"
+     inkscape:window-height="890"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter9"
+       x="-0.025077318"
+       y="-0.045392684"
+       width="1.0606035"
+       height="1.1475262">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         id="feFlood8" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="2.000000"
+         id="feGaussianBlur8" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="2.000000"
+         dy="6.000000"
+         id="feOffset8" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite8" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite9" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="VooV_Logo"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1-9"
+       style="fill:#5a99ff;fill-opacity:1;stroke-width:2.07642;filter:url(#filter9)"
+       d="m 70.843872,80.125437 -0.238229,0.236678 -0.07855,-0.07803 -0.0021,0.158647 L 15.41311,135.2396 c -10.7693696,10.76942 -4.43435,21.22208 -4.43435,21.22208 l 25.339536,28.19068 33.266703,-33.41882 -0.0083,0.63511 0.65629,-0.66198 35.593171,34.64976 34.31729,-33.33924 33.20107,33.35216 25.34109,-28.19017 c 0,0 6.3335,-10.45266 -4.4359,-21.22208 l -55.4297,-55.114682 -33.37987,33.379972 z m 33.621208,36.550333 0.0139,0.0139 -0.75086,0.72967 z"
+       inkscape:label="Shadow" />
+    <path
+       style="display:inline;fill:#045bfe;fill-opacity:1;stroke-width:2.07642"
+       d="M 14.79989,139.66155 70.230495,84.547714 105.07258,119.38981 35.705145,189.07397 10.365442,160.88356 c 0,0 -6.3349251,-10.45264 4.434448,-21.22201 z"
+       id="path1"
+       sodipodi:insensitive="true"
+       inkscape:label="Left_Part" />
+    <path
+       id="path1-6"
+       style="display:inline;fill:#0381fe;fill-opacity:1;stroke-width:2.07642"
+       d="m 138.20701,85.764658 -34.84269,34.842692 0.50173,0.50468 -34.885605,33.89399 36.232425,35.2719 34.31728,-33.339 33.20134,33.35232 25.34095,-28.18999 c 0,0 6.33375,-10.45266 -4.43565,-21.22203 z"
+       sodipodi:insensitive="true"
+       inkscape:label="Right_Part" />
+    <path
+       style="display:inline;fill:#043bfe;fill-opacity:1;stroke-width:2.07642"
+       d="m 69.913745,84.706088 -0.95024,71.584642 36.267445,-36.58418 z"
+       id="path2"
+       sodipodi:insensitive="true"
+       inkscape:label="Triangle" />
+  </g>
+</svg>
