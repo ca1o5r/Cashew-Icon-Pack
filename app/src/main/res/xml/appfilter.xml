@@ -306,6 +306,8 @@
 	<!--Wikipedia/维基百科-->
 	<item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.DefaultIcon}" drawable="wikipedia" />
 	<item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
+	<item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.search.SearchActivity}" drawable="wikipedia" />
+	<item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.page.PageActivity}" drawable="wikipedia" />
 	<item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
 
 	<!--京东快递-->
