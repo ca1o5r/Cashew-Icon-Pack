@@ -502,6 +502,7 @@
 		<item drawable="asus_router_compressed" />
 		<item drawable="atom_vpn" />
 		<item drawable="atour" />
+		<item drawable="atrust" />
 		<item drawable="audiofx_1" />
 		<item drawable="audiofx" />
 		<item drawable="aurora_store" />
@@ -978,6 +979,7 @@
 		<item drawable="feichangzhun" />
 		<item drawable="feishu" />
 		<item drawable="feizhu" />
+		<item drawable="feng__chao" />
 		<item drawable="fenghuang" />
 		<item drawable="fenghuang_fm" />
 		<item drawable="fenqile" />
@@ -1974,6 +1976,7 @@
 		<item drawable="okta" />
 		<item drawable="olympus_image_share" />
 		<item drawable="omfg" />
+		<item drawable="omnissa_horizon" />
 		<item drawable="one" />
 		<item drawable="onedrive" />
 		<item drawable="onenote_1" />
@@ -2360,6 +2363,7 @@
 		<item drawable="shou__ji__xing__neng__pai__hang" />
 		<item drawable="shuqi" />
 		<item drawable="shuqi_alt" />
+		<item drawable="shu__zi__ren__min__bi" />
 		<item drawable="shuttle" />
 		<item drawable="sim_toolkit" />
 		<item drawable="sim_toolkit_1" />
@@ -3042,6 +3046,7 @@
 		<item drawable="yuantiku_souti" />
 		<item drawable="yuedong_sport" />
 		<item drawable="yuelaiyuehao" />
+		<item drawable="yun__zhi__jia" />
 		<item drawable="youtube" />
 		<item drawable="yunduo_nighttools" />
 		<item drawable="yunduo_nighttools_1" />

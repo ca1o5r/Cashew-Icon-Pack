@@ -63,8 +63,6 @@
 	<item component="ComponentInfo{com.google.android.projection.gearhead/.MainActivity}" drawable="airbrush" />
 	<!--Health Connect/健康数据共享-->
 	<item component="ComponentInfo{com.google.android.apps.healthdata/.MainActivity}" drawable="emui_health" />
-	<!--云之家-->
-	<item component="ComponentInfo{com.kdweibo.client/com.kdweibo.android.ui.activity.StartActivity}" drawable="qcloud" />
 	<!--小宇宙-->
 	<item component="ComponentInfo{app.podcast.cosmos/io.iftech.android.podcast.app.home.main.view.MainActivity}" drawable="xiaomi_browser" />
 	<item component="ComponentInfo{app.podcast.cosmos/app.podcast.cosmos.default}" drawable="xiaomi_browser" />
@@ -74,8 +72,6 @@
 	<item component="ComponentInfo{com.nothing.weather/com.nothing.weather.ui.main.MainActivity}" drawable="pure_weather_1" />
 	<!--Google Personal Safety/Google个人安全-->
 	<item component="ComponentInfo{com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.LauncherActivity}" drawable="nubia_security" />
-	<!--E-CNY/数字人民币-->
-	<item component="ComponentInfo{cn.gov.pbc.dcep/cn.gov.pbc.dcep.DcepLauncherActivity}" drawable="folder_payment" />
 	<!--Photomath-->
 	<item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.activity.LauncherActivity}" drawable="netease_super_calculator" />
 	<!--Google Find My Device/Google查找设备-->
@@ -286,6 +282,22 @@
 	<item component="ComponentInfo{com.google.android.odad/com.google.android.apps.miphone.odad.settings.UserSettingsActivity}" drawable="emui_systemmanager" />
 	<!--YoutTube TV-->
 	<item component="ComponentInfo{com.google.android.apps.youtube.unplugged/com.google.android.apps.youtube.unplugged.startup.activity.SplashActivity}" drawable="youtube_tv" />
+	<!--aTrust-->
+	<item component="ComponentInfo{com.sangfor.atrust/com.sangfor.atrust.MainActivity}" drawable="atrust" />
+	<item component="ComponentInfo{com.sangfor.atrust/.MainActivity}" drawable="atrust" />
+	<item component="ComponentInfo{com.sangfor.atrust/.activitys.UPushOfflineMessageActivity}" drawable="atrust" />
+	<item component="ComponentInfo{com.sangfor.atrust/com.umeng.message.UMessageNotifyActivity}" drawable="atrust" />
+	<item component="ComponentInfo{com.sangfor.atrust/com.sangfor.atrust.sdp_tunnel.VpnPermissionActivity}" drawable="atrust" />
+	<item component="ComponentInfo{com.sangfor.atrust/com.sangfor.atrust.sdp_tunnel.VpnPermissionActivity}" drawable="atrust" />
+	<!--Omnissa Horizon-->
+	<item component="ComponentInfo{com.omnissa.horizon.client.android/com.omnissa.horizon.client.android.OmnissaHorizonPcoipActivity}" drawable="omnissa_horizon" />
+	<item component="ComponentInfo{com.omnissa.horizon.client.android/.OmnissaHorizonPcoipActivity}" drawable="omnissa_horizon" />
+
+	<!--E-CNY/数字人民币-->
+	<item component="ComponentInfo{cn.gov.pbc.dcep/cn.gov.pbc.dcep.DcepLauncherActivity}" drawable="shu__zi__ren__min__bi" />
+
+	<!--云之家-->
+	<item component="ComponentInfo{com.kdweibo.client/com.kdweibo.android.ui.activity.StartActivity}" drawable="yun__zhi__jia" />
 
 	<!--瑞幸咖啡-->
 	<item component="ComponentInfo{com.lucky.luckyclient/com.luckin.client.main.splash.SplashActivity}" drawable="luckin_coffee" />
