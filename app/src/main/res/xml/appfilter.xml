@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!--	<item component="ComponentInfo{com.access_company.android.sh_jumpplus/giga.app.MainActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{jp.co.kodansha.android.magazinepocket/com.sega.mage2.ui.common.activities.SplashActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{website.leifs.delta/website.leifs.delta.activities.MainActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{jp.co.shueisha.youngjump.android/jp.co.shueisha.youngjump.android.MainActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{jp.co.shogakukan.sunday_webry/jp.co.shogakukan.sunday_webry.presentation.rootnavigation.RootNavigationActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{jp.co.kodansha.comicdays/com.goodpatch.comicdays.presentation.launch.view.LaunchActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.blizzard.arc/com.blizzard.gryphon.unity.player.GryphonUnityPlayerActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.disney.shanghaidisneyland_goo/com.disney.wdpro.park.activities.SplashActivity}" drawable="" />-->
-<!--	<item component="ComponentInfo{com.tongliebookcity.android/com.tongliebookcity.android.Activity.SplashActivity}" drawable="" />-->
+	<item component="ComponentInfo{com.access_company.android.sh_jumpplus/giga.app.MainActivity}" drawable="sleep_as_android" />
+	<item component="ComponentInfo{jp.co.kodansha.android.magazinepocket/com.sega.mage2.ui.common.activities.SplashActivity}" drawable="sleep_as_android" />
+	<item component="ComponentInfo{com.tongliebookcity.android/com.tongliebookcity.android.Activity.SplashActivity}" drawable="sleep_as_android" />
+	<item component="ComponentInfo{jp.co.shueisha.youngjump.android/jp.co.shueisha.youngjump.android.MainActivity}" drawable="sleep_as_android" />
+	<item component="ComponentInfo{jp.co.shogakukan.sunday_webry/jp.co.shogakukan.sunday_webry.presentation.rootnavigation.RootNavigationActivity}" drawable="sleep_as_android" />
+	<item component="ComponentInfo{jp.co.kodansha.comicdays/com.goodpatch.comicdays.presentation.launch.view.LaunchActivity}" drawable="sleep_as_android" />
 
 	<!--图标包应用-->
 	<item component="ComponentInfo{com.cashew.iconpack/com.cashew.iconpack.MainActivity}" drawable="cyanogenmod_theme_chooser" />
@@ -366,10 +362,18 @@
 	<!--KFC/肯德基-->
 	<item component="ComponentInfo{com.kfc.us.mobile/com.kfc.us.mobile.MainActivity}" drawable="kfc_1" />
 	<item component="ComponentInfo{com.yek.android.kfc.activitys/com.yum.brandkfc.SplashAct}" drawable="kfc_1"/>
+	<item component="ComponentInfo{com.kfc.us.mobile/com.kfc.us.mobile.MainActivityDefault}" drawable="kfc_1" />
+	<item component="ComponentInfo{com.kfc.us.mobile/.MainActivity}" drawable="kfc_1" />
+	<item component="ComponentInfo{com.kfc.us.mobile/.MainActivityValentines2025}" drawable="kfc_1" />
+	<item component="ComponentInfo{com.kfc.us.mobile/.MainActivityDefault}" drawable="kfc_1" />
+	<item component="ComponentInfo{com.kfc.us.mobile/.MainActivitySuperBowl2025}" drawable="kfc_1" />
 
 	<!--Pizza Hut/必胜客-->
 	<item component="ComponentInfo{com.yum.pizzahut/com.isobar.pizzahut.android.MainActivity}" drawable="pizzahut" />
 	<item component="ComponentInfo{com.yumc.phsuperapp/com.yum.ph.SplashAct}" drawable="pizzahut" />
+	<item component="ComponentInfo{com.yum.pizzahut/com.yum.pizzahut.MainActivity}" drawable="pizzahut" />
+	<item component="ComponentInfo{com.yum.pizzahut/.MainActivity}" drawable="pizzahut" />
+	<item component="ComponentInfo{com.yum.pizzahut/.net.openid.appauth.RedirectUriReceiverActivity}" drawable="pizzahut" />
 
 	<!--McDonald's/麦当劳-->
 	<item component="ComponentInfo{com.mcdonalds.app/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds_1" />
