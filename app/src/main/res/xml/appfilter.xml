@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<item component="ComponentInfo{com.access_company.android.sh_jumpplus/giga.app.MainActivity}" drawable="sleep_as_android" />
-	<item component="ComponentInfo{jp.co.kodansha.android.magazinepocket/com.sega.mage2.ui.common.activities.SplashActivity}" drawable="sleep_as_android" />
-	<item component="ComponentInfo{com.tongliebookcity.android/com.tongliebookcity.android.Activity.SplashActivity}" drawable="sleep_as_android" />
-	<item component="ComponentInfo{jp.co.shueisha.youngjump.android/jp.co.shueisha.youngjump.android.MainActivity}" drawable="sleep_as_android" />
-	<item component="ComponentInfo{jp.co.shogakukan.sunday_webry/jp.co.shogakukan.sunday_webry.presentation.rootnavigation.RootNavigationActivity}" drawable="sleep_as_android" />
-	<item component="ComponentInfo{jp.co.kodansha.comicdays/com.goodpatch.comicdays.presentation.launch.view.LaunchActivity}" drawable="sleep_as_android" />
+<!--	<item component="ComponentInfo{com.access_company.android.sh_jumpplus/giga.app.MainActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{jp.co.kodansha.android.magazinepocket/com.sega.mage2.ui.common.activities.SplashActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.tongliebookcity.android/com.tongliebookcity.android.Activity.SplashActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{jp.co.shueisha.youngjump.android/jp.co.shueisha.youngjump.android.MainActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{jp.co.shogakukan.sunday_webry/jp.co.shogakukan.sunday_webry.presentation.rootnavigation.RootNavigationActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{jp.co.kodansha.comicdays/com.goodpatch.comicdays.presentation.launch.view.LaunchActivity}" drawable="sleep_as_android" />-->
 
 	<!--图标包应用-->
 	<item component="ComponentInfo{com.cashew.iconpack/com.cashew.iconpack.MainActivity}" drawable="cyanogenmod_theme_chooser" />
