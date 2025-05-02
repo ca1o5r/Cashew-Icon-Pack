@@ -289,6 +289,22 @@
 	<item component="ComponentInfo{com.omnissa.horizon.client.android/com.omnissa.horizon.client.android.OmnissaHorizonPcoipActivity}" drawable="omnissa_horizon" />
 	<item component="ComponentInfo{com.omnissa.horizon.client.android/.OmnissaHorizonPcoipActivity}" drawable="omnissa_horizon" />
 
+	<!--Google Play Books/Google图书-->
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="google_play_books" />
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.play.books.upload.UploadActivityEpub}" drawable="google_play_books" />
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.play.books.app.UploadsActivityAliasPdf}" drawable="google_play_books" />
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.play.books.ebook.activity.ReadingActivity}" drawable="google_play_books" />
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.play.books.home.HomeActivity}" drawable="google_play_books" />
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.play.books.screen.deeplink.DeepLinkActivity}" drawable="google_play_books" />
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.play.books.audiobook.ui.AudiobookActivity}" drawable="google_play_books" />
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.play.books.audiobook.ui.AudiobookTrampolineActivity}" drawable="google_play_books" />
+	<item component="ComponentInfo{com.google.android.apps.books/.app.BooksActivity}" drawable="google_play_books" />
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.play.books.settings.AppSettingsActivity}" drawable="google_play_books" />
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.play.books.home.BooksShortcutActivity}" drawable="google_play_books" />
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.play.books.firstrun.FirstRunActivity}" drawable="google_play_books" />
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.play.core.common.PlayCoreDialogWrapperActivity}" drawable="google_play_books" />
+	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.play.books.navigation.activity.ArbitraryFragmentActivity}" drawable="google_play_books" />
+
 	<!--E-CNY/数字人民币-->
 	<item component="ComponentInfo{cn.gov.pbc.dcep/cn.gov.pbc.dcep.DcepLauncherActivity}" drawable="shu__zi__ren__min__bi" />
 
@@ -1438,7 +1454,6 @@
 	<item component="ComponentInfo{com.github.sumimakito.awesomeqrsample/com.github.sumimakito.awesomeqrsample.activity.MainActivity}" drawable="awesome_qr"/>
 	<item component="ComponentInfo{com.gombosdev.ampere/com.gombosdev.ampere.MainActivity}" drawable="ampere" />
 	<item component="ComponentInfo{com.goodseed.iconpack/com.by_syk.lib.nanoiconpack.MainActivity}" drawable="goodseed" />
-	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="google_play_books" />
 	<item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity}" drawable="classroom"/>
 	<item component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_docs" />
 	<item component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_forms" />
