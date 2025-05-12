@@ -83,7 +83,6 @@
 <!--    <item component="ComponentInfo{com.rfi.sams.android/com.rfi.sams.android.main.SplashActivity}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.android.internal.systemui.navbar.threebutton/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.android.egg/}" drawable="sleep_as_android" />-->
-<!--    <item component="ComponentInfo{com.sf.activity/com.sf.activity.CustomActivity}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.qualcomm.qtil.aptxals/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.google.android.overlay.modules.modulemetadata.forframework/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.nothing.thirdparty/}" drawable="sleep_as_android" />-->
@@ -219,7 +218,6 @@
 <!--    <item component="ComponentInfo{com.android.rkpdapp/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.android.hotwordenrollment.xgoogle/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.qualcomm.qti.dynamicddsservice/}" drawable="sleep_as_android" />-->
-<!--    <item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.wallet.WalletActivity}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.android.pacprocessor/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.qualcomm.qti.gpudrivers.lahaina.api30/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.google.android.safetycenter.resources/}" drawable="sleep_as_android" />-->
@@ -499,7 +497,10 @@
 	<item component="ComponentInfo{com.disney.disneyplus/com.bamtechmedia.dominguez.main.MainActivity}" drawable="disney_plus" />
 	<!--顺丰-->
 	<item component="ComponentInfo{com.sf.activity/com.sf.activity.MainActivity}" drawable="sf_express" />
+	<item component="ComponentInfo{com.sf.activity/com.sf.activity.CustomActivity}" drawable="sf_express" />
 	<item component="ComponentInfo{com.sf.activity/.MainActivity}" drawable="sf_express" />
+	<item component="ComponentInfo{com.sf.activity/.CustomActivity}" drawable="sf_express" />
+	<item component="ComponentInfo{com.sf.activity/.DefaultActivity}" drawable="sf_express" />
 	<item component="ComponentInfo{com.sf.activity/cn.jpush.android.ui.PushActivity}" drawable="sf_express" />
 	<item component="ComponentInfo{com.sf.activity/cn.android.service.JTransitActivity}" drawable="sf_express" />
 	<item component="ComponentInfo{com.sf.activity/cn.jpush.android.intent.JNotifyActivity}" drawable="sf_express" />
@@ -578,6 +579,10 @@
 	<!--Omnissa Horizon-->
 	<item component="ComponentInfo{com.omnissa.horizon.client.android/com.omnissa.horizon.client.android.OmnissaHorizonPcoipActivity}" drawable="omnissa_horizon" />
 	<item component="ComponentInfo{com.omnissa.horizon.client.android/.OmnissaHorizonPcoipActivity}" drawable="omnissa_horizon" />
+
+	<!--Google Wallet/Google钱包-->
+	<item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.wallet.WalletActivity}" drawable="google_pay" />
+	<item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity}" drawable="google_pay" />
 
 	<!--Google Play Books/Google图书-->
 	<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="google_play_books" />
@@ -1765,7 +1770,6 @@
 	<item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="google_duo" />
 	<item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="google_translate" />
 	<item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity}" drawable="android_pay" />
-	<item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity}" drawable="google_pay" />
 	<item component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}" drawable="google_wallpapers_alt" />
 	<item component="ComponentInfo{com.nothing.wallpaper/.MainActivity}" drawable="google_wallpapers_alt" />
 	<item component="ComponentInfo{com.nothing.wallpapersstub/.MainActivity}" drawable="google_wallpapers_alt" />
