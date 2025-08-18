@@ -347,6 +347,8 @@
 	<item component="ComponentInfo{com.google.android.projection.gearhead/.MainActivity}" drawable="airbrush" />
 	<!--Health Connect/健康数据共享-->
 	<item component="ComponentInfo{com.google.android.apps.healthdata/.MainActivity}" drawable="emui_health" />
+	<!--Google NotebookLM-->
+	<item component="ComponentInfo{com.google.android.apps.labs.language.tailwind/com.google.android.apps.labs.language.tailwind.MainActivityDev}" drawable="google_podcasts" />
 	<!--小宇宙-->
 	<item component="ComponentInfo{app.podcast.cosmos/io.iftech.android.podcast.app.home.main.view.MainActivity}" drawable="xiaomi_browser" />
 	<item component="ComponentInfo{app.podcast.cosmos/app.podcast.cosmos.default}" drawable="xiaomi_browser" />
@@ -579,6 +581,10 @@
 	<!--Omnissa Horizon-->
 	<item component="ComponentInfo{com.omnissa.horizon.client.android/com.omnissa.horizon.client.android.OmnissaHorizonPcoipActivity}" drawable="omnissa_horizon" />
 	<item component="ComponentInfo{com.omnissa.horizon.client.android/.OmnissaHorizonPcoipActivity}" drawable="omnissa_horizon" />
+	<!--Clash for Meta-->
+	<item component="ComponentInfo{com.github.metacubex.clash.meta/com.github.kr328.clash.MainActivityAlias}" drawable="clash_meta_for_android" />
+	<item component="ComponentInfo{com.github.metacubex.clash.meta/com.github.kr328.clash.MainActivity}" drawable="clash_meta_for_android"/>
+	<item component="ComponentInfo{com.github.kr328.clash/com.github.kr328.clash.MainActivity}" drawable="clash_for_android"/>
 
 	<!--Google Wallet/Google钱包-->
 	<item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.wallet.WalletActivity}" drawable="google_pay" />
@@ -1744,7 +1750,6 @@
 	<item component="ComponentInfo{com.gedoor.monkeybook/com.monke.monkeybook.view.activity.WelcomeBookActivity}" drawable="monkeybook"/>
 	<item component="ComponentInfo{com.gedoor.monkeybook/com.monke.monkeybook.view.activity.WelcomeBookActivity}" drawable="monkeybook"/>
 	<item component="ComponentInfo{com.github.dawndiy.bifrostv/com.github.dawndiy.bifrostv.main.MainActivity}" drawable="bifrostv"/>
-	<item component="ComponentInfo{com.github.kr328.clash/com.github.kr328.clash.MainActivity}" drawable="clash_for_android"/>
 	<item component="ComponentInfo{com.github.shadowsocks/com.github.shadowsocks.MainActivity}" drawable="ss" />
 	<item component="ComponentInfo{com.github.sumimakito.awesomeqrsample/com.github.sumimakito.awesomeqrsample.activity.MainActivity}" drawable="awesome_qr"/>
 	<item component="ComponentInfo{com.gombosdev.ampere/com.gombosdev.ampere.MainActivity}" drawable="ampere" />
@@ -2694,7 +2699,6 @@
 
 	<item component="ComponentInfo{notion.id/notion.id.MainActivity}" drawable="notion" />
 	<item component="ComponentInfo{notion.id/notion.local.id.MainActivity}" drawable="notion" />
-	<item component="ComponentInfo{com.github.metacubex.clash.meta/com.github.kr328.clash.MainActivity}" drawable="clash_meta_for_android"/>
 	<item component="ComponentInfo{com.nothing.appservice/com.nothing.appservice.MainActivity}" drawable="nothing_system_service"/>
 	<item component="ComponentInfo{network.tracker.app/network.tracker.app.MainActivity}" drawable="tracker_network" />
 	<item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.PremiumIcon}" drawable="telegram_premium" />
