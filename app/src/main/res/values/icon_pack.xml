@@ -1,6 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string-array name="icons_preview">
+	<string-array name="icons_preview">
+		<item>a__li__yun__pan</item>
+		<item>a_1_1_oblatum_warning</item>
+		<item>a_123__yun__pan</item>
+		<item>a_139__you__xiang</item>
+		<item>a_1more_assistant</item>
+		<item>a_1password_compressed</item>
+		<item>a_4399__you__xi__he</item>
+		<item>a_50yin</item>
+		<item>a_58__tong__cheng</item>
+		<item>a_95fen</item>
+		<item>a_island</item>
 		<item>a10086</item>
 		<item>a115</item>
 		<item>a17</item>
@@ -45,18 +56,11 @@
 		<item>a3dmark</item>
 		<item>a500px</item>
 		<item>a500px_alt</item>
+		<item>a51_credit_card_manager</item>
 		<item>a51job</item>
 		<item>a51offer</item>
-		<item>a51_credit_card_manager</item>
 		<item>a5sing</item>
 		<item>a94_percent</item>
-		<item>a_139__you__xiang</item>
-		<item>a_1more_assistant</item>
-		<item>a_1password_compressed</item>
-		<item>a_1_1_oblatum_warning</item>
-		<item>a_50yin</item>
-		<item>a_95fen</item>
-		<item>a_island</item>
 		<item>abbey</item>
 		<item>abc</item>
 		<item>abcchina_bank</item>
@@ -65,13 +69,11 @@
 		<item>acfun_1</item>
 		<item>acrobat</item>
 		<item>actinium</item>
-		<item>actiondash</item>
 		<item>action_launcher</item>
 		<item>action_launcher_1</item>
-		<item>adaway</item>
+		<item>actiondash</item>
 		<item>ad_wars</item>
-		<item>aibizhi</item>
-		<item>aida64</item>
+		<item>adaway</item>
 		<item>adguard</item>
 		<item>adm_pro</item>
 		<item>adobe_acrobat</item>
@@ -100,10 +102,14 @@
 		<item>adsafe</item>
 		<item>advance_download_manager</item>
 		<item>advblock</item>
+		<item>ai_type_keyboard</item>
+		<item>aibizhi</item>
+		<item>aida64</item>
 		<item>aide</item>
 		<item>aikan_reader</item>
 		<item>aimp</item>
 		<item>ainanning</item>
+		<item>air_matters</item>
 		<item>airbattery</item>
 		<item>airbnb</item>
 		<item>airbrush</item>
@@ -111,9 +117,15 @@
 		<item>airdroid_1</item>
 		<item>airfrozen</item>
 		<item>airfrozen_1</item>
-		<item>air_matters</item>
 		<item>aisen</item>
-		<item>ai_type_keyboard</item>
+		<item>ali_antfortune</item>
+		<item>ali_cainiao_guoguo</item>
+		<item>ali_dingding</item>
+		<item>ali_jiankang</item>
+		<item>ali_koubei_waimai</item>
+		<item>ali_miaojie</item>
+		<item>ali_mybank</item>
+		<item>ali_newjob</item>
 		<item>ali_smartdail</item>
 		<item>ali_taobao</item>
 		<item>ali_taobao_dianying</item>
@@ -132,22 +144,14 @@
 		<item>alimail</item>
 		<item>alipay</item>
 		<item>alipay_1</item>
+		<item>alipay_alt</item>
 		<item>alipay_alt2</item>
 		<item>alipay_alt3</item>
 		<item>alipay_qr_code</item>
-		<item>alipay_alt</item>
 		<item>aliqin</item>
 		<item>aliyun</item>
 		<item>aliyun_1</item>
 		<item>aliyun_alink</item>
-		<item>ali_antfortune</item>
-		<item>ali_cainiao_guoguo</item>
-		<item>ali_dingding</item>
-		<item>ali_jiankang</item>
-		<item>ali_koubei_waimai</item>
-		<item>ali_miaojie</item>
-		<item>ali_mybank</item>
-		<item>ali_newjob</item>
 		<item>allhistory</item>
 		<item>almalence_camera</item>
 		<item>aloha</item>
@@ -166,8 +170,9 @@
 		<item>android_central</item>
 		<item>android_nify</item>
 		<item>android_p_ify</item>
-		<item>anime_taste</item>
 		<item>android_pay</item>
+		<item>anime_taste</item>
+		<item>animepipe</item>
 		<item>ankidroid</item>
 		<item>ankidroid_1</item>
 		<item>ansole</item>
@@ -178,28 +183,28 @@
 		<item>anyview_1</item>
 		<item>apex</item>
 		<item>apex_launcher</item>
+		<item>apk_editor</item>
 		<item>apk_store</item>
 		<item>apkmirror</item>
 		<item>apkpure</item>
 		<item>apkpure_1</item>
-		<item>apk_editor</item>
 		<item>aplayer</item>
-		<item>appchina_yingyonghui_market</item>
-		<item>appenv</item>
 		<item>app__fen__xiang</item>
+		<item>app_backup_restore_transfer</item>
+		<item>app_drawer</item>
+		<item>app_drawer_alt</item>
+		<item>app_lock</item>
 		<item>app_logo</item>
 		<item>app_qq</item>
 		<item>app_settings</item>
 		<item>app_splash_screen_picture</item>
 		<item>app_tracker</item>
+		<item>appchina_yingyonghui_market</item>
+		<item>appenv</item>
 		<item>apple_music</item>
 		<item>apple_music_1</item>
 		<item>appopsx</item>
 		<item>appso</item>
-		<item>app_backup_restore_transfer</item>
-		<item>app_drawer</item>
-		<item>app_drawer_alt</item>
-		<item>app_lock</item>
 		<item>aqjypt</item>
 		<item>arcaea</item>
 		<item>aries_iconpack</item>
@@ -226,7 +231,6 @@
 		<item>avmovie</item>
 		<item>avnight</item>
 		<item>awesome_qr</item>
-		<item>a_123__yun__pan</item>
 		<item>b612</item>
 		<item>b612_1</item>
 		<item>b612_jimeng</item>
@@ -283,10 +287,11 @@
 		<item>bank_pingan</item>
 		<item>bankcomm</item>
 		<item>bar</item>
+		<item>battery_guru</item>
 		<item>battery_taskmaster</item>
+		<item>battle_net_authenticator</item>
 		<item>battlefield_companion</item>
 		<item>battlefield_companion_alt</item>
-		<item>battle_net_authenticator</item>
 		<item>bbs1024</item>
 		<item>behance</item>
 		<item>behance_1</item>
@@ -304,10 +309,11 @@
 		<item>bilibili_alt</item>
 		<item>bilibili_blue</item>
 		<item>bilibili_blue_1</item>
+		<item>bilibili_cn</item>
 		<item>bilibili_comic</item>
+		<item>bilibili_cover</item>
 		<item>bilibili_cover2</item>
 		<item>bilibili_cover3</item>
-		<item>bilibili_cover</item>
 		<item>bilibili_link</item>
 		<item>bilibili_live</item>
 		<item>bing_dict</item>
@@ -332,22 +338,23 @@
 		<item>blued_int</item>
 		<item>bluelight_filter</item>
 		<item>bluemail</item>
+		<item>bluesky</item>
 		<item>bmap</item>
 		<item>boa</item>
 		<item>boc</item>
 		<item>boc_container</item>
-		<item>booking</item>
 		<item>book_cp</item>
 		<item>book_douban</item>
 		<item>book_jj</item>
 		<item>book_mark_life</item>
+		<item>booking</item>
+		<item>bookshelf</item>
 		<item>boomerang</item>
 		<item>boost_plus</item>
 		<item>bootmanager</item>
-		<item>bookshelf</item>
 		<item>bose_connect</item>
-		<item>bosszhipin</item>
 		<item>boss_zhipin</item>
+		<item>bosszhipin</item>
 		<item>box</item>
 		<item>bp</item>
 		<item>brainmusic</item>
@@ -360,6 +367,7 @@
 		<item>browser_1</item>
 		<item>bsz</item>
 		<item>btkanba_player</item>
+		<item>bu_bei_lang_easy_lexis</item>
 		<item>bubblegum</item>
 		<item>bubeidanci</item>
 		<item>bughd</item>
@@ -370,14 +378,13 @@
 		<item>business_calendar</item>
 		<item>butter_camera</item>
 		<item>buy_home</item>
-		<item>bu_bei_lang_easy_lexis</item>
 		<item>buyathome</item>
 		<item>caihong_world</item>
 		<item>cainiao</item>
+		<item>calc_plus</item>
 		<item>calculator</item>
 		<item>calculator_1</item>
 		<item>calculator_2</item>
-		<item>calc_plus</item>
 		<item>calendar_d1</item>
 		<item>calendar_d10</item>
 		<item>calendar_d11</item>
@@ -410,21 +417,21 @@
 		<item>calendar_d8</item>
 		<item>calendar_d9</item>
 		<item>calendar_dynamic</item>
-		<item>caller_info</item>
 		<item>call_vibrator</item>
+		<item>caller_info</item>
+		<item>cam_card</item>
+		<item>cam_scanner</item>
 		<item>camera</item>
 		<item>camera_1</item>
 		<item>camera_fv_5</item>
 		<item>camscanner</item>
-		<item>cam_card</item>
-		<item>cam_scanner</item>
 		<item>captivemgr</item>
 		<item>card_iconpack</item>
 		<item>card_news</item>
-		<item>careland</item>
-		<item>castbox</item>
 		<item>cardboard</item>
 		<item>cardboard_camera</item>
+		<item>careland</item>
+		<item>castbox</item>
 		<item>cc</item>
 		<item>ccb</item>
 		<item>ccb_atm_mobilepay</item>
@@ -447,6 +454,7 @@
 		<item>chinamobile</item>
 		<item>chinatelecom</item>
 		<item>chinaunicom</item>
+		<item>chong__chong__zhu__shou</item>
 		<item>chrissen_card</item>
 		<item>chrome</item>
 		<item>chrome_alt1</item>
@@ -466,12 +474,12 @@
 		<item>clash_of_clans</item>
 		<item>clash_royale</item>
 		<item>class_163</item>
+		<item>classroom</item>
 		<item>clean_master</item>
 		<item>clean_master_lite</item>
-		<item>classroom</item>
 		<item>cliff</item>
-		<item>clipboard_plus</item>
 		<item>clip_stack</item>
+		<item>clipboard_plus</item>
 		<item>clock</item>
 		<item>clock_1</item>
 		<item>clock_2</item>
@@ -481,12 +489,12 @@
 		<item>cloud_vpn</item>
 		<item>cmb</item>
 		<item>cmbc</item>
-		<item>cmbchina_bank</item>
 		<item>cmbc_bank</item>
+		<item>cmbchina_bank</item>
 		<item>cmcc_wifi</item>
-		<item>cntv</item>
 		<item>cn_500px</item>
 		<item>cn_gov_tax</item>
+		<item>cntv</item>
 		<item>colorcapture</item>
 		<item>commbank</item>
 		<item>contacts</item>
@@ -503,10 +511,10 @@
 		<item>coursera</item>
 		<item>cpuz</item>
 		<item>csdn</item>
+		<item>ct_client</item>
 		<item>ctrip</item>
 		<item>ctrip_1</item>
 		<item>ctrl_plus</item>
-		<item>ct_client</item>
 		<item>current_activity</item>
 		<item>custom_share</item>
 		<item>cyanogenmod_audiofx</item>
@@ -542,17 +550,19 @@
 		<item>deviantart</item>
 		<item>dgtle</item>
 		<item>dialer</item>
+		<item>dian__zi__you__jian</item>
 		<item>dianbiao</item>
 		<item>dianping</item>
 		<item>dianping_1</item>
 		<item>dice</item>
-		<item>didaqingdan</item>
 		<item>dida_music</item>
+		<item>didaqingdan</item>
 		<item>didi</item>
 		<item>didi_1</item>
 		<item>digit</item>
-		<item>dingxiangyisheng</item>
+		<item>ding__dong__fm__dian__tai</item>
 		<item>ding_talk</item>
+		<item>dingxiangyisheng</item>
 		<item>dir</item>
 		<item>dir_1</item>
 		<item>discord</item>
@@ -564,6 +574,7 @@
 		<item>dji_mimo</item>
 		<item>dmzj</item>
 		<item>dnf_zhushou</item>
+		<item>dolphin</item>
 		<item>dominos</item>
 		<item>dominos_alt</item>
 		<item>dongdong</item>
@@ -596,8 +607,8 @@
 		<item>duia</item>
 		<item>duitang</item>
 		<item>duitang_1</item>
-		<item>duokan</item>
 		<item>duo_mobile</item>
+		<item>duokan</item>
 		<item>duokan_reader</item>
 		<item>duolingo</item>
 		<item>duxiaoman</item>
@@ -649,9 +660,9 @@
 		<item>enjoy</item>
 		<item>erbing</item>
 		<item>erweima</item>
+		<item>es_explorer</item>
 		<item>esbook_read</item>
 		<item>eswenjian</item>
-		<item>es_explorer</item>
 		<item>etao</item>
 		<item>etao_1</item>
 		<item>eudic</item>
@@ -660,12 +671,13 @@
 		<item>evernote</item>
 		<item>evernote_1</item>
 		<item>evernote_alt</item>
-		<item>everything_done</item>
 		<item>every_wiki</item>
+		<item>everything_done</item>
 		<item>evie_launcher</item>
 		<item>excel</item>
 		<item>excel_1</item>
 		<item>express_100</item>
+		<item>f__droid</item>
 		<item>facebook</item>
 		<item>facebook_1</item>
 		<item>facebook_lite</item>
@@ -675,6 +687,7 @@
 		<item>fake_baidu_yun</item>
 		<item>faloo_bookreader</item>
 		<item>famijia</item>
+		<item>fan__qie__mian__fei__xiao__shuo</item>
 		<item>fancy</item>
 		<item>fangdai_calculator</item>
 		<item>fanliwang</item>
@@ -685,6 +698,7 @@
 		<item>feichangzhun</item>
 		<item>feishu</item>
 		<item>feizhu</item>
+		<item>feng__chao</item>
 		<item>feng_chao</item>
 		<item>fenghuang</item>
 		<item>fenghuang_fm</item>
@@ -692,10 +706,11 @@
 		<item>fenqile_1</item>
 		<item>fetion</item>
 		<item>fifth_third_bank</item>
+		<item>file_commander</item>
 		<item>file_explorer</item>
+		<item>file_manager</item>
 		<item>files</item>
 		<item>files_go</item>
-		<item>file_commander</item>
 		<item>firefox</item>
 		<item>firefox_1</item>
 		<item>firefox_beta</item>
@@ -703,8 +718,8 @@
 		<item>firefox_nightly</item>
 		<item>fireplayer</item>
 		<item>fit</item>
-		<item>fitbit</item>
 		<item>fit_time</item>
+		<item>fitbit</item>
 		<item>fk_kernel_manager_compressed</item>
 		<item>flash_download</item>
 		<item>flat_style_bar_indicators</item>
@@ -801,8 +816,8 @@
 		<item>folder_photo_editor</item>
 		<item>folder_system</item>
 		<item>folder_xposed</item>
-		<item>foodie</item>
 		<item>food_alaide</item>
+		<item>foodie</item>
 		<item>fooview</item>
 		<item>forest</item>
 		<item>foxit_pdf</item>
@@ -817,18 +832,6 @@
 		<item>fx_file_explorer</item>
 		<item>gallery</item>
 		<item>gallery_1</item>
-		<item>gamecores</item>
-		<item>game_sdorica</item>
-		<item>game_snake</item>
-		<item>game_solitaire_decked_out</item>
-		<item>game_space</item>
-		<item>game_tencent_hlddz</item>
-		<item>game_tencent_xiangqi</item>
-		<item>game_the_last_banacat</item>
-		<item>game_vainglory</item>
-		<item>game_virtua_tennis</item>
-		<item>game_wangzherongyao</item>
-		<item>gameguardian</item>
 		<item>game_altos_adventure</item>
 		<item>game_arrow_io</item>
 		<item>game_asphalt_8</item>
@@ -849,20 +852,36 @@
 		<item>game_prune</item>
 		<item>game_reaper</item>
 		<item>game_reigns</item>
+		<item>game_sdorica</item>
+		<item>game_snake</item>
+		<item>game_solitaire_decked_out</item>
+		<item>game_space</item>
+		<item>game_tencent_hlddz</item>
+		<item>game_tencent_xiangqi</item>
+		<item>game_the_last_banacat</item>
+		<item>game_vainglory</item>
+		<item>game_virtua_tennis</item>
+		<item>game_wangzherongyao</item>
+		<item>gamecores</item>
+		<item>gameguardian</item>
 		<item>gaode_maps</item>
 		<item>gaotieguanjia</item>
 		<item>gboard</item>
 		<item>geek360</item>
+		<item>gei__wei__lai__xie__feng__xin</item>
 		<item>gemini</item>
 		<item>geometric_weather</item>
 		<item>geometric_weather_1</item>
 		<item>get</item>
 		<item>gewala_movie</item>
 		<item>gg_assistant</item>
+		<item>github</item>
 		<item>gitskarios</item>
 		<item>gjzs</item>
 		<item>globalcash</item>
 		<item>gmail</item>
+		<item>go_google_installer</item>
+		<item>go_host</item>
 		<item>gohosts</item>
 		<item>golden_dict</item>
 		<item>gome</item>
@@ -951,10 +970,10 @@
 		<item>google_pay</item>
 		<item>google_phone</item>
 		<item>google_photo</item>
+		<item>google_photo_scan</item>
 		<item>google_photos</item>
 		<item>google_photos_1</item>
 		<item>google_photos_alt</item>
-		<item>google_photo_scan</item>
 		<item>google_pinyin</item>
 		<item>google_pinyin_keyboard</item>
 		<item>google_pixel_launcher</item>
@@ -1030,14 +1049,13 @@
 		<item>googlecalendar_d9</item>
 		<item>googleplay</item>
 		<item>gotokeep</item>
-		<item>go_google_installer</item>
-		<item>go_host</item>
-		<item>gravitybox_q</item>
 		<item>gravity_box</item>
+		<item>gravitybox_q</item>
 		<item>greenify</item>
 		<item>greenify_1</item>
 		<item>gta_sa</item>
 		<item>guaguamanhua</item>
+		<item>guang__huan__zhu__shou</item>
 		<item>guangdiu</item>
 		<item>guangxinongxin</item>
 		<item>guanzhi_meiriyiwen</item>
@@ -1048,20 +1066,20 @@
 		<item>guokr</item>
 		<item>guokr_fenda</item>
 		<item>gxicon</item>
-		<item>h5_browser</item>
 		<item>h_viewer</item>
-		<item>ia_writer</item>
+		<item>h5_browser</item>
 		<item>habits</item>
+		<item>hai__tun__you__sheng</item>
 		<item>haibei_music</item>
 		<item>haici_dict</item>
-		<item>hai__tun__you__sheng</item>
 		<item>handle_external_storage</item>
 		<item>hanglvzongheng</item>
-		<item>hangouts</item>
 		<item>hangout_dialer</item>
+		<item>hangouts</item>
 		<item>hangzhou_smk</item>
 		<item>hanju_tv</item>
 		<item>hanks_notes</item>
+		<item>hao__you__kuai__bao</item>
 		<item>haoce</item>
 		<item>haodaifu</item>
 		<item>happy_browser</item>
@@ -1071,8 +1089,8 @@
 		<item>hdzuoye</item>
 		<item>hearthstone</item>
 		<item>heiyu</item>
-		<item>hellobike</item>
 		<item>hello_voice</item>
+		<item>hellobike</item>
 		<item>hema</item>
 		<item>hermit</item>
 		<item>hero_yqlfc</item>
@@ -1092,6 +1110,7 @@
 		<item>hsrj</item>
 		<item>ht_video</item>
 		<item>htinns</item>
+		<item>hua_timetravel</item>
 		<item>huaban</item>
 		<item>huawei_appmarket</item>
 		<item>huawei_backup</item>
@@ -1103,42 +1122,19 @@
 		<item>huawei_smarthome</item>
 		<item>huaxia_bank</item>
 		<item>huaxiong</item>
-		<item>hua_timetravel</item>
 		<item>huihuaweijian</item>
 		<item>hulu</item>
 		<item>huluxia_gametools</item>
 		<item>huochaihe</item>
 		<item>hupu</item>
-		<item>huputiyu</item>
 		<item>hupu_shihuo</item>
+		<item>huputiyu</item>
 		<item>huyazhibo</item>
 		<item>hviewer</item>
 		<item>hydrogen_wallpager</item>
 		<item>hyxd</item>
 		<item>i_reader</item>
-		<item>jandan</item>
-		<item>icbc</item>
-		<item>icbc_bank</item>
-		<item>icbc_bank_im</item>
-		<item>icbc_im</item>
-		<item>icebox</item>
-		<item>ice_box</item>
-		<item>icmbc</item>
-		<item>icon_back_1</item>
-		<item>icon_back_10</item>
-		<item>icon_back_11</item>
-		<item>icon_back_12</item>
-		<item>icon_back_13</item>
-		<item>icon_back_14</item>
-		<item>icon_back_2</item>
-		<item>icon_back_3</item>
-		<item>icon_back_4</item>
-		<item>icon_back_5</item>
-		<item>icon_back_6</item>
-		<item>icon_back_7</item>
-		<item>icon_back_8</item>
-		<item>icon_back_9</item>
-		<item>icourse163</item>
+		<item>ia_writer</item>
 		<item>ic_dynamic_calendar</item>
 		<item>ic_dynamic_clock_background</item>
 		<item>ic_dynamic_clock_hour_hand</item>
@@ -1161,6 +1157,28 @@
 		<item>ic_dynamic_weather_thundershower</item>
 		<item>ic_dynamic_weather_typhoon</item>
 		<item>ic_dynamic_weather_unknown</item>
+		<item>icbc</item>
+		<item>icbc_bank</item>
+		<item>icbc_bank_im</item>
+		<item>icbc_im</item>
+		<item>ice_box</item>
+		<item>icebox</item>
+		<item>icmbc</item>
+		<item>icon_back_1</item>
+		<item>icon_back_10</item>
+		<item>icon_back_11</item>
+		<item>icon_back_12</item>
+		<item>icon_back_13</item>
+		<item>icon_back_14</item>
+		<item>icon_back_2</item>
+		<item>icon_back_3</item>
+		<item>icon_back_4</item>
+		<item>icon_back_5</item>
+		<item>icon_back_6</item>
+		<item>icon_back_7</item>
+		<item>icon_back_8</item>
+		<item>icon_back_9</item>
+		<item>icourse163</item>
 		<item>idm_plus</item>
 		<item>ifanr</item>
 		<item>ifanr_1</item>
@@ -1199,6 +1217,7 @@
 		<item>it_home</item>
 		<item>it_home_1</item>
 		<item>iwordnet</item>
+		<item>jandan</item>
 		<item>javiewer</item>
 		<item>jd</item>
 		<item>jd_1</item>
@@ -1208,19 +1227,22 @@
 		<item>jdl</item>
 		<item>jetpack</item>
 		<item>jg12123</item>
-		<item>jiakaobaodian</item>
 		<item>jiakao_baodian</item>
+		<item>jiakaobaodian</item>
 		<item>jianjie_calendar</item>
 		<item>jianshu</item>
 		<item>jianying</item>
+		<item>jiao__tong__ka</item>
 		<item>jiaoyicat</item>
+		<item>jie__ya__suo__quan__neng__wang</item>
 		<item>jiecao_news</item>
 		<item>jiemian_news</item>
 		<item>jiguang_yingyuan</item>
 		<item>jike</item>
 		<item>jike_1</item>
-		<item>jingdong_reader</item>
+		<item>jing__dong__kuai__di</item>
 		<item>jing__dong__xiao__jia</item>
+		<item>jingdong_reader</item>
 		<item>jinritoutiao</item>
 		<item>jinsanciba</item>
 		<item>jisu_browser</item>
@@ -1230,6 +1252,8 @@
 		<item>joyrun</item>
 		<item>juejin</item>
 		<item>juice_ssh</item>
+		<item>k_9__mail</item>
+		<item>kai__yan</item>
 		<item>kaifazhetoutiao</item>
 		<item>kakaotalk</item>
 		<item>kancn</item>
@@ -1238,8 +1262,8 @@
 		<item>kaoyanbang</item>
 		<item>kechenggezi</item>
 		<item>keep</item>
-		<item>keepass_2_android</item>
 		<item>keep_health</item>
+		<item>keepass_2_android</item>
 		<item>kejimeixue</item>
 		<item>keke_english</item>
 		<item>kernel_adiutor</item>
@@ -1283,6 +1307,7 @@
 		<item>leafpic</item>
 		<item>ledongli</item>
 		<item>ledongli_run</item>
+		<item>lenovo</item>
 		<item>lenovo_calendar</item>
 		<item>lenovo_calendar_1</item>
 		<item>lenovo_calendar_10</item>
@@ -1321,21 +1346,22 @@
 		<item>letv_sport</item>
 		<item>lexus_mirror</item>
 		<item>lg_health</item>
-		<item>lightning_wall</item>
+		<item>li__tiao__tiao</item>
 		<item>light_beauty</item>
 		<item>light_start</item>
+		<item>lightning_wall</item>
 		<item>line</item>
-		<item>lineageos_recorder</item>
-		<item>line_lite</item>
-		<item>lingshengduoduo</item>
-		<item>linguee</item>
-		<item>linkedin</item>
-		<item>linewebtoon</item>
 		<item>line_1</item>
 		<item>line_at</item>
 		<item>line_camera</item>
 		<item>line_deco</item>
 		<item>line_dict</item>
+		<item>line_lite</item>
+		<item>lineageos_recorder</item>
+		<item>linewebtoon</item>
+		<item>lingshengduoduo</item>
+		<item>linguee</item>
+		<item>linkedin</item>
 		<item>linksys</item>
 		<item>linos_recorder</item>
 		<item>live_cc</item>
@@ -1346,26 +1372,28 @@
 		<item>lol</item>
 		<item>lol_friend</item>
 		<item>los_changelog</item>
+		<item>love_best_wallpapers</item>
 		<item>lovebizhi</item>
 		<item>lovelive</item>
 		<item>lovely_cat_crack</item>
-		<item>love_best_wallpapers</item>
 		<item>lovelycat</item>
 		<item>lp_iconpack</item>
 		<item>luckin_coffee</item>
-		<item>luckymoney</item>
 		<item>lucky_patch</item>
 		<item>lucky_patcher</item>
+		<item>luckymoney</item>
 		<item>ludashi</item>
 		<item>luobo_shuzhai</item>
 		<item>lushi</item>
 		<item>luyinbao</item>
+		<item>lv__fa__shi__ying__di</item>
 		<item>lvmamalvyou</item>
 		<item>lxqw</item>
 		<item>lyft</item>
 		<item>magenetman</item>
 		<item>magic_magnet</item>
 		<item>magicalstory_cleaner</item>
+		<item>magisk_delta</item>
 		<item>magisk_manager</item>
 		<item>magnet_torrent_player</item>
 		<item>magnetic_king</item>
@@ -1390,6 +1418,7 @@
 		<item>maoyan_pro</item>
 		<item>mark</item>
 		<item>mark_qrcode</item>
+		<item>market</item>
 		<item>max_plus</item>
 		<item>mayiwo_roadbook</item>
 		<item>mbalib_wiki</item>
@@ -1401,11 +1430,10 @@
 		<item>meetyou</item>
 		<item>meeye</item>
 		<item>mega</item>
-		<item>meiriyiwen</item>
-		<item>meiriyujia</item>
 		<item>mei__tuan__you__xuan</item>
 		<item>mei__zu__shang__cheng</item>
-		<item>memory_cleaner</item>
+		<item>meiriyiwen</item>
+		<item>meiriyujia</item>
 		<item>meitu</item>
 		<item>meituan</item>
 		<item>meituan_1</item>
@@ -1413,6 +1441,7 @@
 		<item>meituan_waimai</item>
 		<item>meituxiuxiu</item>
 		<item>meiyanxiangji</item>
+		<item>memory_cleaner</item>
 		<item>memory_zone</item>
 		<item>memrise</item>
 		<item>mengniangbaike</item>
@@ -1424,6 +1453,7 @@
 		<item>messenger_lite</item>
 		<item>metro</item>
 		<item>metro_mall</item>
+		<item>mi__ni__jian__pan</item>
 		<item>mi_control_center</item>
 		<item>mi_home</item>
 		<item>mi_remote</item>
@@ -1467,6 +1497,7 @@
 		<item>mint_bookkeeping</item>
 		<item>mioji_trip</item>
 		<item>mipush</item>
+		<item>miru</item>
 		<item>misfit</item>
 		<item>miss_lee</item>
 		<item>miui_bbs</item>
@@ -1490,8 +1521,8 @@
 		<item>miui_themes</item>
 		<item>miui_wallet</item>
 		<item>miui_xiao_ai</item>
-		<item>miwifi</item>
 		<item>miuihd</item>
+		<item>miwifi</item>
 		<item>mix</item>
 		<item>mix_explorer</item>
 		<item>mjweather</item>
@@ -1505,27 +1536,30 @@
 		<item>mobilism</item>
 		<item>mobvoi</item>
 		<item>modian</item>
-		<item>mojian</item>
+		<item>moji__ci__shu</item>
+		<item>moji__wen__da</item>
 		<item>moji_dict</item>
+		<item>moji_kana</item>
 		<item>moji_read</item>
 		<item>moji_test</item>
 		<item>moji_weather</item>
+		<item>mojian</item>
 		<item>mokee_aegis</item>
 		<item>mokee_aegis_1</item>
 		<item>mokee_center</item>
 		<item>momo</item>
-		<item>momobeidanci</item>
 		<item>momo_1</item>
+		<item>momobeidanci</item>
 		<item>monkeybook</item>
 		<item>mono</item>
-		<item>monument2</item>
 		<item>monument</item>
+		<item>monument2</item>
 		<item>moon_fm</item>
 		<item>moon_phase</item>
-		<item>mora</item>
 		<item>moonreader</item>
 		<item>moonreader_1</item>
 		<item>moonreader_pro</item>
+		<item>mora</item>
 		<item>moshouzhushou</item>
 		<item>mosoteach</item>
 		<item>motionpro_compressed</item>
@@ -1537,18 +1571,19 @@
 		<item>movie_radar_1</item>
 		<item>moviepic</item>
 		<item>mr_translator</item>
+		<item>mt_filemanager</item>
 		<item>mtglq</item>
 		<item>mtgp_lol</item>
 		<item>mtk_mode</item>
 		<item>mtwm</item>
-		<item>mt_filemanager</item>
 		<item>music</item>
+		<item>music_1</item>
+		<item>music_2</item>
 		<item>music_tag</item>
 		<item>musicfx</item>
-		<item>music_1</item>
 		<item>muzei_compressed</item>
-		<item>mxplayer</item>
 		<item>mx_player</item>
+		<item>mxplayer</item>
 		<item>myandroidtools</item>
 		<item>myandroidtools_xposed</item>
 		<item>myappscreenmask</item>
@@ -1566,8 +1601,8 @@
 		<item>nekoinverter_ehviewer</item>
 		<item>neoreader</item>
 		<item>netease_buff_compressed</item>
-		<item>netease_cartoonreader</item>
 		<item>netease_cartoon_reader</item>
+		<item>netease_cartoonreader</item>
 		<item>netease_cloudclass</item>
 		<item>netease_cloudmusic</item>
 		<item>netease_cloudmusic_0</item>
@@ -1603,14 +1638,15 @@
 		<item>netease_youdao_translator</item>
 		<item>netease_youqian</item>
 		<item>netease_youxiangdashi</item>
-		<item>netfits_vpn</item>
 		<item>neteasemusic_lyrics_helper</item>
+		<item>netfits_vpn</item>
 		<item>netflix_compressed</item>
 		<item>network_speed_indicator</item>
 		<item>nevo</item>
 		<item>new500</item>
-		<item>newsfold</item>
+		<item>newpipe</item>
 		<item>news_and_weather</item>
+		<item>newsfold</item>
 		<item>nfc_emulator</item>
 		<item>nfc_emulator_alt</item>
 		<item>nga</item>
@@ -1633,12 +1669,12 @@
 		<item>nothing_glyph_composer</item>
 		<item>notify_clean</item>
 		<item>notion</item>
-		<item>novalauncher</item>
-		<item>novasetting</item>
 		<item>nova_launcher</item>
 		<item>nova_launcher_prime</item>
 		<item>nova_launcher_settings</item>
 		<item>nova_launcher_tesla_unread</item>
+		<item>novalauncher</item>
+		<item>novasetting</item>
 		<item>novelmanager</item>
 		<item>nubia_app_fenshen</item>
 		<item>nubia_bbs</item>
@@ -1693,6 +1729,7 @@
 		<item>oneplus_calculator_alt</item>
 		<item>oneplus_calendar</item>
 		<item>oneplus_calendar_1</item>
+		<item>oneplus_calendar_1_1</item>
 		<item>oneplus_calendar_10</item>
 		<item>oneplus_calendar_11</item>
 		<item>oneplus_calendar_12</item>
@@ -1703,7 +1740,6 @@
 		<item>oneplus_calendar_17</item>
 		<item>oneplus_calendar_18</item>
 		<item>oneplus_calendar_19</item>
-		<item>oneplus_calendar_1_1</item>
 		<item>oneplus_calendar_2</item>
 		<item>oneplus_calendar_20</item>
 		<item>oneplus_calendar_21</item>
@@ -1758,9 +1794,9 @@
 		<item>oneplus_weather_alt_sunny</item>
 		<item>onething_minecloud</item>
 		<item>ookla_speedtest</item>
-		<item>openhub</item>
 		<item>open_gapps</item>
 		<item>open_vpn</item>
+		<item>openhub</item>
 		<item>opera</item>
 		<item>opgg</item>
 		<item>oppo_app_store</item>
@@ -1777,6 +1813,7 @@
 		<item>oppo_notes</item>
 		<item>oppo_one_tap_lockscreen</item>
 		<item>oppo_oroaming</item>
+		<item>oppo_relax</item>
 		<item>oppo_security</item>
 		<item>oppo_sound_recorder</item>
 		<item>oppo_tips</item>
@@ -1788,8 +1825,8 @@
 		<item>package_tracker</item>
 		<item>packet_capture</item>
 		<item>palabre</item>
-		<item>pandatv</item>
 		<item>panda_tv</item>
+		<item>pandatv</item>
 		<item>path</item>
 		<item>paypal</item>
 		<item>paypal_1</item>
@@ -1813,10 +1850,10 @@
 		<item>phone_old</item>
 		<item>phonograph</item>
 		<item>phonograph_1</item>
+		<item>photo_editor</item>
 		<item>photoeditor</item>
 		<item>photomath</item>
 		<item>photos_go</item>
-		<item>photo_editor</item>
 		<item>pianke</item>
 		<item>picacg</item>
 		<item>pickaxechat</item>
@@ -1863,14 +1900,15 @@
 		<item>powerpoint</item>
 		<item>powerpoint_1</item>
 		<item>powertoggle</item>
+		<item>pp_assistant</item>
 		<item>ppiicc</item>
 		<item>ppiicc_1</item>
 		<item>ppsspp</item>
 		<item>ppsspp_1</item>
 		<item>pptv</item>
-		<item>pp_assistant</item>
 		<item>press</item>
 		<item>prisma</item>
+		<item>protonmail</item>
 		<item>psbc</item>
 		<item>psiphon</item>
 		<item>pstouch</item>
@@ -1891,13 +1929,17 @@
 		<item>qcloud</item>
 		<item>qdaily</item>
 		<item>qdreader</item>
+		<item>qi__miao__ying__yong</item>
+		<item>qian__cheng__wu__you__51job</item>
 		<item>qianji</item>
 		<item>qidian_reader</item>
 		<item>qinbaobao</item>
 		<item>qing__dao__yin__hang</item>
+		<item>qing__dao__yin__hang_1</item>
+		<item>qing__zhuo</item>
 		<item>qingdao_metro</item>
-		<item>qingtingyingyu</item>
 		<item>qingting_fm</item>
+		<item>qingtingyingyu</item>
 		<item>qinxinsou</item>
 		<item>qpay</item>
 		<item>qq</item>
@@ -1910,21 +1952,21 @@
 		<item>qq_jp</item>
 		<item>qq_music_local_player</item>
 		<item>qq_sp</item>
-		<item>qrzd</item>
-		<item>quanminkge</item>
-		<item>quanneng_toolbox</item>
 		<item>qqmail</item>
 		<item>qqmail_1</item>
 		<item>qqmusic</item>
 		<item>qqtoken</item>
 		<item>qqzc</item>
+		<item>qrzd</item>
+		<item>quanminkge</item>
+		<item>quanneng_toolbox</item>
 		<item>quark</item>
 		<item>quark_browser</item>
 		<item>qufenqi</item>
 		<item>quick_pic</item>
-		<item>quizlet</item>
 		<item>quickedit</item>
 		<item>quickpic</item>
+		<item>quizlet</item>
 		<item>qunar</item>
 		<item>qunar_1</item>
 		<item>qunidaye_browser</item>
@@ -1987,10 +2029,10 @@
 		<item>samsung_contacts</item>
 		<item>samsung_dialer</item>
 		<item>samsung_email</item>
-		<item>samsung_galaxycare</item>
 		<item>samsung_galaxy_apps</item>
 		<item>samsung_galaxy_members</item>
 		<item>samsung_galaxy_members_alt</item>
+		<item>samsung_galaxycare</item>
 		<item>samsung_game_launcher</item>
 		<item>samsung_game_launcher_alt</item>
 		<item>samsung_game_tuner</item>
@@ -2007,12 +2049,12 @@
 		<item>samsung_pay</item>
 		<item>samsung_pay_1</item>
 		<item>samsung_reader</item>
+		<item>samsung_s_health</item>
+		<item>samsung_s_voice_app</item>
 		<item>samsung_settings</item>
 		<item>samsung_smart_manager</item>
 		<item>samsung_smart_manager_1</item>
 		<item>samsung_sreminder</item>
-		<item>samsung_s_health</item>
-		<item>samsung_s_voice_app</item>
 		<item>samsung_themes_store</item>
 		<item>samsung_video</item>
 		<item>samsung_voice_recorder</item>
@@ -2020,18 +2062,19 @@
 		<item>sanguliupo</item>
 		<item>scanbot</item>
 		<item>scientific_calculator</item>
-		<item>screener</item>
 		<item>screen_mask</item>
+		<item>screener</item>
 		<item>sd_nongxin_bank</item>
 		<item>sdcleaner</item>
 		<item>sdclear</item>
 		<item>sdmaid</item>
+		<item>seal</item>
 		<item>search_by_image</item>
 		<item>search_by_image_1</item>
 		<item>search_lite</item>
 		<item>search_lite_1</item>
-		<item>secoo</item>
 		<item>searchpicturetool</item>
+		<item>secoo</item>
 		<item>secretinput</item>
 		<item>secure_vpn</item>
 		<item>seed</item>
@@ -2046,11 +2089,11 @@
 		<item>sf_express</item>
 		<item>sfly</item>
 		<item>sgsol</item>
+		<item>sh_inputs</item>
+		<item>sh_inputs_1</item>
 		<item>shadowsocks</item>
 		<item>shadowsocksr</item>
 		<item>shanbay</item>
-		<item>sh_inputs</item>
-		<item>sh_inputs_1</item>
 		<item>shanbay_listen</item>
 		<item>shanbay_listen_1</item>
 		<item>shanbay_news</item>
@@ -2063,24 +2106,29 @@
 		<item>shazam</item>
 		<item>shenqi_browser</item>
 		<item>shihuo</item>
+		<item>shizuku</item>
+		<item>shou__ji__xing__neng__pai__hang</item>
 		<item>shoujileyuan</item>
 		<item>shouxin_keyboard</item>
-		<item>shou__ji__xing__neng__pai__hang</item>
+		<item>shu__zi__ren__min__bi</item>
 		<item>shuqi</item>
 		<item>shuqi_alt</item>
-		<item>shu__zi__ren__min__bi</item>
 		<item>shuttle</item>
 		<item>sim_toolkit</item>
 		<item>sim_toolkit_1</item>
 		<item>sina_tianqitong</item>
 		<item>siyue_musicassistant</item>
 		<item>sketchbook</item>
-		<item>skype</item>
 		<item>sky_compass</item>
+		<item>skype</item>
 		<item>skype_for_business</item>
 		<item>sleep</item>
 		<item>sleep_as_android</item>
+		<item>smart_launcher</item>
+		<item>smart_launcher_pro</item>
+		<item>smartisan___ping__mu__lu__xiang</item>
 		<item>smartisan_bbs</item>
+		<item>smartisan_browser</item>
 		<item>smartisan_calendar</item>
 		<item>smartisan_calendar_1</item>
 		<item>smartisan_calendar_10</item>
@@ -2121,23 +2169,23 @@
 		<item>smartisan_onestep</item>
 		<item>smartisan_reader</item>
 		<item>smartisan_security</item>
-		<item>smart_launcher</item>
-		<item>smart_launcher_pro</item>
+		<item>smartisan_security_1</item>
+		<item>smartisan_store</item>
+		<item>smartisanos_mover</item>
 		<item>smooth</item>
 		<item>smooth_1</item>
 		<item>smooth_alt</item>
-		<item>smartisanos_mover</item>
 		<item>smzdm</item>
 		<item>smzdm_1</item>
 		<item>snailread</item>
 		<item>snailread_alt</item>
 		<item>snap</item>
+		<item>snap_vpn</item>
 		<item>snapchat</item>
 		<item>snapseed</item>
 		<item>snapseed_1</item>
 		<item>snaptube</item>
 		<item>snapvpn</item>
-		<item>snap_vpn</item>
 		<item>snkrs</item>
 		<item>snkrs_1</item>
 		<item>soap</item>
@@ -2170,10 +2218,10 @@
 		<item>sony_movie_maker</item>
 		<item>sony_music</item>
 		<item>sony_news_suite</item>
-		<item>sony_playstation_network</item>
 		<item>sony_play_memories_mobile</item>
 		<item>sony_play_memories_online</item>
 		<item>sony_play_memories_online_alt</item>
+		<item>sony_playstation_network</item>
 		<item>sony_settings</item>
 		<item>sony_sketch</item>
 		<item>sony_sketch_1</item>
@@ -2190,8 +2238,8 @@
 		<item>sony_video_tv_slideview</item>
 		<item>sony_walkmate</item>
 		<item>sony_weather</item>
-		<item>sony_whats_new</item>
 		<item>sony_what_is_new</item>
+		<item>sony_whats_new</item>
 		<item>sony_xhs_lounge</item>
 		<item>sony_xperia_clock</item>
 		<item>sorcery</item>
@@ -2205,13 +2253,13 @@
 		<item>soul</item>
 		<item>soul_knight</item>
 		<item>sound</item>
+		<item>sound_cloud</item>
 		<item>sound_recorder</item>
 		<item>sound_recorder_1</item>
 		<item>soundcloud</item>
-		<item>sound_cloud</item>
+		<item>spd_bank</item>
 		<item>spdbccc</item>
 		<item>spdbccc_1</item>
-		<item>spd_bank</item>
 		<item>speedtest</item>
 		<item>spoon</item>
 		<item>sporteditor</item>
@@ -2219,19 +2267,19 @@
 		<item>spotify_1</item>
 		<item>ss</item>
 		<item>ss_auto_dcd</item>
-		<item>stack_exchange</item>
 		<item>ssly</item>
 		<item>sspai</item>
 		<item>sspai_daikejietu</item>
 		<item>ssr</item>
 		<item>ssrr</item>
-		<item>star_walk2</item>
-		<item>star_walk2_1</item>
-		<item>star_walk_2</item>
-		<item>starbucks</item>
-		<item>starbucks_1</item>
+		<item>stack_exchange</item>
 		<item>star_chart</item>
 		<item>star_chart_education</item>
+		<item>star_walk_2</item>
+		<item>star_walk2</item>
+		<item>star_walk2_1</item>
+		<item>starbucks</item>
+		<item>starbucks_1</item>
 		<item>steam</item>
 		<item>steam_1</item>
 		<item>steam_link</item>
@@ -2279,10 +2327,10 @@
 		<item>sunrise_7</item>
 		<item>sunrise_8</item>
 		<item>sunrise_9</item>
-		<item>supergram</item>
 		<item>super_class_schedule</item>
 		<item>super_pad</item>
 		<item>super_vpn</item>
+		<item>supergram</item>
 		<item>superstar</item>
 		<item>supersu</item>
 		<item>supersu_emblem</item>
@@ -2295,11 +2343,10 @@
 		<item>swiftkey_keyboard</item>
 		<item>sz_citizencard</item>
 		<item>sz_citizencard_1</item>
-		<item>t66y</item>
 		<item>szfreego</item>
 		<item>szzc</item>
 		<item>t_12306</item>
-		<item>uber</item>
+		<item>t66y</item>
 		<item>taichi</item>
 		<item>tantan</item>
 		<item>taobao</item>
@@ -2314,9 +2361,9 @@
 		<item>tarsin_ehviewer</item>
 		<item>tasker</item>
 		<item>taskman</item>
+		<item>team_viewer_remote_control</item>
 		<item>teamviewer</item>
 		<item>teamviewer_host_for_samsung</item>
-		<item>team_viewer_remote_control</item>
 		<item>ted</item>
 		<item>ted_1</item>
 		<item>telegram</item>
@@ -2328,8 +2375,8 @@
 		<item>tencent_app_market</item>
 		<item>tencent_cf_sns</item>
 		<item>tencent_edu</item>
-		<item>tencent_filemanager</item>
 		<item>tencent_file_manager</item>
+		<item>tencent_filemanager</item>
 		<item>tencent_karaoke</item>
 		<item>tencent_lightalk</item>
 		<item>tencent_map</item>
@@ -2339,7 +2386,6 @@
 		<item>tencent_ps_play</item>
 		<item>tencent_qie_fm</item>
 		<item>tencent_qq</item>
-		<item>tencent_qqpimsecure</item>
 		<item>tencent_qq_browser</item>
 		<item>tencent_qq_hd</item>
 		<item>tencent_qq_international</item>
@@ -2354,6 +2400,7 @@
 		<item>tencent_qq_secure</item>
 		<item>tencent_qq_sport</item>
 		<item>tencent_qq_tim</item>
+		<item>tencent_qqpimsecure</item>
 		<item>tencent_qzone</item>
 		<item>tencent_speedmobile</item>
 		<item>tencent_tgp</item>
@@ -2367,6 +2414,9 @@
 		<item>tencent_weread</item>
 		<item>tencent_weread_1</item>
 		<item>tencent_wesync</item>
+		<item>teng__xun__shou__ji__guan__jia</item>
+		<item>teng__xun__shou__you__jia__su__qi</item>
+		<item>teng__xun__wei__shi</item>
 		<item>terminal</item>
 		<item>terminal_emulator</item>
 		<item>termux</item>
@@ -2389,14 +2439,15 @@
 		<item>tim</item>
 		<item>timi</item>
 		<item>timo</item>
-		<item>titaniumbackup</item>
 		<item>titanium_backup</item>
+		<item>titaniumbackup</item>
 		<item>tmall</item>
 		<item>tmgp_cf</item>
 		<item>tmri_jiaoguan_12123</item>
 		<item>today_s_headline</item>
 		<item>todesk</item>
 		<item>todolist</item>
+		<item>tong__xin__xing__cheng__ka</item>
 		<item>tongcheng</item>
 		<item>tonghuashun</item>
 		<item>torrse</item>
@@ -2406,13 +2457,14 @@
 		<item>toughwo</item>
 		<item>tp_link</item>
 		<item>tp_link_1</item>
+		<item>tpybx</item>
 		<item>tracker_network</item>
 		<item>trademessenger</item>
-		<item>tpybx</item>
 		<item>transit</item>
+		<item>translate</item>
 		<item>tray</item>
-		<item>tripview_lite</item>
 		<item>trip_suitcase</item>
+		<item>tripview_lite</item>
 		<item>troye_sivan</item>
 		<item>ttbook</item>
 		<item>tuchong</item>
@@ -2423,9 +2475,9 @@
 		<item>tumblr</item>
 		<item>tumblr_1</item>
 		<item>turbo_vpn</item>
+		<item>turing_wallpaper</item>
 		<item>tv_plus</item>
 		<item>twilight</item>
-		<item>turing_wallpaper</item>
 		<item>twitch</item>
 		<item>twitch_1</item>
 		<item>twitter</item>
@@ -2433,6 +2485,7 @@
 		<item>twrp</item>
 		<item>twrp_official</item>
 		<item>txvpn</item>
+		<item>uber</item>
 		<item>uber_eats</item>
 		<item>uber_partner</item>
 		<item>uc_browser</item>
@@ -2440,8 +2493,8 @@
 		<item>uc_browser_2</item>
 		<item>uc_browser_3</item>
 		<item>uc_turbo</item>
-		<item>udacity</item>
 		<item>ucmooc</item>
+		<item>udacity</item>
 		<item>umetrip</item>
 		<item>unicom</item>
 		<item>unicon</item>
@@ -2449,14 +2502,14 @@
 		<item>unionpay_1</item>
 		<item>unionpay_wallet</item>
 		<item>uniqlo</item>
-		<item>uniqlock</item>
-		<item>uniqlooks</item>
 		<item>uniqlo_calendar</item>
 		<item>uniqlo_recipe</item>
 		<item>uniqlo_wakeup</item>
+		<item>uniqlock</item>
+		<item>uniqlooks</item>
 		<item>universal_copy</item>
-		<item>uusafe</item>
 		<item>uu_router</item>
+		<item>uusafe</item>
 		<item>v2ex</item>
 		<item>v2ray_ng</item>
 		<item>vainglory</item>
@@ -2472,9 +2525,9 @@
 		<item>village</item>
 		<item>vine</item>
 		<item>vine_alt</item>
+		<item>viper_fx</item>
 		<item>viper4android</item>
 		<item>viperfx</item>
-		<item>viper_fx</item>
 		<item>vipshop</item>
 		<item>vk_compressed</item>
 		<item>vlc</item>
@@ -2503,13 +2556,15 @@
 		<item>wanmeixiaoyaun</item>
 		<item>wannengyingshi</item>
 		<item>weather</item>
-		<item>weatherzone</item>
+		<item>weather_1</item>
 		<item>weather_timeline</item>
-		<item>wechatui</item>
+		<item>weatherzone</item>
 		<item>wechat_scanonescan</item>
 		<item>wechat_trace</item>
 		<item>wechat_work</item>
+		<item>wechatui</item>
 		<item>weche</item>
+		<item>wei__pin__hui</item>
 		<item>wei_account</item>
 		<item>weibo</item>
 		<item>weibo_1</item>
@@ -2532,26 +2587,26 @@
 		<item>whale_tv</item>
 		<item>whatsapp</item>
 		<item>whatsapp_messenger</item>
-		<item>wifilocating</item>
 		<item>wifi_key</item>
 		<item>wifi_luyouguanjia</item>
+		<item>wifilocating</item>
+		<item>wiki_for_minecraft</item>
 		<item>wikihow</item>
 		<item>wikipedia</item>
 		<item>wikipedia_1</item>
 		<item>wikipedia_beta</item>
-		<item>wiki_for_minecraft</item>
 		<item>windscribe</item>
 		<item>wisdom_tree</item>
 		<item>wiz_note</item>
 		<item>wo__de__qing__dao</item>
-		<item>wps</item>
 		<item>woaika</item>
-		<item>wolfram_alpha</item>
 		<item>wolf_man</item>
+		<item>wolfram_alpha</item>
 		<item>word</item>
-		<item>wordpress</item>
 		<item>word_1</item>
+		<item>wordpress</item>
 		<item>wordpress_compressed</item>
+		<item>wps</item>
 		<item>wps_office</item>
 		<item>wuba</item>
 		<item>wuba_zhuanzhuan</item>
@@ -2577,33 +2632,13 @@
 		<item>xiami</item>
 		<item>xiami_music</item>
 		<item>xianyou</item>
+		<item>xiao__qi__e__shu__ru__fa__5</item>
 		<item>xiaoenai</item>
 		<item>xiaoenai_1</item>
 		<item>xiaoheihe</item>
 		<item>xiaohongshu</item>
 		<item>xiaohongshu_1</item>
 		<item>xiaokaxiu</item>
-		<item>xiaomi_shop</item>
-		<item>xiaomi_shop_1</item>
-		<item>xiaomi_smarthome</item>
-		<item>xiaomi_smarthome_alt</item>
-		<item>xiaomi_sms_message</item>
-		<item>xiaomi_sms_message_alt</item>
-		<item>xiaomi_support</item>
-		<item>xiaomi_theme</item>
-		<item>xiaomi_updater</item>
-		<item>xiaomi_updater_alt</item>
-		<item>xiaomi_usb</item>
-		<item>xiaomi_user_feedback</item>
-		<item>xiaomi_video</item>
-		<item>xiaomi_video_call</item>
-		<item>xiaomi_voice_assistant</item>
-		<item>xiaomi_wallet</item>
-		<item>xiaomi_weather</item>
-		<item>xiaomi_weather_alt</item>
-		<item>xiaomi_yidian_news</item>
-		<item>xiaomi_youpin</item>
-		<item>xiaomiyidong</item>
 		<item>xiaomi_account</item>
 		<item>xiaomi_account_alt</item>
 		<item>xiaomi_app_market</item>
@@ -2663,14 +2698,14 @@
 		<item>xiaomi_fm</item>
 		<item>xiaomi_gallery</item>
 		<item>xiaomi_gallery_alt</item>
-		<item>xiaomi_gamecenter</item>
 		<item>xiaomi_game_alt</item>
+		<item>xiaomi_gamecenter</item>
 		<item>xiaomi_live</item>
 		<item>xiaomi_mail</item>
 		<item>xiaomi_map</item>
+		<item>xiaomi_mi_talk</item>
 		<item>xiaomi_miui</item>
 		<item>xiaomi_miui_calculator</item>
-		<item>xiaomi_mi_talk</item>
 		<item>xiaomi_mobile</item>
 		<item>xiaomi_music</item>
 		<item>xiaomi_music_alt</item>
@@ -2679,14 +2714,35 @@
 		<item>xiaomi_roaming</item>
 		<item>xiaomi_security_center</item>
 		<item>xiaomi_settings</item>
+		<item>xiaomi_shop</item>
+		<item>xiaomi_shop_1</item>
+		<item>xiaomi_smarthome</item>
+		<item>xiaomi_smarthome_alt</item>
+		<item>xiaomi_sms_message</item>
+		<item>xiaomi_sms_message_alt</item>
+		<item>xiaomi_support</item>
+		<item>xiaomi_theme</item>
+		<item>xiaomi_updater</item>
+		<item>xiaomi_updater_alt</item>
+		<item>xiaomi_usb</item>
+		<item>xiaomi_user_feedback</item>
+		<item>xiaomi_video</item>
+		<item>xiaomi_video_call</item>
+		<item>xiaomi_voice_assistant</item>
+		<item>xiaomi_wallet</item>
+		<item>xiaomi_weather</item>
+		<item>xiaomi_weather_alt</item>
+		<item>xiaomi_yidian_news</item>
+		<item>xiaomi_youpin</item>
+		<item>xiaomiyidong</item>
 		<item>xiaoniu_diandong</item>
 		<item>xiaorichang</item>
 		<item>xiaoxizhixing</item>
 		<item>ximalayafm</item>
 		<item>ximalayating</item>
+		<item>xing__ye__yin__hang</item>
 		<item>xingse</item>
 		<item>xingzhe</item>
-		<item>xing__ye__yin__hang</item>
 		<item>xinpinget</item>
 		<item>xinternalsd</item>
 		<item>xinyue_vip</item>
@@ -2701,6 +2757,7 @@
 		<item>xuebajun</item>
 		<item>xueqiu</item>
 		<item>xuexi_cn</item>
+		<item>xun__fei__you__sheng</item>
 		<item>xunfei_input</item>
 		<item>xunfei_keyboard</item>
 		<item>xunlei</item>
@@ -2710,33 +2767,37 @@
 		<item>xyst</item>
 		<item>xyz_insurance</item>
 		<item>yandex_disk</item>
-		<item>yangqi</item>
 		<item>yang__guang__hui__sheng__huo</item>
+		<item>yangqi</item>
 		<item>yangshipin</item>
 		<item>yanxuan</item>
 		<item>yaokongjingling</item>
 		<item>ygmh</item>
+		<item>yi_live</item>
 		<item>yiciyuan</item>
 		<item>yidaoyongche</item>
 		<item>yidianzixun</item>
 		<item>yidianzixun_1</item>
 		<item>yidong_gps</item>
 		<item>yilan_matrix</item>
-		<item>yingtu</item>
+		<item>ying__xiong__lian__meng__shou__you</item>
 		<item>ying__yong__zhong__xin</item>
+		<item>yingtu</item>
 		<item>yinyuetai</item>
 		<item>yixi</item>
 		<item>yiyan</item>
 		<item>yizhifu</item>
-		<item>yi_live</item>
 		<item>ykjl</item>
 		<item>yogurt_iconpack</item>
 		<item>yoho_buy</item>
+		<item>you__dao__yun__bi__ji</item>
+		<item>you__xi__zhong__xin</item>
 		<item>youdao_dict</item>
 		<item>youdao_net_note</item>
 		<item>youku</item>
 		<item>youku_1</item>
 		<item>your_phone_companion</item>
+		<item>youtube</item>
 		<item>youtube_music</item>
 		<item>youtube_tv</item>
 		<item>youyaoqimanhua</item>
@@ -2748,7 +2809,6 @@
 		<item>yuedong_sport</item>
 		<item>yuelaiyuehao</item>
 		<item>yun__zhi__jia</item>
-		<item>youtube</item>
 		<item>yunduo_nighttools</item>
 		<item>yunduo_nighttools_1</item>
 		<item>yyets_movie</item>
@@ -2767,9 +2827,11 @@
 		<item>zenly</item>
 		<item>zero</item>
 		<item>zero_vpn</item>
+		<item>zhang__shang__chu__xing</item>
 		<item>zhangshangshenghuo</item>
 		<item>zhangyu_keyboard</item>
 		<item>zhanqi_tv</item>
+		<item>zhen__xin__wen</item>
 		<item>zhengdian_rili</item>
 		<item>zhiboba</item>
 		<item>zhifou</item>
@@ -2796,10 +2858,11 @@
 		<item>zlive_1</item>
 		<item>zol</item>
 		<item>zonghengxiaoshuo</item>
+		<item>zui___wen__jian__guan__li</item>
+		<item>zuimei_tianqi</item>
 		<item>zuimeishiguang</item>
 		<item>zuimeiyingyong</item>
 		<item>zuimeizipai</item>
-		<item>zuimei_tianqi</item>
 		<item>zuiworld</item>
 		<item>zuiyou</item>
 		<item>zuiyou_1</item>
