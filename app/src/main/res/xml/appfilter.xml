@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<!--	<item component="ComponentInfo{com.amazon.avod.thirdpartyclient/com.amazon.avod.thirdpartyclient.LauncherActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{md.obsidian/md.obsidian.MainActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.duozhuayu.dejavu/com.duozhuayu.dejavu.activity.SplashActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.marvel.unlimited/com.disney.bootstrap.activity.bootstrap.BootstrapActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.apple.atve.androidtv.appletv/com.apple.android.tv.MainActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.microsoft.copilot/com.microsoft.copilotn.MainActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.wb.goog.dcuniverse/com.dccomics.universe.activity.LaunchActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.cbs.app/com.paramount.android.pplus.features.splash.mobile.integration.SplashActivity}" drawable="sleep_as_android" />-->
+<!--	<item component="ComponentInfo{com.dmm.premium/com.dmm.premium.android.ui.MainActivity}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.subway.mobile.subwayapp03/com.subway.mobile.subwayapp03.ui.SplashActivity}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.qti.phone/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.google.android.overlay.modules.permissioncontroller.forframework/}" drawable="sleep_as_android" />-->
