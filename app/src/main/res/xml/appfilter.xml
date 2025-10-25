@@ -309,6 +309,10 @@
 	<item component="ComponentInfo{com.cashew.iconpack.lite/com.cashew.iconpack.lite.LiteIconActivity}" drawable="cyanogenmod_theme_chooser" />
 
 	<!--未定制图标-->
+	<!--7 Billion Humans/七十亿人类-->
+	<item component="ComponentInfo{com.tomorrowcorporation.sevenbillionhumans/com.tomorrowcorporation.GameActivity}" drawable="momobeidanci" />
+	<!--Human Resource Machine/人力资源机器-->
+	<item component="ComponentInfo{com.tomorrowcorporation.humanresourcemachine/com.tomorrowcorporation.humanresourcemachine.HRMActivity}" drawable="ddcat" />
 	<!--NextPlayer-->
 	<item component="ComponentInfo{dev.anilbeesetti.nextplayer/dev.anilbeesetti.nextplayer.MainActivity}" drawable="flyme_video" />
 	<!--Apple Claasic/Apple古典乐-->
@@ -594,6 +598,10 @@
 	<item component="ComponentInfo{com.github.metacubex.clash.meta/com.github.kr328.clash.MainActivityAlias}" drawable="clash_meta_for_android" />
 	<item component="ComponentInfo{com.github.metacubex.clash.meta/com.github.kr328.clash.MainActivity}" drawable="clash_meta_for_android"/>
 	<item component="ComponentInfo{com.github.kr328.clash/com.github.kr328.clash.MainActivity}" drawable="clash_for_android"/>
+	<!--京东-->
+	<item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.MainFrameActivity}" drawable="jd" />
+	<item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}" drawable="jd" />
+	<item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.MainActivity}" drawable="jd" />
 
 	<!--Google Wallet/Google钱包-->
 	<item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.wallet.WalletActivity}" drawable="google_pay" />
@@ -1892,8 +1900,6 @@
 	<item component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.WelcomeActivity}" drawable="jd_jirong"/>
 	<item component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.WelcomeActivity}" drawable="jd_jinrong" />
 	<item component="ComponentInfo{com.jf.lkrj/com.jf.lkrj.SplashActivity}" drawable="hsrj"/>
-	<item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}" drawable="jd" />
-	<item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.MainActivity}" drawable="jd" />
 	<item component="ComponentInfo{com.jingyao.easybike/com.jingyao.easybike.presentation.ui.activity.SplashActivity}" drawable="hellobike" />
 	<item component="ComponentInfo{com.jiongji.andriod.card/com.baicizhan.main.activity.LoadingPageActivity}" drawable="baicizhan" />
 	<item component="ComponentInfo{com.jiuwu/com.jiuwu.view.welcome.WelcomeActivity}" drawable="a_95fen"/>
