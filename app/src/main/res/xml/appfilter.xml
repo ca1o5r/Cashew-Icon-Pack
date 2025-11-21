@@ -310,9 +310,9 @@
 
 	<!--未定制图标-->
 	<!--7 Billion Humans/七十亿人类-->
-	<item component="ComponentInfo{com.tomorrowcorporation.sevenbillionhumans/com.tomorrowcorporation.GameActivity}" drawable="momobeidanci" />
+	<item component="ComponentInfo{com.tomorrowcorporation.sevenbillionhumans/com.tomorrowcorporation.GameActivity}" drawable="7_billion_humans" />
 	<!--Human Resource Machine/人力资源机器-->
-	<item component="ComponentInfo{com.tomorrowcorporation.humanresourcemachine/com.tomorrowcorporation.humanresourcemachine.HRMActivity}" drawable="ddcat" />
+	<item component="ComponentInfo{com.tomorrowcorporation.humanresourcemachine/com.tomorrowcorporation.humanresourcemachine.HRMActivity}" drawable="human_resource_machine" />
 	<!--NextPlayer-->
 	<item component="ComponentInfo{dev.anilbeesetti.nextplayer/dev.anilbeesetti.nextplayer.MainActivity}" drawable="flyme_video" />
 	<!--Apple Claasic/Apple古典乐-->
