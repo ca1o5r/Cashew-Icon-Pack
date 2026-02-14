@@ -260,6 +260,7 @@
 		<item drawable="yys" />
 		<item drawable="yyszs" />
 	<category title="All" />
+        <item drawable="7_billion_humans" />
 		<item drawable="a__li__yun__pan" />
 		<item drawable="a_1_1_oblatum_warning" />
 		<item drawable="a_123__yun__pan" />
@@ -1385,6 +1386,7 @@
 		<item drawable="huihuaweijian" />
 		<item drawable="hulu" />
 		<item drawable="huluxia_gametools" />
+        <item drawable="human_resource_machine" />
 		<item drawable="huochaihe" />
 		<item drawable="hupu" />
 		<item drawable="hupu_shihuo" />
