@@ -319,6 +319,10 @@
 	<item component="ComponentInfo{com.apple.android.music.classical/com.apple.android.music.classical.app.features.launcherscreen.ui.LauncherActivity}" drawable="xiaomi_music_alt" />
 	<!--Apple Music/Apple音乐-->
 	<item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="xiaomi_music" />
+	<!--Breezy Weather-->
+	<item component="ComponentInfo{org.breezyweather/org.breezyweather.ui.main.MainActivity}" drawable="geometric_weather" />
+	<!--Google Password Manager/Google 密码管理器-->
+	<item component="ComponentInfo{com.google.android.apps.credentialmanager/com.google.android.apps.credentialmanager.launcher.LauncherActivity}" drawable="google_authenticator" />
 	<!--OpenWeather-->
 	<item component="ComponentInfo{uk.co.openweather/uk.co.openweather.MainActivity}" drawable="weather" />
 	<item component="ComponentInfo{uk.co.openweather/uk.co.openweather.SplashActivity}" drawable="weather" />
