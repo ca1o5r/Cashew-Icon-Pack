@@ -310,9 +310,9 @@
 
 	<!--未定制图标-->
 	<!--Kodak Smart Frame/柯达智能相册-->
-	<item component="ComponentInfo{com.cloudhearing.digital.kodaksmartframe.android.mobile/com.cloudhearing.digital.kodaksmartframe.android.mobile.ui.StartActivity}" drawable="flyme_gallery" />
+	<item component="ComponentInfo{com.cloudhearing.digital.kodaksmartframe.android.mobile/com.cloudhearing.digital.kodaksmartframe.android.mobile.ui.StartActivity}" drawable="kodak" />
 	<!--Walmart/沃尔玛-->
-	<item component="ComponentInfo{cn.walmart.app/cn.walmart.app.SplashActivity}" drawable="flyme_appcenter" />
+	<item component="ComponentInfo{cn.walmart.app/cn.walmart.app.SplashActivity}" drawable="walmart" />
 	<!--7 Billion Humans/七十亿人类-->
 	<item component="ComponentInfo{com.tomorrowcorporation.sevenbillionhumans/com.tomorrowcorporation.GameActivity}" drawable="momobeidanci" />
 	<!--Human Resource Machine/人力资源机器-->
