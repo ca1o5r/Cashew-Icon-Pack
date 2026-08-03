@@ -47,7 +47,7 @@
 <!--    <item component="ComponentInfo{com.oplus.android.overlay.gmsconfig.common/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.android.systemui.overlay.fingerprint.anim.jslz/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.oneplus.filemanager/}" drawable="sleep_as_android" />-->
-<!--    <item component="ComponentInfo{io.github.a13e300.ksuwebui/io.github.a13e300.ksuwebui.MainActivity}" drawable="sleep_as_android" />-->
+    <item component="ComponentInfo{io.github.a13e300.ksuwebui/io.github.a13e300.ksuwebui.MainActivity}" drawable="miui_news" />
 <!--    <item component="ComponentInfo{com.android.wifi.resources.overlay.oplus/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.oplus.keyguard.clock.base/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.oplus.nrMode/}" drawable="sleep_as_android" />-->
@@ -61,7 +61,7 @@
 <!--    <item component="ComponentInfo{com.oplus.postmanservice/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.oplus.safecenter/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.android.systemui.oplus.res.overlay/}" drawable="sleep_as_android" />-->
-<!--    <item component="ComponentInfo{org.lsposed.manager/org.lsposed.manager.ui.activity.MainActivity}" drawable="sleep_as_android" />-->
+    <item component="ComponentInfo{org.lsposed.manager/org.lsposed.manager.ui.activity.MainActivity}" drawable="bughd" />
 <!--    <item component="ComponentInfo{com.fido.uafclient/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.qualcomm.qti.gpudrivers.canoe.api36/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.oplus.keyguard.personality.clocks/}" drawable="sleep_as_android" />-->
@@ -149,7 +149,7 @@
 <!--    <item component="ComponentInfo{android.frameworkres.overlay.display.product/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.google.android.apps.walletnfcrel/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.oplus.multiapp/}" drawable="sleep_as_android" />-->
-<!--    <item component="ComponentInfo{com.tsng.hidemyapplist/com.tsng.hidemyapplist.MainActivityLauncher}" drawable="sleep_as_android" />-->
+    <item component="ComponentInfo{com.tsng.hidemyapplist/com.tsng.hidemyapplist.MainActivityLauncher}" drawable="card_iconpack" />
 <!--    <item component="ComponentInfo{com.oplus.stdid/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.oplus.sense.netprediction/}" drawable="sleep_as_android" />-->
 <!--    <item component="ComponentInfo{com.oplus.securitypermission/}" drawable="sleep_as_android" />-->
