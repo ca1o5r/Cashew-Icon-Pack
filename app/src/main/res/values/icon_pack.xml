@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 	<string-array name="icons_preview">
-        <item>7_billion_humans</item>
+		<item>7_billion_humans</item>
 		<item>a__li__yun__pan</item>
 		<item>a_1_1_oblatum_warning</item>
 		<item>a_123__yun__pan</item>
@@ -1126,7 +1126,7 @@
 		<item>huihuaweijian</item>
 		<item>hulu</item>
 		<item>huluxia_gametools</item>
-        <item>human_resource_machine</item>
+		<item>human_resource_machine</item>
 		<item>huochaihe</item>
 		<item>hupu</item>
 		<item>hupu_shihuo</item>
@@ -2088,6 +2088,7 @@
 		<item>settings_3</item>
 		<item>settings_alt_pixel_blue</item>
 		<item>settings_editor</item>
+		<item>seven_billion_humans</item>
 		<item>sf_express</item>
 		<item>sfly</item>
 		<item>sgsol</item>
