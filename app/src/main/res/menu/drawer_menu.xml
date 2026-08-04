@@ -6,13 +6,9 @@
         android:orderInCategory="100">
         <item
             android:id="@+id/icons"
-            android:icon="@drawable/ic_icons"
+            android:icon="@drawable/ic_icons_preview"
             android:orderInCategory="200"
             android:title="@string/icons" />
-        <item
-            android:id="@+id/settings"
-            android:orderInCategory="1100"
-            android:title="@string/settings" />
     </group>
 
 </menu>

@@ -1,17 +1,17 @@
 apply plugin: 'com.android.application'
 apply plugin: 'org.jetbrains.kotlin.android'
 apply plugin: 'kotlin-parcelize'
-apply plugin: 'com.google.devtools.ksp'
+
+def keystorePropertiesFile = rootProject.file("keystore.properties")
+def keystoreProperties = new Properties()
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+}
 
 android {
 
     namespace MyApp.appId
     defaultConfig {
-        buildConfigField("String", "ONESIGNAL_APP_ID", "\"$OneSignal.appId\"")
-        manifestPlaceholders = [
-                onesignal_app_id               : OneSignal.appId,
-                onesignal_google_project_number: OneSignal.googleProjectNumber
-        ]
         applicationId MyApp.appId
         minSdkVersion Versions.minSdk
         compileSdk Versions.targetSdk
@@ -20,25 +20,29 @@ android {
         versionName MyApp.versionName
         setProperty("archivesBaseName", applicationId + "-" + versionName)
         vectorDrawables.useSupportLibrary = true
-        proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
+    }
 
-        ksp {
-            arg("room.schemaLocation", "$projectDir/schemas")
-            arg("room.incremental", "true")
-            arg("room.expandProjection", "true")
+    if (keystorePropertiesFile.exists()) {
+        signingConfigs {
+            release {
+                storeFile file(keystoreProperties['storeFile'])
+                storePassword keystoreProperties['storePassword']
+                keyAlias keystoreProperties['keyAlias']
+                keyPassword keystoreProperties['keyPassword']
+            }
         }
     }
 
     buildTypes {
-        buildTypes.each {
-            it.buildConfigField("String", "ONESIGNAL_APP_ID", "\"$OneSignal.appId\"")
-        }
         release {
             debuggable false
             zipAlignEnabled true
             minifyEnabled true
             shrinkResources false
             proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
+            if (keystorePropertiesFile.exists()) {
+                signingConfig signingConfigs.release
+            }
         }
     }
 
@@ -80,6 +84,4 @@ dependencies {
     implementation(Libs.blueprint) {
         transitive = true
     }
-    // TODO: Remove comment marks to enable
-    // implementation Libs.oneSignal
 }

@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<version>1</version>
-	<category title="New and Update" />
+	<category title="All" />
 		<item drawable="a_139__you__xiang" />
 		<item drawable="app__fen__xiang" />
 		<item drawable="brave__liu__lan__qi" />
@@ -19,7 +19,6 @@
 		<item drawable="xing__ye__yin__hang" />
 		<item drawable="yang__guang__hui__sheng__huo" />
 		<item drawable="ying__yong__zhong__xin" />
-	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
 		<item drawable="folder_google" />
 		<item drawable="folder_payment" />
@@ -27,7 +26,6 @@
 		<item drawable="folder_system" />
 		<item drawable="drawer" />
 		<item drawable="drawer_1" />
-	<category title="Basic" />
 		<item drawable="browser" />
 		<item drawable="calculator" />
 		<item drawable="calendar_dynamic" />
@@ -45,7 +43,6 @@
 		<item drawable="settings" />
 		<item drawable="sim_toolkit" />
 		<item drawable="weather" />
-	<category title="Google" />
 		<item drawable="cardboard" />
 		<item drawable="cardboard_camera" />
 		<item drawable="chrome" />
@@ -93,7 +90,6 @@
 		<item drawable="snapseed" />
 		<item drawable="snapseed_1" />
 		<item drawable="youtube" />
-	<category title="Oneplus" />
 		<item drawable="oneplus_browser" />
 		<item drawable="oneplus_camera" />
 		<item drawable="oneplus_card" />
@@ -105,7 +101,6 @@
 		<item drawable="oneplus_opbugreport" />
 		<item drawable="oneplus_soundrecorder" />
 		<item drawable="oneplus_switch" />
-	<category title="百度" />
 		<item drawable="baidu" />
 		<item drawable="baidu_browser" />
 		<item drawable="baidu_homework" />
@@ -116,7 +111,6 @@
 		<item drawable="baidu_read" />
 		<item drawable="baidu_tieba" />
 		<item drawable="eswenjian" />
-	<category title="腾讯" />
 		<item drawable="qcloud" />
 		<item drawable="qq" />
 		<item drawable="qq_ac" />
@@ -132,14 +126,12 @@
 		<item drawable="tim" />
 		<item drawable="weixin" />
 		<item drawable="weixin_1" />
-	<category title="Xperia" />
 		<item drawable="sony_ar_effect" />
 		<item drawable="sony_audio_recorder" />
 		<item drawable="sony_sketch" />
 		<item drawable="sony_support" />
 		<item drawable="sony_threed_creator" />
 		<item drawable="sony_what_is_new" />
-	<category title="MIUI" />
 		<item drawable="manyou" />
 		<item drawable="mi_router" />
 		<item drawable="miui_compass" />
@@ -155,7 +147,6 @@
 		<item drawable="xiaomi_youpin" />
 		<item drawable="xiaomiyidong" />
 		<item drawable="xmhealth" />
-	<category title="EMUI" />
 		<item drawable="emui_accountagent" />
 		<item drawable="emui_bone" />
 		<item drawable="emui_findmyphone" />
@@ -182,7 +173,6 @@
 		<item drawable="emui_youku" />
 		<item drawable="huawei_fans" />
 		<item drawable="vmall" />
-	<category title="Nubia" />
 		<item drawable="nubia_app_fenshen" />
 		<item drawable="nubia_bbs" />
 		<item drawable="nubia_clean" />
@@ -199,13 +189,11 @@
 		<item drawable="nubia_wfd" />
 		<item drawable="nubia_yaokongqi" />
 		<item drawable="nubia_zbiglauncher" />
-	<category title="Smartisan" />
 		<item drawable="smartisan_bbs" />
 		<item drawable="smartisan_drivingmode" />
 		<item drawable="smartisan_idearpills" />
 		<item drawable="smartisan_notes" />
 		<item drawable="smartisanos_mover" />
-	<category title="OPPO" />
 		<item drawable="oppo_app_store" />
 		<item drawable="oppo_compass" />
 		<item drawable="oppo_data_supermarket" />
@@ -217,9 +205,7 @@
 		<item drawable="oppo_security" />
 		<item drawable="oppo_sound_recorder" />
 		<item drawable="oppo_tips" />
-	<category title="BlackBerry" />
 		<item drawable="blackberry_launcher" />
-	<category title="Games" />
 		<item drawable="arcaea" />
 		<item drawable="benghuai2" />
 		<item drawable="benghuai3" />
@@ -259,7 +245,6 @@
 		<item drawable="xmqz" />
 		<item drawable="yys" />
 		<item drawable="yyszs" />
-	<category title="All" />
 		<item drawable="7_billion_humans" />
 		<item drawable="a__li__yun__pan" />
 		<item drawable="a_1_1_oblatum_warning" />
@@ -3139,7 +3124,6 @@
 		<item drawable="zuzhiyunxing" />
 		<item drawable="zzenglish" />
 		<item drawable="zzw" />
-	<category title="Dynamic icon" />
 		<item dynamic-drawable="clock" component="com.android.deskclock/com.android.deskclock.DeskClock" xml="clock" />
 		<item dynamic-drawable="clock" component="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock" xml="clock" />
 		<item dynamic-drawable="google_calendar" component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity" xml="google_calendar" />

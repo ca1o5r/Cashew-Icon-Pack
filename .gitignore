@@ -81,7 +81,6 @@ proguard/
 .idea/libraries
 #gradle.properties
 *.iml
-=======
 .DS_Store
 /captures
 /projectFilesBackup
@@ -94,3 +93,8 @@ app/release
 
 gen-key/
 
+# Keystore credentials
+keystore.properties
+
+# Qoder IDE
+.qoder/

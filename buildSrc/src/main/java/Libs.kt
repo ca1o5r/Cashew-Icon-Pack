@@ -7,6 +7,4 @@ object Libs {
     // Blueprint
     const val blueprint = "dev.jahir:Blueprint:${Versions.blueprint}@aar"
 
-    // OneSignal
-    const val oneSignal = "com.onesignal:OneSignal:${Versions.oneSignal}"
 }
