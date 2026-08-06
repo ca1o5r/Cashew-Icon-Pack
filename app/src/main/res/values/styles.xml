@@ -7,6 +7,21 @@
     <style name="MyApp" />
 
     <!--
+        Transparent trampoline theme for MainActivity.
+        The activity is invisible — it only loads icon data and
+        launches IconsCategoryActivity, then finishes itself.
+    -->
+    <style name="MyApp.Transparent" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+
+    <!--
         Splash screen theme follow device's theme
     -->
     <style name="MyApp.SplashScreen" parent="Frames.SplashScreen">

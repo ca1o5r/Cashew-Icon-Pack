@@ -17,6 +17,7 @@
         <activity
             android:name="com.cashew.iconpack.MainActivity"
             android:label="@string/app_name"
+            android:theme="@style/MyApp.Transparent"
             android:exported="true">
 
             <!-- Chronus 图标包 -->
