@@ -17,7 +17,7 @@
         <activity
             android:name="com.cashew.iconpack.MainActivity"
             android:label="@string/app_name"
-            android:theme="@style/MyApp.Transparent"
+            android:theme="@style/MyApp.SplashScreen"
             android:exported="true">
 
             <!-- Chronus 图标包 -->
@@ -250,6 +250,12 @@
                 <category android:name="android.intent.category.INFO" />
             </intent-filter>
         </activity>
+
+        <!-- Override Blueprint's IconsCategoryActivity theme to remove toolbar -->
+        <activity
+            android:name="dev.jahir.blueprint.ui.activities.IconsCategoryActivity"
+            android:theme="@style/MyApp.IconsGrid"
+            tools:replace="android:theme" />
 
         <!-- DO NOT REMOVE !!! -->
         <!-- Required for files access !!! -->

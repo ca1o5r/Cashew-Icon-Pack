@@ -7,21 +7,6 @@
     <style name="MyApp" />
 
     <!--
-        Transparent trampoline theme for MainActivity.
-        The activity is invisible — it only loads icon data and
-        launches IconsCategoryActivity, then finishes itself.
-    -->
-    <style name="MyApp.Transparent" parent="Theme.MaterialComponents.NoActionBar">
-        <item name="android:windowIsTranslucent">true</item>
-        <item name="android:windowBackground">@android:color/transparent</item>
-        <item name="android:windowContentOverlay">@null</item>
-        <item name="android:windowNoTitle">true</item>
-        <item name="android:windowActionBar">false</item>
-        <item name="android:backgroundDimEnabled">false</item>
-        <item name="android:windowAnimationStyle">@null</item>
-    </style>
-
-    <!--
         Splash screen theme follow device's theme
     -->
     <style name="MyApp.SplashScreen" parent="Frames.SplashScreen">
@@ -37,6 +22,12 @@
 
     <!-- AMOLED theme uses Material You AMOLED as base -->
     <style name="MyApp.Default.Amoled" parent="Blueprint.Default.Amoled.MaterialYou">
+        <item name="customFontBold">@font/manrope_bold_fam</item>
+        <item name="customFontNormal">@font/manrope_normal_fam</item>
+    </style>
+
+    <!-- Theme for IconsCategoryActivity — no toolbar, clean icon grid -->
+    <style name="MyApp.IconsGrid" parent="Theme.MaterialComponents.NoActionBar">
         <item name="customFontBold">@font/manrope_bold_fam</item>
         <item name="customFontNormal">@font/manrope_normal_fam</item>
     </style>
