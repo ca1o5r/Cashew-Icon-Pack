@@ -251,9 +251,9 @@
             </intent-filter>
         </activity>
 
-        <!-- Override Blueprint's IconsCategoryActivity theme to remove toolbar -->
+        <!-- Custom icon grid activity with names, search, and sort -->
         <activity
-            android:name="dev.jahir.blueprint.ui.activities.IconsCategoryActivity"
+            android:name="com.cashew.iconpack.AllIconsActivity"
             android:theme="@style/MyApp.IconsGrid" />
 
         <!-- DO NOT REMOVE !!! -->

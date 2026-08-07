@@ -2,16 +2,14 @@ package com.cashew.iconpack
 
 import android.content.Intent
 import androidx.activity.ComponentActivity
-import dev.jahir.blueprint.ui.activities.IconsCategoryActivity
+import dev.jahir.blueprint.data.viewmodels.IconsCategoriesViewModel
 
 /**
  * Splash/trampoline activity.
  *
  * Shows the branded splash screen while icon data loads,
- * then launches [IconsCategoryActivity] with the first category
- * and finishes itself. The user sees: splash → full icon grid.
- *
- * Toolbar hiding is handled by [MyApplication]'s lifecycle callbacks.
+ * then launches [AllIconsActivity] with the icon grid
+ * and finishes itself.
  */
 class MainActivity : ComponentActivity() {
 
@@ -19,17 +17,12 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
 
         val vm = androidx.lifecycle.ViewModelProvider(this)
-            .get(dev.jahir.blueprint.data.viewmodels.IconsCategoriesViewModel::class.java)
+            .get(IconsCategoriesViewModel::class.java)
         vm.loadIconsCategories()
         vm.observe(this) { categories ->
             if (categories.isNotEmpty() && !hasLaunched) {
                 hasLaunched = true
-                startActivity(
-                    Intent(this, IconsCategoryActivity::class.java).apply {
-                        putExtra("category", categories[0])
-                        putExtra("picker_key", 0)
-                    }
-                )
+                startActivity(Intent(this, AllIconsActivity::class.java))
                 finish()
             }
         }
