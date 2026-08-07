@@ -254,8 +254,7 @@
         <!-- Override Blueprint's IconsCategoryActivity theme to remove toolbar -->
         <activity
             android:name="dev.jahir.blueprint.ui.activities.IconsCategoryActivity"
-            android:theme="@style/MyApp.IconsGrid"
-            tools:replace="android:theme" />
+            android:theme="@style/MyApp.IconsGrid" />
 
         <!-- DO NOT REMOVE !!! -->
         <!-- Required for files access !!! -->
