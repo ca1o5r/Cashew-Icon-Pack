@@ -18,6 +18,6 @@
         android:layout_height="wrap_content"
         android:ellipsize="end"
         android:gravity="center"
-        android:maxLines="1"
+        android:maxLines="2"
         android:textSize="10sp" />
 </LinearLayout>

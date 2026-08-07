@@ -97,9 +97,7 @@ class AllIconsActivity : AppCompatActivity() {
             val icon = items[position]
             holder.image.setImageResource(icon.resId)
             // Convert snake_case resource name to readable display name
-            holder.name.text = icon.name
-                .replace('_', ' ')
-                .replaceFirstChar { it.uppercase() }
+            holder.name.text = formatIconName(icon.name)
         }
 
         override fun getItemCount(): Int = items.size
@@ -109,4 +107,20 @@ class AllIconsActivity : AppCompatActivity() {
             val name: TextView = view.findViewById(R.id.icon_name)
         }
     }
+}
+
+/**
+ * Convert resource name to a readable display name.
+ * Handles: "a_1_1_oblatum_warning" -> "A 1 1 Oblatum Warning"
+ *          "a__li__yun__pan" -> "A Li Yun Pan"
+ *          "a360_clean_master" -> "A360 Clean Master"
+ *          "google_maps" -> "Google Maps"
+ */
+private fun formatIconName(name: String): String {
+    return name
+        .split(Regex("_+"))
+        .filter { it.isNotEmpty() }
+        .joinToString(" ") { word ->
+            word.replaceFirstChar { it.uppercase() }
+        }
 }
