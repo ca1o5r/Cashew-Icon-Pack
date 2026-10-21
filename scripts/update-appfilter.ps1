@@ -1,8 +1,10 @@
 # update-appfilter.ps1
 # PowerShell 版本的应用过滤器更新脚本
+# 用法: .\scripts\update-appfilter.ps1 [-SrcPath <项目根目录>]
 
 param (
-    [string]$SrcPath
+    # 默认取脚本所在目录的上一级（即项目根目录）
+    [string]$SrcPath = (Split-Path -Path $PSScriptRoot -Parent)
 )
 
 $Src_APP_Filter_XML_File_Name = Join-Path -Path $SrcPath -ChildPath "app\src\main\res\xml\appfilter.xml"
@@ -13,18 +15,52 @@ if (-not (Test-Path -Path $Src_APP_Filter_XML_File_Name -PathType Leaf)) {
     exit 1
 }
 
-# 设置 ADB 路径（Windows 默认路径）
-$ADB_Path = "adb.exe"
-if (-not (Get-Command $ADB_Path -ErrorAction SilentlyContinue)) {
-    $ADB_Path = Join-Path -Path $env:LOCALAPPDATA -ChildPath "Android\Sdk\platform-tools\adb.exe"
-    if (-not (Test-Path -Path $ADB_Path)) {
-        Write-Error "ADB not found. Please ensure Android SDK is installed and adb is in your PATH"
-        exit 1
+# 解析 ADB 路径：PATH → local.properties 的 sdk.dir → ANDROID_HOME/ANDROID_SDK_ROOT → 默认安装路径
+function Resolve-AdbPath {
+    param ([string]$ProjectRoot)
+
+    $FromPath = Get-Command "adb.exe" -ErrorAction SilentlyContinue
+    if ($FromPath) { return $FromPath.Source }
+
+    $Candidates = @()
+
+    $LocalProperties = Join-Path -Path $ProjectRoot -ChildPath "local.properties"
+    if (Test-Path -Path $LocalProperties -PathType Leaf) {
+        $SdkLine = Select-String -Path $LocalProperties -Pattern '^\s*sdk\.dir\s*=' | Select-Object -First 1
+        if ($SdkLine) {
+            # .properties 转义还原：C\:\\Android-SDK -> C:\Android-SDK
+            $SdkDir = ($SdkLine.Line -replace '^\s*sdk\.dir\s*=\s*', '').Trim().Replace('\:', ':').Replace('\\', '\')
+            if ($SdkDir) { $Candidates += (Join-Path -Path $SdkDir -ChildPath "platform-tools\adb.exe") }
+        }
     }
+
+    foreach ($EnvSdk in @($env:ANDROID_HOME, $env:ANDROID_SDK_ROOT)) {
+        if ($EnvSdk) { $Candidates += (Join-Path -Path $EnvSdk -ChildPath "platform-tools\adb.exe") }
+    }
+
+    $Candidates += (Join-Path -Path $env:LOCALAPPDATA -ChildPath "Android\Sdk\platform-tools\adb.exe")
+
+    foreach ($Candidate in $Candidates) {
+        if ($Candidate -and (Test-Path -Path $Candidate -PathType Leaf)) { return $Candidate }
+    }
+
+    return $null
 }
+
+$ADB_Path = Resolve-AdbPath -ProjectRoot $SrcPath
+if (-not $ADB_Path) {
+    Write-Error "ADB not found. Checked PATH, '$SrcPath\local.properties' (sdk.dir), ANDROID_HOME, ANDROID_SDK_ROOT and %LOCALAPPDATA%\Android\Sdk\platform-tools."
+    exit 1
+}
+Write-Host "Using ADB: $ADB_Path"
 
 # 获取已安装包列表
 $Packages = & $ADB_Path shell pm list packages
+if (-not $Packages) {
+    Write-Error "No device/emulator connected, or 'adb shell pm list packages' returned nothing."
+    exit 1
+}
+Write-Host "Installed packages: $($Packages.Count)"
 
 # 查找 XML 文件的起始行
 $APP_Filter_XML_Begin_Line_Number = (Select-String -Path $Src_APP_Filter_XML_File_Name -Pattern "<resources>" | Select-Object -First 1).LineNumber
@@ -33,9 +69,17 @@ $APP_Filter_XML_Begin_Line_Number = (Select-String -Path $Src_APP_Filter_XML_Fil
 foreach ($Line in $Packages) {
     $Package_Name = $Line.Split(":")[1]
     $Launch_Activity_Output = & $ADB_Path shell -n cmd package resolve-activity --brief $Package_Name
-    $Launch_Activity = $Launch_Activity_Output | Select-Object -Last 1 | ForEach-Object { $_.Split("/")[1..($_.Length)] -join "/" }
-    
-    if ($Launch_Activity -ne "No activity found") {
+    $Launch_Activity_Raw = ($Launch_Activity_Output | Select-Object -Last 1)
+    if ($Launch_Activity_Raw) { $Launch_Activity_Raw = $Launch_Activity_Raw.Trim() }
+
+    # 无默认 Activity（输出为 "No activity found"）时跳过，避免写入 ComponentInfo{pkg/} 这类空组件
+    if ([string]::IsNullOrWhiteSpace($Launch_Activity_Raw) -or $Launch_Activity_Raw -eq "No activity found" -or -not $Launch_Activity_Raw.Contains("/")) {
+        continue
+    }
+
+    $Launch_Activity = $Launch_Activity_Raw.Substring($Launch_Activity_Raw.IndexOf("/") + 1)
+
+    if ($Launch_Activity) {
         # 检查简单组件名
         $APP_Filter_XML_Simple_Line_Number = (Select-String -Path $Src_APP_Filter_XML_File_Name -Pattern "<item component=`"ComponentInfo{$Package_Name/$Launch_Activity}`"" | Select-Object -First 1).LineNumber
 
