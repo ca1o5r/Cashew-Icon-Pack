@@ -523,6 +523,13 @@
 	<item component="ComponentInfo{org.breezyweather/org.breezyweather.ui.main.MainActivity}" drawable="geometric_weather" />
 	<!--Google Password Manager/Google 密码管理器-->
 	<item component="ComponentInfo{com.google.android.apps.credentialmanager/com.google.android.apps.credentialmanager.launcher.LauncherActivity}" drawable="google_authenticator" />
+	<!--Google Authenticator/Google 身份验证器-->
+	<item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator2.main.MainActivity}" drawable="authenticator" />
+	<item component="ComponentInfo{com.google.android.apps.authenticator2/.main.MainActivity}" drawable="authenticator" />
+	<item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}" drawable="authenticator" />
+	<!--Photon Camera/光子相机-->
+	<item component="ComponentInfo{com.hinnka.mycamera/com.hinnka.mycamera.MainActivity}" drawable="camera" />
+	<item component="ComponentInfo{com.hinnka.mycamera/.MainActivity}" drawable="camera" />
 	<!--OpenWeather-->
 	<item component="ComponentInfo{uk.co.openweather/uk.co.openweather.MainActivity}" drawable="weather" />
 	<item component="ComponentInfo{uk.co.openweather/uk.co.openweather.SplashActivity}" drawable="weather" />
