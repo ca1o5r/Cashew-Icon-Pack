@@ -530,6 +530,8 @@
 	<!--Photon Camera/光子相机-->
 	<item component="ComponentInfo{com.hinnka.mycamera/com.hinnka.mycamera.MainActivity}" drawable="camera" />
 	<item component="ComponentInfo{com.hinnka.mycamera/.MainActivity}" drawable="camera" />
+	<!--Duck Detector-->
+	<item component="ComponentInfo{com.eltavine.duckdetector/android.app.NativeActivity}" drawable="duckduckgo" />
 	<!--OpenWeather-->
 	<item component="ComponentInfo{uk.co.openweather/uk.co.openweather.MainActivity}" drawable="weather" />
 	<item component="ComponentInfo{uk.co.openweather/uk.co.openweather.SplashActivity}" drawable="weather" />
