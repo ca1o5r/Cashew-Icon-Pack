@@ -3013,6 +3013,12 @@
 	<item component="ComponentInfo{info.muge.appshare.activities.LaunchActivity}" drawable="app__fen__xiang"/>
 	<item component="ComponentInfo{info.muge.appshare.launcher3}" drawable="app__fen__xiang"/>
 	<item component="ComponentInfo{info.muge.appshare.launcher1}" drawable="app__fen__xiang"/>
+	<!--Disney Resort/上海迪士尼度假区-->
+	<item component="ComponentInfo{com.disney.shanghaidisneyland_goo/com.disney.wdpro.park.activities.SplashActivity}" drawable="baidu_travel" />
+	<!--澎湃新闻-->
+	<item component="ComponentInfo{com.wondertek.paper/cn.thepaper.paper.ui.splash.welcome.LaunchActivity}" drawable="shanbay_news" />
+	<!--Lingee-->
+	<item component="ComponentInfo{com.kingdee.lingee/com.kingdee.lingee.StartActivity}" drawable="cortana" />
 
 
 	<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
