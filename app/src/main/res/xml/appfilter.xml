@@ -3019,6 +3019,18 @@
 	<item component="ComponentInfo{com.wondertek.paper/cn.thepaper.paper.ui.splash.welcome.LaunchActivity}" drawable="shanbay_news" />
 	<!--Lingee-->
 	<item component="ComponentInfo{com.kingdee.lingee/com.kingdee.lingee.StartActivity}" drawable="cortana" />
+	<!--China Southern Airlines/中国南方航空-->
+	<item component="ComponentInfo{com.csair.mbp/com.csair.mbp.launcher.WelcomeActivity}" drawable="xiaomi_roaming" />
+	<!--Spring Airlines/春秋航空-->
+	<item component="ComponentInfo{com.china3s.android/com.china3s.android.home.view.Main}" drawable="oppo_oroaming" />
+	<!--Tongcheng Travel/同程旅行-->
+	<item component="ComponentInfo{com.tongcheng.android/com.tongcheng.android.LoadingActivity}" drawable="tongcheng" />
+	<!--Sichuan Airlines/四川航空-->
+	<item component="ComponentInfo{com.bw30.zsch/com.bw.zsch.alisDef}" drawable="manyou" />
+	<!--Pizza Hut/必胜客-->
+	<item component="ComponentInfo{com.yumc.phsuperapp/com.yumc.phsuperapp.DefaultAlias}" drawable="pizzahut" />
+	<!--Burger King China/汉堡王中国-->
+	<item component="ComponentInfo{cn.atpchina.mobileapp/io.dcloud.PandoraEntry}" drawable="burgerking" />
 
 
 	<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
