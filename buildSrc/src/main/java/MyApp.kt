@@ -2,6 +2,6 @@
 
 object MyApp {
     const val appId = "com.cashew.iconpack"
-    const val version = 287
-    const val versionName = "3.8.5"
+    const val version = 288
+    const val versionName = "3.8.6"
 }

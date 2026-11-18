@@ -3031,6 +3031,8 @@
 	<item component="ComponentInfo{com.yumc.phsuperapp/com.yumc.phsuperapp.DefaultAlias}" drawable="pizzahut" />
 	<!--Burger King China/汉堡王中国-->
 	<item component="ComponentInfo{cn.atpchina.mobileapp/io.dcloud.PandoraEntry}" drawable="burgerking" />
+	<!--识典古籍-->
+	<item component="ComponentInfo{com.shidianguji.android/com.shidianguji.android.home.SplashActivity}" drawable="seekbooks" />
 
 
 	<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
